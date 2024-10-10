@@ -13,27 +13,27 @@
   * [ComLAM的数据、训练和评估](#ComLAM的数据、训练和评估)
     * [LAM的发展阶段](#LAM的发展阶段)
     * [大模型的通信数据集](#大模型的通信数据集)
-      * [通用数据集（Common Crawl数据集、Pile数据集、Dolma数据、RedPajama-Data数据集）](#通用数据集)
-      * [通信专用数据集（通过从通用数据集Common Crawl数据集和Redpajama数据集中提取与通信相关的内容来构成通信专用数据集）](#1.2.2.2)
-      * [用于预训练的通信数据集（TSpec-LLM数据集、OpenTelecom数据集、TeleQnA数据集)](#1.2.2.3)
-      * [用于微调的通信数据集（TelecomInstruct数据集、符合3GPP标准的CSI数据集）](#1.2.2.4)
-      * [用于对齐的通信数据集（TelecomAlign数据集）](#1.2.2.5)
-    * [ComLAM的预训练](#1.2.3)
-      * [通用数据集上的预训练（无监督学习、自监督学习、多任务学习）](#1.2.3.1)
-      * [专用数据集上的持续预训练（通信领域的持续预训练）](#1.2.3.2)
-      * [预训练优化策略（分布式训练、学习率调度、梯度剪裁）](#1.2.3.3)
-    * [ComLAM的微调（ComLAM微调技术：电信指令微调；大模型的微调技术：LoRA、Adapters、BitFit、Prefix Tuning等）](#1.2.4)
-    * [ComLAM的对齐（RLHF、RLAIF、PPO、DPO等大模型对齐微调技术）](#1.2.5)
-    * [ComLAM的评估（）](#1.2.6)
-  * [ComLAM的关键架构、分类和优化方法](#1.3)
-    * [大模型的关键架构（Transformer、变分自编码器（VAE）、扩散模型以及Mamba）](#1.3.1)
-    * [大模型分类及其在通信中的应用](#1.3.2)
-      * [大语言模型LLM（GPT 系列、Gemma 系列、LLaMA 系列）](#1.3.2.1)
-      * [大视觉模型VLM（SAM 系列、DINO 系列、Stable Diffusion系列）](#1.3.2.2)
-      * [视觉语言模型VLM（ LLaVA、Qwen-VL 系列、Mini-GPT4）](#1.3.2.3)
-      * [多模态大模型（CoDi 系列、Meta-Transformer、ImageBind）](#1.3.2.4)
-      * [世界模型（Sora、JEPA、Vista）](#1.3.2.5)
-      * [轻量级大模型（TinyLlama、MobileVLM 、Mini-Gemini）](#1.3.2.6)
+      * [通用数据集](#通用数据集)
+      * [通信专用数据集（](#通信专用数据集)
+      * [用于预训练的通信数据集](#用于预训练的通信数据集)
+      * [用于微调的通信数据集](#用于微调的通信数据集)
+      * [用于对齐的通信数据集](#用于对齐的通信数据集)
+    * [ComLAM的预训练](#ComLAM的预训练)
+      * [通用数据集上的预训练（无监督学习、自监督学习、多任务学习）](#通用数据集上的预训练)
+      * [专用数据集上的持续预训练（通信领域的持续预训练）](#专用数据集上的持续预训练)
+      * [预训练优化策略（分布式训练、学习率调度、梯度剪裁）](#预训练优化策略)
+    * [ComLAM的微调（ComLAM微调技术：电信指令微调；大模型的微调技术：LoRA、Adapters、BitFit、Prefix Tuning等）](#ComLAM的微调)
+    * [ComLAM的对齐（RLHF、RLAIF、PPO、DPO等大模型对齐微调技术）](#ComLAM的对齐)
+    * [ComLAM的评估（）](#ComLAM的评估)
+  * [ComLAM的关键架构、分类和优化方法](#ComLAM的关键架构、分类和优化方法)
+    * [大模型的关键架构（Transformer、变分自编码器（VAE）、扩散模型以及Mamba）](#大模型的关键架构)
+    * [大模型分类及其在通信中的应用](#大模型分类及其在通信中的应用)
+      * [大语言模型LLM（GPT 系列、Gemma 系列、LLaMA 系列）](#大语言模型LLM)
+      * [大视觉模型VLM（SAM 系列、DINO 系列、Stable Diffusion系列）](#大视觉模型VLM)
+      * [视觉语言模型VLM（ LLaVA、Qwen-VL 系列、Mini-GPT4）](#视觉语言模型VLM)
+      * [多模态大模型（CoDi 系列、Meta-Transformer、ImageBind）](#多模态大模型)
+      * [世界模型（Sora、JEPA、Vista）](#世界模型)
+      * [轻量级大模型（TinyLlama、MobileVLM 、Mini-Gemini）](#轻量级大模型)
     * [大模型的优化技术](#1.3.3)
       * [In-context learning(ICL)](#1.3.3.1)
       * [XoT](#1.3.3.2)
@@ -94,6 +94,18 @@
 #### 用于对齐的通信数据集
 （TelecomAlign数据集）
 
+### ComLAM的预训练
+#### 通用数据集上的预训练
+（无监督学习、自监督学习、多任务学习）
+#### 专用数据集上的持续预训练
+（通信领域的持续预训练）
+#### 预训练优化策略
+（分布式训练、学习率调度、梯度剪裁）
+### ComLAM的微调
+（ComLAM微调技术：电信指令微调；大模型的微调技术：LoRA、Adapters、BitFit、Prefix Tuning等）
+### ComLAM的对齐
+（RLHF、RLAIF、PPO、DPO等大模型对齐微调技术）
+### ComLAM的评估
 
 
 
