@@ -14,7 +14,7 @@
     * [LAM的发展阶段](#LAM的发展阶段)
     * [大模型的通信数据集](#大模型的通信数据集)
       * [通用数据集](#通用数据集)
-      * [通信专用数据集（](#通信专用数据集)
+      * [通信专用数据集](#通信专用数据集)
       * [用于预训练的通信数据集](#用于预训练的通信数据集)
       * [用于微调的通信数据集](#用于微调的通信数据集)
       * [用于对齐的通信数据集](#用于对齐的通信数据集)
@@ -109,14 +109,23 @@
 
 
 ## ComLAM的关键架构、分类和优化方法
-### 大模型的关键架构（Transformer、变分自编码器（VAE）、扩散模型以及Mamba）
+### 大模型的关键架构
+（Transformer、变分自编码器（VAE）、扩散模型以及Mamba）
 ### 大模型分类及其在通信中的应用
-#### 大语言模型LLM（GPT 系列、Gemma 系列、LLaMA 系列）
-#### 大视觉模型VLM（SAM 系列、DINO 系列、Stable Diffusion系列）
-#### 视觉语言模型VLM（ LLaVA、Qwen-VL 系列、Mini-GPT4）
-#### 多模态大模型（CoDi 系列、Meta-Transformer、ImageBind）
-#### 世界模型（Sora、JEPA、Vista）
-#### 轻量级大模型（TinyLlama、MobileVLM 、Mini-Gemini）
+#### 大语言模型LLM
+（GPT 系列、Gemma 系列、LLaMA 系列）
+#### 大视觉模型VLM
+（SAM 系列、DINO 系列、Stable Diffusion系列）
+#### 视觉语言模型VLM
+（ LLaVA、Qwen-VL 系列、Mini-GPT4）
+#### 多模态大模型
+（CoDi 系列、Meta-Transformer、ImageBind）
+#### 世界模型
+（Sora、JEPA、Vista）
+#### 轻量级大模型
+（TinyLlama、MobileVLM 、Mini-Gemini）
+
+
 ### 大模型的优化技术
 #### In-context learning(ICL)
 #### XoT
