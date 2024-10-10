@@ -19,10 +19,10 @@
       * [用于微调的通信数据集](#用于微调的通信数据集)
       * [用于对齐的通信数据集](#用于对齐的通信数据集)
     * [ComLAM的预训练](#ComLAM的预训练)
-      * [通用数据集上的预训练（无监督学习、自监督学习、多任务学习）](#通用数据集上的预训练)
-      * [专用数据集上的持续预训练（通信领域的持续预训练）](#专用数据集上的持续预训练)
-      * [预训练优化策略（分布式训练、学习率调度、梯度剪裁）](#预训练优化策略)
-    * [ComLAM的微调（ComLAM微调技术：电信指令微调；大模型的微调技术：LoRA、Adapters、BitFit、Prefix Tuning等）](#ComLAM的微调)
+      * [通用数据集上的预训练](#通用数据集上的预训练)
+      * [专用数据集上的持续预训练）](#专用数据集上的持续预训练)
+      * [预训练优化策略](#预训练优化策略)
+    * [ComLAM的微调](#ComLAM的微调)
     * [ComLAM的对齐（RLHF、RLAIF、PPO、DPO等大模型对齐微调技术）](#ComLAM的对齐)
     * [ComLAM的评估（）](#ComLAM的评估)
   * [ComLAM的关键架构、分类和优化方法](#ComLAM的关键架构、分类和优化方法)
@@ -81,15 +81,15 @@
 ### LAM的发展阶段
 ### 大模型的通信数据集
 #### 通用数据集
-1、Common Crawl数据集[链接](http://commoncrawl.org/the-data/get-started/)  
-2、Pile数据集[链接](https://github.com/EleutherAI/the-pile)  
-3、Dolma数据[链接](https://huggingface.co/datasets/allenai/dolma)  
-4、RedPajama-Data数据集[链接](https://github.com/togethercomputer/RedPajama-Data)  
+1、Common Crawl数据集[[链接]](http://commoncrawl.org/the-data/get-started/)  
+2、Pile数据集[[链接]](https://github.com/EleutherAI/the-pile)  
+3、Dolma数据[[链接]](https://huggingface.co/datasets/allenai/dolma)  
+4、RedPajama-Data数据集[[链接]](https://github.com/togethercomputer/RedPajama-Data)  
 #### 通信专用数据集
 （通过从通用数据集Common Crawl数据集和Redpajama数据集中提取与通信相关的内容来构成通信专用数据集）
 
 #### 用于预训练的通信数据集
-1、TSpec-LLM数据集[链接](https://huggingface.co/datasets/rasoul-nikbakht/TSpec-LLM)  
+1、TSpec-LLM数据集[[链接]](https://huggingface.co/datasets/rasoul-nikbakht/TSpec-LLM)  
 2、OpenTelecom数据集  
 3、TeleQnA数据集  
 
@@ -98,7 +98,7 @@
 2、符合3GPP标准的CSI数据集  
 
 #### 用于对齐的通信数据集
-（TelecomAlign数据集）
+TelecomAlign数据集
 
 ### ComLAM的预训练
 #### 通用数据集上的预训练
@@ -121,20 +121,34 @@
 
 ## ComLAM的关键架构、分类和优化方法
 ### 大模型的关键架构
-（Transformer、变分自编码器（VAE）、扩散模型以及Mamba）
+1、Transformer  
+2、变分自编码器（VAE）  
+3、扩散模型以及Mamba）  
 ### 大模型分类及其在通信中的应用
 #### 大语言模型LLM
-（GPT 系列、Gemma 系列、LLaMA 系列）
+1、GPT 系列  
+2、Gemma 系列  
+3、LLaMA 系列  
 #### 大视觉模型VLM
-（SAM 系列、DINO 系列、Stable Diffusion系列）
+1、SAM 系列  
+2、DINO 系列  
+3、Stable Diffusion系列  
 #### 视觉语言模型VLM
-（ LLaVA、Qwen-VL 系列、Mini-GPT4）
+1、LLaVA  
+2、Qwen-VL 系列  
+3、Mini-GPT4  
 #### 多模态大模型
-（CoDi 系列、Meta-Transformer、ImageBind）
+1、CoDi 系列  
+2、Meta-Transformer  
+3、ImageBind  
 #### 世界模型
-（Sora、JEPA、Vista）
+1、Sora  
+2、JEPA  
+3、Vista  
 #### 轻量级大模型
-（TinyLlama、MobileVLM 、Mini-Gemini）
+1、TinyLlama  
+2、MobileVLM  
+3、Mini-Gemini  
 
 
 ### 大模型的优化技术
@@ -167,26 +181,26 @@
 #### 边缘端 AIGC 的学习与应用
 #### 边缘端大模型资源管理与调度
 #### 边缘端大模型跨域协同与融合
-##### 与无线感知技术的融合
-##### 与强化学习技术的融合
-##### 与缓存和推理技术的融合
+1、与无线感知技术的融合
+2、与强化学习技术的融合
+3、与缓存和推理技术的融合
 
 
 ### 大模型在语义通信的应用
 #### AIGC 增强的语义通信系统
-##### 基于扩散模型的语义通信优化
-##### 基于 Transformer 的语义增强和推理
-##### 基于 LLM 的语义通信优化
-##### 基于大视觉模型的语义通信
+1、基于扩散模型的语义通信优化
+2、基于 Transformer 的语义增强和推理
+3、基于 LLM 的语义通信优化
+4、基于大视觉模型的语义通信
 #### 智能体驱动的语义通信系统
 #### 语义通信与无线感知
 
 
 ### 大模型在安全隐私的应用
 #### 网络安全威胁检测与防御
-##### 后门攻击防御
-##### 网络威胁检测
-##### 软件漏洞检测
+1、后门攻击防御
+2、网络威胁检测
+3、软件漏洞检测
 #### 通信网络中的可信 AI
 
 
