@@ -1,6 +1,6 @@
 
 
-# ComLAM
+# <h2 id="1">ComLAM</h2>
 
 简要介绍ComLAM
 
@@ -8,7 +8,7 @@
 
 ## 目录
 
-* ComLAM
+* [ComLAM](#1)
   * 目录
   * ComLAM的数据、训练和评估
     * LAM的发展阶段
