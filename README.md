@@ -13,8 +13,8 @@
   * [ComLAM的数据、训练和评估](#ComLAM的数据、训练和评估)
     * [LAM的发展阶段](#LAM的发展阶段)
     * [大模型的通信数据集](#大模型的通信数据集)
-      * [通用数据集](#通用数据集)
-      * [通信专用数据集](#通信专用数据集)
+      * [通用数据集](#1、通用数据集)
+      * [通信专用数据集](#2、通信专用数据集)
       * [用于预训练的通信数据集](#用于预训练的通信数据集)
       * [用于微调的通信数据集](#用于微调的通信数据集)
       * [用于对齐的通信数据集](#用于对齐的通信数据集)
@@ -26,14 +26,14 @@
     * [ComLAM的对齐](#ComLAM的对齐)
     * [ComLAM的评估](#ComLAM的评估)
   * [ComLAM的关键架构、分类和优化方法](#ComLAM的关键架构、分类和优化方法)
-    * [大模型的关键架构（Transformer、变分自编码器（VAE）、扩散模型以及Mamba）](#大模型的关键架构)
+    * [大模型的关键架构](#大模型的关键架构)
     * [大模型分类及其在通信中的应用](#大模型分类及其在通信中的应用)
-      * [大语言模型LLM（GPT 系列、Gemma 系列、LLaMA 系列）](#大语言模型LLM)
-      * [大视觉模型VLM（SAM 系列、DINO 系列、Stable Diffusion系列）](#大视觉模型VLM)
-      * [视觉语言模型VLM（ LLaVA、Qwen-VL 系列、Mini-GPT4）](#视觉语言模型VLM)
-      * [多模态大模型（CoDi 系列、Meta-Transformer、ImageBind）](#多模态大模型)
-      * [世界模型（Sora、JEPA、Vista）](#世界模型)
-      * [轻量级大模型（TinyLlama、MobileVLM 、Mini-Gemini）](#轻量级大模型)
+      * [大语言模型LLM](#大语言模型LLM)
+      * [大视觉模型VLM](#大视觉模型VLM)
+      * [视觉语言模型VLM](#视觉语言模型VLM)
+      * [多模态大模型](#多模态大模型)
+      * [世界模型](#世界模型)
+      * [轻量级大模型](#轻量级大模型)
     * [大模型的优化技术](#大模型的优化技术)
       * [In-context learning(ICL)](#In-contextlearning(ICL))
       * [XoT](#XoT)
@@ -80,12 +80,12 @@
 ## ComLAM的数据、训练和评估
 ### LAM的发展阶段
 ### 大模型的通信数据集
-#### 通用数据集
-1、Common Crawl数据集[[链接]](http://commoncrawl.org/the-data/get-started/)  
-2、Pile数据集[[链接]](https://github.com/EleutherAI/the-pile)  
-3、Dolma数据[[链接]](https://huggingface.co/datasets/allenai/dolma)  
-4、RedPajama-Data数据集[[链接]](https://github.com/togethercomputer/RedPajama-Data)  
-#### 通信专用数据集
+#### 1、通用数据集
+（1）Common Crawl数据集[[链接]](http://commoncrawl.org/the-data/get-started/)  
+（2）Pile数据集[[链接]](https://github.com/EleutherAI/the-pile)  
+（3）Dolma数据[[链接]](https://huggingface.co/datasets/allenai/dolma)  
+（4）RedPajama-Data数据集[[链接]](https://github.com/togethercomputer/RedPajama-Data)  
+#### 2、通信专用数据集
 （通过从通用数据集Common Crawl数据集和Redpajama数据集中提取与通信相关的内容来构成通信专用数据集）
 
 #### 用于预训练的通信数据集
