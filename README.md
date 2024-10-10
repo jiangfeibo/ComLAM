@@ -1,15 +1,88 @@
-# ComLAM
 
-  
-1.ComLAM的数据、训练和评估
-  (1)LAM的发展阶段
-  (2)大模型的通信数据集
-    ①通用数据集（Common Crawl数据集、Pile数据集、Dolma数据、		RedPajama-Data数据集）
-    ②通信专用数据集（通过从通用数据集Common Crawl数据集和			Redpajama数据集中提取与通信相关的内容来构成通信专用数据集）
-    ③用于预训练的通信数据集（TSpec-LLM数据集、OpenTelecom数据集、		TeleQnA数据集）
-    ④用于微调的通信数据集（TelecomInstruct数据集、符合3GPP标准		的CSI数据集）
-    ⑤用于对齐的通信数据集（TelecomAlign数据集）
-  (3)ComLAM的预训练
-  
+
+# 目录
+
+* ComLAM
+  * ComLAM的数据、训练和评估
+    * LAM的发展阶段
+    * 大模型的通信数据集
+        * 通用数据集（Common Crawl数据集、Pile数据集、Dolma数据、RedPajama-Data数据集）
+        * 通信专用数据集（通过从通用数据集Common Crawl数据集和Redpajama数据集中提取与通信相关的内容来构成通信专用数据集）
+        * 用于预训练的通信数据集（TSpec-LLM数据集、OpenTelecom数据集、TeleQnA数据集)
+        * 用于微调的通信数据集（TelecomInstruct数据集、符合3GPP标准的CSI数据集）
+        * 用于对齐的通信数据集（TelecomAlign数据集）
+    * ComLAM的预训练
+        * 通用数据集上的预训练（无监督学习、自监督学习、多任务学习）
+        * 专用数据集上的持续预训练（通信领域的持续预训练）
+        * 预训练优化策略（分布式训练、学习率调度、梯度剪裁）
+    * ComLAM的微调（ComLAM微调技术：电信指令微调；大模型的微调技术：LoRA、Adapters、BitFit、Prefix Tuning等）
+    * ComLAM的对齐（RLHF、RLAIF、PPO、DPO等大模型对齐微调技术）
+    * ComLAM的评估（）
+  * ComLAM的关键架构、分类和优化方法
+    * 大模型的关键架构（Transformer、变分自编码器（VAE）、扩散模型以及Mamba）
+    * 大模型分类及其在通信中的应用
+        * 大语言模型LLM（GPT 系列、Gemma 系列、LLaMA 系列）
+        * 大视觉模型VLM（SAM 系列、DINO 系列、Stable Diffusion系列）
+        * 视觉语言模型VLM（ LLaVA、Qwen-VL 系列、Mini-GPT4）
+        * 多模态大模型（CoDi 系列、Meta-Transformer、ImageBind）
+        * 世界模型（Sora、JEPA、Vista）
+        * 轻量级大模型（TinyLlama、MobileVLM 、Mini-Gemini）
+    * 大模型的优化技术
+        * In-context learning(ICL)
+        * XoT
+        * 检索生成增强(RAG)
+        * 多智能体系统(MAS)
+        * 混合专家模型(MoE)
+    * 大模型在 PHY 和 MAC 层中的设计
+        * 大模型在 PHY 层的设计
+        * 大模型在 MAC 层的设计
+    * 大模型在资源分配和优化的应用
+        * 大模型的计算资源分配
+        * 大模型的频谱资源分配
+        * 大模型的能量资源优化
+    * 大模型在网络的设计与管理的应用
+        * 网络的设计
+        * 网络的管理
+    * 大模型在边缘智能的应用
+        * 边缘端 AIGC 的学习与应用
+        * 边缘端大模型资源管理与调度
+        * 边缘端大模型跨域协同与融合
+            * 与无线感知技术的融合
+            * 与强化学习技术的融合
+            * 与缓存和推理技术的融合
+    * 大模型在语义通信的应用
+        * AIGC 增强的语义通信系统
+            * 基于扩散模型的语义通信优化
+            * 基于 Transformer 的语义增强和推理
+            * 基于 LLM 的语义通信优化
+            * 基于大视觉模型的语义通信
+        * 智能体驱动的语义通信系统
+        * 语义通信与无线感知
+    * 大模型在安全隐私的应用
+        * 网络安全威胁检测与防御
+            * 后门攻击防御
+            * 网络威胁检测
+            * 软件漏洞检测
+        * 通信网络中的可信 AI
+    * 大模型在新兴应用的应用
+        * 数字孪生
+        * 智慧医疗
+        * 元宇宙
+        * 其他领域
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
