@@ -80,7 +80,7 @@
 ## ComLAM的数据、训练和评估
 ### LAM的发展阶段
 ### 大模型的通信数据集
-##### 通用数据集
+#### 通用数据集
 1、Common Crawl数据集[链接](http://commoncrawl.org/the-data/get-started/)  
 2、Pile数据集[链接](https://github.com/EleutherAI/the-pile)  
 3、Dolma数据[链接](https://huggingface.co/datasets/allenai/dolma)  
@@ -89,23 +89,31 @@
 （通过从通用数据集Common Crawl数据集和Redpajama数据集中提取与通信相关的内容来构成通信专用数据集）
 
 #### 用于预训练的通信数据集
-（TSpec-LLM数据集、OpenTelecom数据集、TeleQnA数据集)
+1、TSpec-LLM数据集[链接](https://huggingface.co/datasets/rasoul-nikbakht/TSpec-LLM)  
+2、OpenTelecom数据集  
+3、TeleQnA数据集  
 
 #### 用于微调的通信数据集）
-（TelecomInstruct数据集、符合3GPP标准的CSI数据集
+1、TelecomInstruct数据集  
+2、符合3GPP标准的CSI数据集  
 
 #### 用于对齐的通信数据集
 （TelecomAlign数据集）
 
 ### ComLAM的预训练
 #### 通用数据集上的预训练
-（无监督学习、自监督学习、多任务学习）
+1、无监督学习  
+2、自监督学习  
+3、多任务学习  
 #### 专用数据集上的持续预训练
 （通信领域的持续预训练）
 #### 预训练优化策略
-（分布式训练、学习率调度、梯度剪裁）
+1、分布式训练  
+2、学习率调度  
+3、梯度剪裁  
 ### ComLAM的微调
-（ComLAM微调技术：电信指令微调；大模型的微调技术：LoRA、Adapters、BitFit、Prefix Tuning等）
+1、ComLAM微调技术：电信指令微调  
+2、大模型的微调技术：LoRA、Adapters、BitFit、Prefix Tuning等  
 ### ComLAM的对齐
 （RLHF、RLAIF、PPO、DPO等大模型对齐微调技术）
 ### ComLAM的评估
