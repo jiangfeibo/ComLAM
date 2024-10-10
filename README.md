@@ -113,8 +113,7 @@
 （2）学习率调度  
 （3）梯度剪裁  
 ### ComLAM的微调
-（1）ComLAM微调技术：电信指令微调  
-（2）大模型的微调技术：LoRA、Adapters、BitFit、Prefix Tuning等  
+ComLAM微调技术：电信指令微调；大模型的微调技术：LoRA、Adapters、BitFit、Prefix Tuning等  
 ### ComLAM的对齐
 （RLHF、RLAIF、PPO、DPO等大模型对齐微调技术）
 ### ComLAM的评估
@@ -204,8 +203,6 @@
 （2）网络威胁检测  
 （3）软件漏洞检测  
 #### 2、通信网络中的可信 AI
-
-
 
 
 ### 大模型在新兴应用的应用
