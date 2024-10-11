@@ -102,10 +102,19 @@
 （2）学习率调度[[Paper]]()    
 （3）梯度剪裁[[Paper]]()    
 ### ComLAM的微调方法
-ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()  
-大模型的微调技术：LoRA、Adapters、BitFit、Prefix Tuning等[[Paper]]()  [[Checkpoint]]()  
+1、ComLAM微调技术：
+ （1）电信指令微调[[Paper]]()  
+2、大模型的微调技术：
+ （1）LoRA[[Paper]]()  
+ （2）Adapters[[Paper]]()  
+ （3）BitFit[[Paper]]()  
+ （4）Prefix Tuning[[Paper]]()  
 ### ComLAM的对齐方法
-（RLHF、RLAIF、PPO、DPO等大模型对齐微调技术）[[Paper]]()  [[Checkpoint]]()  
+1、大模型对齐微调技术
+ （1）RLHF[[Paper]]()  
+ （2）RLAIF[[Paper]]()  
+ （3）PPO[[Paper]]()  
+ （4）DPO[[Paper]]()  
 ### ComLAM的评估方法
 1、通信问答与文档分类评测[[Paper]]()    
 2、通信建模与代码生成能力评测[[Paper]]()    
@@ -128,6 +137,7 @@ ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()
     <th>model</th>
     <th>Release Time</th>
     <th>Link</th>
+    <th>Download</th>
   </tr></thead>
 <tbody>
   <tr align="center">
@@ -135,38 +145,45 @@ ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()
     <td>GPT-3</td>
     <td>2020</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>GPT-4</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>OpenAI o1</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Gemma 系列</td>
     <td>Gemma 1</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>Gemma 2</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>LLaMA 系列</td>
     <td>LLaMA-2</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>LLaMA-3</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
 </tbody></table>
 
@@ -180,6 +197,7 @@ ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()
     <th>model</th>
     <th>Release Time</th>
     <th>Link</th>
+    <th>Download</th>
   </tr></thead>
 <tbody>
   <tr align="center">
@@ -187,38 +205,45 @@ ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()
     <td>SAM-1</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>SAM-2</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>DINO 系列</td>
     <td>DINO V1</td>
     <td>2021</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>DINO V2</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td rowspan=3>Stable Diffusion 系列</td>
     <td> Stable Diffusion V1</td>
     <td>2022</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>Stable Diffusion V2</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
    <td>Stable Diffusion V3</td>
    <td>2024</td>
    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
 </tbody></table>
 
@@ -229,6 +254,7 @@ ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()
     <th>model</th>
     <th>Release Time</th>
     <th>Link</th>
+    <th>Download</th>
   </tr></thead>
 <tbody>
   <tr align="center">
@@ -236,23 +262,27 @@ ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()
     <td>LLaVA</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Qwen-VL 系列</td>
     <td> Qwen-VL</td>
     <td>2023/6</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>Qwen-VL-Chat</td>
     <td>2023/9</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>Mini-GPT4</td>
     <td>Mini-GPT4</td>
     <td>202_</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
 </tbody></table>
 
@@ -266,6 +296,7 @@ ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()
     <th>model</th>
     <th>Release Time</th>
     <th>Link</th>
+    <th>Download</th>
   </tr></thead>
 <tbody>
   <tr align="center">
@@ -273,23 +304,27 @@ ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()
     <td>CoDi-1</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>CoDi-2</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>Meta-Transformer</td>
     <td>Meta-Transformer</td>
     <td>202_</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
      <td>ImageBind</td>
      <td>ImageBind</td>
      <td>202_</td>
      <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
    </tr>
 </tbody></table>
 
@@ -300,6 +335,7 @@ ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()
     <th>model</th>
     <th>Release Time</th>
     <th>Link</th>
+    <th>Download</th>
   </tr></thead>
 <tbody>
   <tr align="center">
@@ -307,18 +343,21 @@ ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()
     <td>Sora</td>
     <td>202_</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
      <td>JEPA </td>
      <td>JEPA </td>
      <td>202_</td>
      <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
    </tr>
    <tr align="center">
       <td>Vista</td>
       <td>Vista</td>
       <td>202_</td>
       <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+      <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
     </tr>
 </tbody></table>
 
@@ -329,6 +368,7 @@ ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()
     <th>model</th>
     <th>Release Time</th>
     <th>Link</th>
+    <th>Download</th>
   </tr></thead>
 <tbody>
   <tr align="center">
@@ -336,18 +376,21 @@ ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()
     <td>TinyLlama</td>
     <td>202_</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
      <td>MobileVLM</td>
      <td>MobileVLM</td>
      <td>202_</td>
      <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
    </tr>
    <tr align="center">
       <td>Mini-Gemini</td>
       <td>Mini-Gemini</td>
       <td>202_</td>
       <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+      <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
     </tr>
 </tbody></table>
 
