@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/0c21195d-69e4-4112-81e5-3e2e8821f95d)
 
 # ComLAM
 
@@ -228,6 +228,38 @@ ComLAM微调技术：电信指令微调
 （2）Qwen-VL 系列  
 （3）Mini-GPT4  
 
+<table><thead>
+  <tr>
+    <th>Category</th>
+    <th>model</th>
+    <th>Release Time</th>
+    <th>Link</th>
+  </tr></thead>
+<tbody>
+  <tr align="center">
+    <td>LLaVA</td>
+    <td>LLaVA</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+    <td rowspan=2>Qwen-VL 系列</td>
+    <td> Qwen-VL</td>
+    <td>2023/6</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+    <td>Qwen-VL-Chat</td>
+    <td>2023/9</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+    <td>Mini-GPT4</td>
+    <td>Mini-GPT4</td>
+    <td>202_</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+</tbody></table>
 
 
 #### 4、多模态大模型
