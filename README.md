@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/0c21195d-69e4-4112-81e5-3e2e8821f95d)
 
 # ComLAM
 
@@ -224,10 +223,6 @@ ComLAM微调技术：电信指令微调
 </tbody></table>
 
 #### 3、视觉语言模型VLM
-（1）LLaVA  
-（2）Qwen-VL 系列  
-（3）Mini-GPT4  
-
 <table><thead>
   <tr>
     <th>Category</th>
@@ -263,18 +258,98 @@ ComLAM微调技术：电信指令微调
 
 
 #### 4、多模态大模型
-（1）CoDi 系列  
-（2）Meta-Transformer  
-（3）ImageBind  
-#### 5、世界模型
-（1）Sora  
-（2）JEPA  
-（3）Vista  
-#### 6、轻量级大模型
-（1）TinyLlama  
-（2）MobileVLM  
-（3）Mini-Gemini  
 
+
+<table><thead>
+  <tr>
+    <th>Category</th>
+    <th>model</th>
+    <th>Release Time</th>
+    <th>Link</th>
+  </tr></thead>
+<tbody>
+  <tr align="center">
+    <td rowspan=2>CoDi 系列</td>
+    <td>CoDi-1</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+    <td>CoDi-2</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+    <td>Meta-Transformer</td>
+    <td>Meta-Transformer</td>
+    <td>202_</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+     <td>ImageBind</td>
+     <td>ImageBind</td>
+     <td>202_</td>
+     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+   </tr>
+</tbody></table>
+
+#### 5、世界模型
+<table><thead>
+  <tr>
+    <th>Category</th>
+    <th>model</th>
+    <th>Release Time</th>
+    <th>Link</th>
+  </tr></thead>
+<tbody>
+  <tr align="center">
+    <td>Sora</td>
+    <td>Sora</td>
+    <td>202_</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+     <td>JEPA </td>
+     <td>JEPA </td>
+     <td>202_</td>
+     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+   </tr>
+   <tr align="center">
+      <td>Vista</td>
+      <td>Vista</td>
+      <td>202_</td>
+      <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    </tr>
+</tbody></table>
+
+#### 6、轻量级大模型
+<table><thead>
+  <tr>
+    <th>Category</th>
+    <th>model</th>
+    <th>Release Time</th>
+    <th>Link</th>
+  </tr></thead>
+<tbody>
+  <tr align="center">
+    <td>TinyLlama</td>
+    <td>TinyLlama</td>
+    <td>202_</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+     <td>MobileVLM</td>
+     <td>MobileVLM</td>
+     <td>202_</td>
+     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+   </tr>
+   <tr align="center">
+      <td>Mini-Gemini</td>
+      <td>Mini-Gemini</td>
+      <td>202_</td>
+      <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    </tr>
+</tbody></table>
 
 ### 大模型的优化方法
 #### 1、In-context learning(ICL)
