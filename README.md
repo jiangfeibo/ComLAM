@@ -71,24 +71,24 @@
 ### LAM的发展阶段
 ### 大模型的通信数据集
 #### 1、通用数据集
-（1）Common Crawl数据集[[Paper]]()  [[Checkpoint]](http://commoncrawl.org/the-data/get-started)  
-（2）Pile数据集[[Paper]]()  [[Checkpoint]]()  
-（3）Dolma数据[[Paper]]()  [[Checkpoint]]()  
-（4）RedPajama-Data数据集[[Paper]]()  [[Checkpoint]]()   
+（1）Common Crawl数据集[[Download]](http://commoncrawl.org/the-data/get-started)  
+（2）Pile数据集[[Download]]()  
+（3）Dolma数据[[Download]]()  
+（4）RedPajama-Data数据集[[Download]]()   
 #### 2、通信专用数据集
-（通过从通用数据集Common Crawl数据集和Redpajama数据集中提取与通信相关的内容来构成通信专用数据集）[[Paper]]()  [[Checkpoint]]()  
+（通过从通用数据集Common Crawl数据集和Redpajama数据集中提取与通信相关的内容来构成通信专用数据集）[[Download]]()  
 
 #### 3、用于预训练的通信数据集
-（1）TSpec-LLM数据集[[Paper]]()  [[Checkpoint]]()  
-（2）OpenTelecom数据集[[Paper]]()  [[Checkpoint]]()  
-（3）TeleQnA数据集[[Paper]]()  [[Checkpoint]]()  
+（1）TSpec-LLM数据集[[Download]]()  
+（2）OpenTelecom数据集[[Download]]()  
+（3）TeleQnA数据集[[Download]]()  
 
 #### 4、用于微调的通信数据集
-（1）elecomInstruct数据集[[Paper]]()  [[Checkpoint]]()  
-（2）符合3GPP标准的CSI数据集[[Paper]]()  [[Checkpoint]]()  
+（1）elecomInstruct数据集[[Download]]()  
+（2）符合3GPP标准的CSI数据集[[Download]]()  
 
 #### 5、用于对齐的通信数据集
-（1）TelecomAlign数据集[[Paper]]()  [[Checkpoint]]()  
+（1）TelecomAlign数据集[[Download]]()  
 
 ### ComLAM的预训练方法
 #### 1、通用数据集上的预训练
