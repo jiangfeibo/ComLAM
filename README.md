@@ -66,9 +66,9 @@
       * [智慧医疗](#2智慧医疗)
       * [元宇宙](#3元宇宙)
       * [其他领域](#4其他领域)
-  * [The Team](#The Team)
+  * [The Team](#TheTeam)
   * [Acknowledgments](#Acknowledgments)
-  * [Update Log](#Update Log)
+  * [Update Log](#UpdateLog)
 
 ## ComLAM的数据、训练和评估
 ### LAM的发展阶段
@@ -478,23 +478,18 @@ XoT[[Paper]]()
 
 ## The Team
 | Section 	| Student Contributors 	|
-|:-------:	|:--------------------:	|
-|         	|                      	|
-|         	|                      	|
-|         	|                      	|
+|---------	|----------------------	|
+
 
 
 ## Acknowledgments
 
 
 
-
 ## Update Log
 | Version 	| Time 	| Update Content 	|
 |---------	|------	|----------------	|
-|         	|      	|                	|
-|         	|      	|                	|
-|         	|      	|                	|
+
 
 
 
