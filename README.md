@@ -110,7 +110,7 @@
  （3）BitFit[[Paper]]()  
  （4）Prefix Tuning[[Paper]]()  
 ### ComLAM的对齐方法
-1、大模型对齐微调技术
+1、大模型对齐微调技术：  
  （1）RLHF[[Paper]]()  
  （2）RLAIF[[Paper]]()  
  （3）PPO[[Paper]]()  
