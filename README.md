@@ -131,43 +131,43 @@ ComLAM微调技术：电信指令微调
     <th>Link</th>
   </tr></thead>
 <tbody>
-  <tr>
+  <tr align="center">
     <td rowspan=3>GPT系列</td>
     <td>GPT-3</td>
     <td>2020</td>
-    <td><a href="#">[Paper]()</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>GPT-4</td>
     <td>2023</td>
-    <td><a href="#">[Paper]()</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>OpenAI o1</td>
     <td>2024</td>
-    <td><a href="#">[Paper]()</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td rowspan=2>Gemma 系列</td>
     <td>Gemma 1</td>
     <td>2023</td>
-    <td><a href="https://www.tablesgenerator.com/html_tables#" target="_blank" rel="noopener noreferrer">[Paper]()</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Gemma 2</td>
     <td>2024</td>
-    <td><a href="https://www.tablesgenerator.com/html_tables#" target="_blank" rel="noopener noreferrer">[Paper]()</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td rowspan=2>LLaMA 系列</td>
     <td>LLaMA-2</td>
     <td>2023</td>
-    <td><a href="https://www.tablesgenerator.com/html_tables#" target="_blank" rel="noopener noreferrer">[Paper]()</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>LLaMA-3</td>
     <td>2024</td>
-    <td><a href="https://www.tablesgenerator.com/html_tables#" target="_blank" rel="noopener noreferrer">[Paper]()</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
   </tr>
 </tbody></table>
 
