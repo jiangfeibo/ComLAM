@@ -135,7 +135,7 @@ ComLAM微调技术：电信指令微调
     <td rowspan=3>GPT系列</td>
     <td>GPT-3</td>
     <td>2020</td>
-    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
   </tr>
   <tr align="center">
     <td>GPT-4</td>
