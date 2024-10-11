@@ -135,7 +135,7 @@ ComLAM微调技术：电信指令微调
     <td rowspan=3>GPT系列</td>
     <td>GPT-3</td>
     <td>2020</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
   </tr>
   <tr align="center">
     <td>GPT-4</td>
@@ -175,13 +175,61 @@ ComLAM微调技术：电信指令微调
 
 
 #### 2、大视觉模型LVM
-（1）SAM 系列  
-（2）DINO 系列  
-（3）Stable Diffusion系列  
+<table><thead>
+  <tr>
+    <th>Category</th>
+    <th>model</th>
+    <th>Release Time</th>
+    <th>Link</th>
+  </tr></thead>
+<tbody>
+  <tr align="center">
+    <td rowspan=2>SAM 系列</td>
+    <td>SAM-1</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+    <td>SAM-2</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+    <td rowspan=2>DINO 系列</td>
+    <td>DINO V1</td>
+    <td>2021</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+    <td>DINO V2</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+    <td rowspan=3>Stable Diffusion 系列</td>
+    <td> Stable Diffusion V1</td>
+    <td>2022</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+    <td>Stable Diffusion V2</td>
+    <td>2023</td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+  <tr align="center">
+   <td>Stable Diffusion V3</td>
+   <td>2024</td>
+   <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+  </tr>
+</tbody></table>
+
 #### 3、视觉语言模型VLM
 （1）LLaVA  
 （2）Qwen-VL 系列  
 （3）Mini-GPT4  
+
+
+
 #### 4、多模态大模型
 （1）CoDi 系列  
 （2）Meta-Transformer  
@@ -255,11 +303,6 @@ ComLAM微调技术：电信指令微调
 #### 3、元宇宙
 #### 4、其他领域
 
-
-| 表头 | 表头 |
-| ----- |----- |
-| 单元格 | 单元格 |
-| 单元格 | 单元格 |
 
 
 
