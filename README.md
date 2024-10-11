@@ -125,7 +125,19 @@ ComLAM微调技术：电信指令微调
 （1）GPT 系列  
 （2）Gemma 系列  
 （3）LLaMA 系列  
-#### 2、大视觉模型VLM
+
+| Category | model | Release TIme | Link |
+| :-----: | :-----: | :-----: | :-----: |
+| GPT系列 | GPT-3 | 2020 | [Paper]() |
+| GPT系列 | GPT-4 | 2023 | [Paper]() |
+| GPT系列 | OpenAI o1 | 2024 | [Paper]() |
+| Gemma系列 | Gemma 1 | 2023 | [Paper]() |
+| Gemma系列 | Gemma 2 | 2024 | [Paper]() |
+| LLaMA 系列 | LLaMA-2 | 2023 | [Paper]() |
+| LLaMA 系列 | LLaMA-3 | 2024 | [Paper]() |
+
+
+#### 2、大视觉模型LVM
 （1）SAM 系列  
 （2）DINO 系列  
 （3）Stable Diffusion系列  
@@ -207,6 +219,10 @@ ComLAM微调技术：电信指令微调
 #### 4、其他领域
 
 
+| 表头 | 表头 |
+| ----- |----- |
+| 单元格 | 单元格 |
+| 单元格 | 单元格 |
 
 
 
