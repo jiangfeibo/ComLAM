@@ -102,9 +102,9 @@
 （2）学习率调度[[Paper]]()    
 （3）梯度剪裁[[Paper]]()    
 ### ComLAM的微调方法
-1、ComLAM微调技术：
+1、ComLAM微调技术：  
  （1）电信指令微调[[Paper]]()  
-2、大模型的微调技术：
+2、大模型的微调技术：  
  （1）LoRA[[Paper]]()  
  （2）Adapters[[Paper]]()  
  （3）BitFit[[Paper]]()  
