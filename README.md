@@ -71,54 +71,54 @@
 ### LAM的发展阶段
 ### 大模型的通信数据集
 #### 1、通用数据集
-（1）Common Crawl数据集[[链接]](http://commoncrawl.org/the-data/get-started/)  
-（2）Pile数据集[[链接]](https://github.com/EleutherAI/the-pile)  
-（3）Dolma数据[[链接]](https://huggingface.co/datasets/allenai/dolma)  
-（4）RedPajama-Data数据集[[链接]](https://github.com/togethercomputer/RedPajama-Data)  
+（1）Common Crawl数据集[[Paper]]()  [[Checkpoint]](http://commoncrawl.org/the-data/get-started)  
+（2）Pile数据集[[Paper]]()  [[Checkpoint]]()  
+（3）Dolma数据[[Paper]]()  [[Checkpoint]]()  
+（4）RedPajama-Data数据集[[Paper]]()  [[Checkpoint]]()   
 #### 2、通信专用数据集
-（通过从通用数据集Common Crawl数据集和Redpajama数据集中提取与通信相关的内容来构成通信专用数据集）
+（通过从通用数据集Common Crawl数据集和Redpajama数据集中提取与通信相关的内容来构成通信专用数据集）[[Paper]]()  [[Checkpoint]]()  
 
 #### 3、用于预训练的通信数据集
-（1）TSpec-LLM数据集[[链接]](https://huggingface.co/datasets/rasoul-nikbakht/TSpec-LLM)  
-（2）OpenTelecom数据集  
-（3）TeleQnA数据集  
+（1）TSpec-LLM数据集[[Paper]]()  [[Checkpoint]]()  
+（2）OpenTelecom数据集[[Paper]]()  [[Checkpoint]]()  
+（3）TeleQnA数据集[[Paper]]()  [[Checkpoint]]()  
 
 #### 4、用于微调的通信数据集
-（1）elecomInstruct数据集  
-（2）符合3GPP标准的CSI数据集  
+（1）elecomInstruct数据集[[Paper]]()  [[Checkpoint]]()  
+（2）符合3GPP标准的CSI数据集[[Paper]]()  [[Checkpoint]]()  
 
 #### 5、用于对齐的通信数据集
-（1）TelecomAlign数据集
+（1）TelecomAlign数据集[[Paper]]()  [[Checkpoint]]()  
 
 ### ComLAM的预训练方法
 #### 1、通用数据集上的预训练
-（1）无监督学习  
-（2）自监督学习  
-（3）多任务学习  
+（1）无监督学习[[Paper]]()    
+（2）自监督学习[[Paper]]()    
+（3）多任务学习[[Paper]]()    
 #### 2、专用数据集上的持续预训练
-（1）通信领域的持续预训练
+（1）通信领域的持续预训练[[Paper]]()    
 #### 3、预训练优化策略
-（1）分布式训练  
-（2）学习率调度  
-（3）梯度剪裁  
+（1）分布式训练[[Paper]]()    
+（2）学习率调度[[Paper]]()    
+（3）梯度剪裁[[Paper]]()    
 ### ComLAM的微调方法
-ComLAM微调技术：电信指令微调  
-大模型的微调技术：LoRA、Adapters、BitFit、Prefix Tuning等  
+ComLAM微调技术：电信指令微调[[Paper]]()  [[Checkpoint]]()  
+大模型的微调技术：LoRA、Adapters、BitFit、Prefix Tuning等[[Paper]]()  [[Checkpoint]]()  
 ### ComLAM的对齐方法
-（RLHF、RLAIF、PPO、DPO等大模型对齐微调技术）
+（RLHF、RLAIF、PPO、DPO等大模型对齐微调技术）[[Paper]]()  [[Checkpoint]]()  
 ### ComLAM的评估方法
-1、通信问答与文档分类评测  
-2、通信建模与代码生成能力评测  
-3、通信推理能力评测  
-4、通信工具学习能力评测  
-5、通信安全评测  
+1、通信问答与文档分类评测[[Paper]]()    
+2、通信建模与代码生成能力评测[[Paper]]()    
+3、通信推理能力评测[[Paper]]()    
+4、通信工具学习能力评测[[Paper]]()    
+5、通信安全评测[[Paper]]()    
 
 ## ComLAM的关键架构、分类和优化方法
 ### 大模型的关键架构
-1、Transformer  
-2、变分自编码器（VAE）  
-3、扩散模型  
-4、Mamba  
+1、Transformer[[Paper]]()    
+2、变分自编码器（VAE）[[Paper]]()    
+3、扩散模型[[Paper]]()    
+4、Mamba[[Paper]]()    
 ### 大模型分类及其在通信中的应用
 #### 1、大语言模型LLM
 
@@ -353,62 +353,82 @@ ComLAM微调技术：电信指令微调
 
 ### 大模型的优化方法
 #### 1、In-context learning(ICL)
+In-context learning(ICL)[[Paper]]()  
 #### 2、XoT
+XoT[[Paper]]()  
 #### 3、检索生成增强(RAG)
+检索生成增强(RAG)[[Paper]]()  
 #### 4、多智能体系统(MAS)
+多智能体系统(MAS)[[Paper]]()  
 #### 5、混合专家模型(MoE)
+混合专家模型(MoE)[[Paper]]()  
 
 
 
 ## 大模型在通信领域中的应用
 ### 大模型在 PHY 和 MAC 层中的设计
 #### 1、大模型在 PHY 层的设计
+[[Paper]]()  
 #### 2、大模型在 MAC 层的设计
+[[Paper]]()  
 
 
 ### 大模型在资源分配和优化的应用
 #### 1、大模型的计算资源分配
+[[Paper]]()  
 #### 2、大模型的频谱资源分配
+[[Paper]]()  
 #### 3、大模型的能量资源优化
+[[Paper]]()  
 
 
 ### 大模型在网络的设计与管理的应用
 #### 1、网络的设计
+[[Paper]]()  
 #### 2、网络的管理
+[[Paper]]()  
 
 
 ### 大模型在边缘智能的应用
 #### 1、边缘端 AIGC 的学习与应用
+[[Paper]]()  
 #### 2、边缘端大模型资源管理与调度
+[[Paper]]()  
 #### 3、边缘端大模型跨域协同与融合
-（1）与无线感知技术的融合  
-（2）与强化学习技术的融合  
-（3）与缓存和推理技术的融合  
+（1）与无线感知技术的融合[[Paper]]()  
+（2）与强化学习技术的融合[[Paper]]()  
+（3）与缓存和推理技术的融合[[Paper]]()  
 
 
 ### 大模型在语义通信的应用
 #### 1、AIGC 增强的语义通信系统
-（1）基于扩散模型的语义通信优化  
-（2）基于 Transformer 的语义增强和推理  
-（3）基于 LLM 的语义通信优化  
-（4）基于大视觉模型的语义通信  
+（1）基于扩散模型的语义通信优化[[Paper]]()  
+（2）基于 Transformer 的语义增强和推理[[Paper]]()  
+（3）基于 LLM 的语义通信优化[[Paper]]()  
+（4）基于大视觉模型的语义通信[[Paper]]()  
 #### 2、智能体驱动的语义通信系统
+[[Paper]]()  
 #### 3、语义通信与无线感知
+[[Paper]]()  
 
 
 ### 大模型在安全隐私的应用
 #### 1、网络安全威胁检测与防御
-（1）后门攻击防御  
-（2）网络威胁检测  
-（3）软件漏洞检测  
+（1）后门攻击防御[[Paper]]()  
+（2）网络威胁检测[[Paper]]()  
+（3）软件漏洞检测[[Paper]]()  
 #### 2、通信网络中的可信 AI
-
+[[Paper]]()  
 
 ### 大模型在新兴应用的应用
 #### 1、数字孪生
+[[Paper]]()  
 #### 2、智慧医疗
+[[Paper]]()  
 #### 3、元宇宙
+[[Paper]]()  
 #### 4、其他领域
+[[Paper]]()  
 
 
 
