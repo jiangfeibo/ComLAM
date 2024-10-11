@@ -122,19 +122,56 @@ ComLAM微调技术：电信指令微调
 4、Mamba  
 ### 大模型分类及其在通信中的应用
 #### 1、大语言模型LLM
-（1）GPT 系列  
-（2）Gemma 系列  
-（3）LLaMA 系列  
 
-| Category | model | Release TIme | Link |
-| :-----: | :-----: | :-----: | :-----: |
-| GPT系列 | GPT-3 | 2020 | [Paper]() |
-| GPT系列 | GPT-4 | 2023 | [Paper]() |
-| GPT系列 | OpenAI o1 | 2024 | [Paper]() |
-| Gemma系列 | Gemma 1 | 2023 | [Paper]() |
-| Gemma系列 | Gemma 2 | 2024 | [Paper]() |
-| LLaMA 系列 | LLaMA-2 | 2023 | [Paper]() |
-| LLaMA 系列 | LLaMA-3 | 2024 | [Paper]() |
+<table><thead>
+  <tr>
+    <th>Category</th>
+    <th>model</th>
+    <th>Release Time</th>
+    <th>Link</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan=3>GPT系列</td>
+    <td>GPT-3</td>
+    <td>2020</td>
+    <td><a href="#">[Paper]()</a></td>
+  </tr>
+  <tr>
+    <td>GPT-4</td>
+    <td>2023</td>
+    <td><a href="#">[Paper]()</a></td>
+  </tr>
+  <tr>
+    <td>OpenAI o1</td>
+    <td>2024</td>
+    <td><a href="#">[Paper]()</a></td>
+  </tr>
+  <tr>
+    <td rowspan=2>Gemma 系列</td>
+    <td>Gemma 1</td>
+    <td>2023</td>
+    <td><a href="https://www.tablesgenerator.com/html_tables#" target="_blank" rel="noopener noreferrer">[Paper]()</a></td>
+  </tr>
+  <tr>
+    <td>Gemma 2</td>
+    <td>2024</td>
+    <td><a href="https://www.tablesgenerator.com/html_tables#" target="_blank" rel="noopener noreferrer">[Paper]()</a></td>
+  </tr>
+  <tr>
+    <td rowspan=2>LLaMA 系列</td>
+    <td>LLaMA-2</td>
+    <td>2023</td>
+    <td><a href="https://www.tablesgenerator.com/html_tables#" target="_blank" rel="noopener noreferrer">[Paper]()</a></td>
+  </tr>
+  <tr>
+    <td>LLaMA-3</td>
+    <td>2024</td>
+    <td><a href="https://www.tablesgenerator.com/html_tables#" target="_blank" rel="noopener noreferrer">[Paper]()</a></td>
+  </tr>
+</tbody></table>
+
+
 
 
 #### 2、大视觉模型LVM
