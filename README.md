@@ -485,7 +485,7 @@ M. Xu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, Y. Fang,D. I. Kim et al., �
 ### 大模型在新兴应用的应用
 #### 1、数字孪生
 N. Sehad, L. Bariah, W. Hamidouche, H. Hellaoui, R. Jäntti,and M. Debbah, “Generative ai for immersive communication:The next frontier in internet-of-senses through 6g,” arXiv preprint
-arXiv:2404.01713, 2024.[<a href="https://arxiv.org/abs/2404.01713" target="_blank" rel="noopener noreferrer">Paper</a>]
+arXiv:2404.01713, 2024.[<a href="https://arxiv.org/abs/2404.01713" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2404.01713" target="_blank" rel="noopener noreferrer">Code</a>]
 #### 2、智慧医疗
 [[Paper]]()  
 #### 3、元宇宙
