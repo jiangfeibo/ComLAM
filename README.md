@@ -263,27 +263,27 @@
   <tr align="center">
     <td>LLaVA</td>
     <td>LLaVA</td>
-    <td>2023</td>
+    <td>2024</td>
     <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Qwen-VL 系列</td>
     <td> Qwen-VL</td>
-    <td>2023/6</td>
+    <td>2023</td>
     <td><a href="https://arxiv.org/abs/2308.12966" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://arxiv.org/pdf/2308.12966 target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>Qwen-VL-Chat</td>
-    <td>2023/9</td>
+    <td>2023</td>
     <td><a href="https://arxiv.org/abs/2308.12966" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://arxiv.org/pdf/2308.12966" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>Mini-GPT4</td>
     <td>Mini-GPT4</td>
-    <td>202_</td>
+    <td>2023</td>
     <td><a href="https://arxiv.org/abs/2304.10592" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://arxiv.org/pdf/2304.10592" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
@@ -304,7 +304,7 @@
   <tr align="center">
     <td rowspan=2>CoDi 系列</td>
     <td>CoDi-1</td>
-    <td>2023</td>
+    <td>2024</td>
     <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/33edf072fe44f19079d66713a1831550-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/33edf072fe44f19079d66713a1831550-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
@@ -317,14 +317,14 @@
   <tr align="center">
     <td>Meta-Transformer</td>
     <td>Meta-Transformer</td>
-    <td>202_</td>
+    <td>2023</td>
     <td><a href="https://arxiv.org/abs/2307.10802" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://arxiv.org/abs/2307.10802" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
      <td>ImageBind</td>
      <td>ImageBind</td>
-     <td>202_</td>
+     <td>2023</td>
      <td><a href="http://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
      <td><a href="http://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
    </tr>
