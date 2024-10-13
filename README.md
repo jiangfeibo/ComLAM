@@ -399,7 +399,13 @@
 ### 大模型的优化方法
 #### 1、In-context learning(ICL)
 In-context learning(ICL)[[Paper]]() 
-In-Context Learning for MIMO Equalization Using Transformer-Based Sequence Models <a href="https://arxiv.org/abs/2311.06101" target="_blank" rel="noopener noreferrer">[Paper]</a>
+
+#### In-Context Learning for MIMO Equalization Using Transformer-Based Sequence Models
+- **作者**：Matteo Zecchin, Kai Yu, Osvaldo Simeone
+- **论文地址**：[https://arxiv.org/abs/2311.06101](https://arxiv.org/abs/2311.06101)
+- **出版日期**：2023年
+- **页数**：6
+
 #### 2、XoT
 XoT[[Paper]]()  
 #### 3、检索生成增强(RAG)
