@@ -378,22 +378,22 @@
     <td>TinyLlama</td>
     <td>TinyLlama</td>
     <td>202_</td>
-    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://arxiv.org/abs/2401.02385" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2401.02385" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
      <td>MobileVLM</td>
      <td>MobileVLM</td>
      <td>202_</td>
-     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
-     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+     <td><a href="https://arxiv.org/abs/2402.03766" target="_blank" rel="noopener noreferrer">Paper</a></td>
+     <td><a href="https://arxiv.org/abs/2402.03766" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
    </tr>
    <tr align="center">
       <td>Mini-Gemini</td>
       <td>Mini-Gemini</td>
       <td>202_</td>
-      <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
-      <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+      <td><a href="https://arxiv.org/abs/2403.18814" target="_blank" rel="noopener noreferrer">Paper</a></td>
+      <td><a href="https://arxiv.org/abs/2403.18814" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
     </tr>
 </tbody></table>
 
