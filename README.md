@@ -404,14 +404,28 @@ M. Zecchin, K. Yu, and O. Simeone, "In-context learning for MIMO equalization us
 
 #### 2、XoT
 XoT[[Paper]]()  
+T. B. Brown, “Language models are few-shot learners,” arXiv preprint arXiv:2005.14165, 2020.[<a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Paper</a>]
+J. Achiam, S. Adler, S. Agarwal, L. Ahmad, I. Akkaya, F. L.Aleman, D. Almeida, J. Altenschmidt, S. Altman, S. Anadkat et al., “Gpt-4 technical report,” arXiv preprint arXiv:2303.08774,2023.[<a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a>](https://github.com/openai/evals)
+A. Chowdhery, S. Narang, J. Devlin, M. Bosma, G. Mishra,A. Roberts, P. Barham, H. W. Chung, C. Sutton, S. Gehrmann et al., “Palm: Scaling language modeling with pathways,” Journal of Machine Learning Research, vol. 24, no. 240, pp. 1–113, 2023.[<a href="https://www.jmlr.org/papers/v24/22-1144.html" target="_blank" rel="noopener noreferrer">Paper</a>]
+S. Rasal, “Llm harmony: Multi-agent communication for problem solving,” arXiv preprint arXiv:2401.01312, 2024.[<a href="https://arxiv.org/abs/2401.01312" target="_blank" rel="noopener noreferrer">Paper</a>]（https://github.com/sumedhrasal/simulation）
+
 #### 3、检索生成增强(RAG)
 检索生成增强(RAG)[[Paper]]()  
+A.-L. Bornea, F. Ayed, A. De Domenico, N. Piovesan, and A. Maatouk, “Telco-rag: Navigating the challenges of retrieval-augmented language models for telecommunications,” arXiv preprint arXiv:2404.15939, 2024.[<a href="https://arxiv.org/abs/2404.15939" target="_blank" rel="noopener noreferrer">Paper</a>]
+Z. Rackauckas, “Rag-fusion: a new take on retrieval-augmented generation,” arXiv preprint arXiv:2402.03367, 2024.[<a href="https://arxiv.org/abs/2402.03367" target="_blank" rel="noopener noreferrer">Paper</a>]
+W. Jiang, S. Zhang, B. Han, J. Wang, B. Wang, and T. Kraska,“Piperag: Fast retrieval-augmented generation via algorithm-system co-design,” arXiv preprint arXiv:2403.05676, 2024.[<a href="https://arxiv.org/abs/2403.05676" target="_blank" rel="noopener noreferrer">Paper</a>]
+Y. Tang and W. Guo, “Automatic retrieval-augmented generation of 6g network specifications for use cases,” arXiv preprint arXiv:2405.03122, 2024.[<a href="https://arxiv.org/abs/2405.03122" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 #### 4、多智能体系统(MAS)
 多智能体系统(MAS)[[Paper]]()  
+J. Tong, J. Shao, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang,“Wirelessagent: Large language model agents for intelligent wireless networks,” arXiv preprint arXiv:2409.07964, 2024.[<a href="https://arxiv.org/abs/2409.07964" target="_blank" rel="noopener noreferrer">Paper</a>]（https://github.com/weiiguo/wireless-agent）
+F. Jiang, L. Dong, Y. Peng, K. Wang, K. Yang,C. Pan, D. T. Niyato, and O. A. Dobre, “Large language model enhanced multi-agent systems for 6g communications,” ArXiv, vol. abs/2312.07850, 2023. [Online].Available: https://api.semanticscholar.org/CorpusID:266191504[<a href="https://ieeexplore.ieee.org/abstract/document/10638533/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 #### 5、混合专家模型(MoE)
 混合专家模型(MoE)[[Paper]]()  
-
-
+R. Zhang, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, and D. I. Kim, “Interactive generative ai agents for satellite networks through a mixture of experts transmission,”arXiv preprint arXiv:2404.09134, 2024.[<a href="https://arxiv.org/abs/2404.09134" target="_blank" rel="noopener noreferrer">Paper</a>]
+J. Wang, H. Du, G. Sun, J. Kang, H. Zhou, D. Niyato, and J. Chen,“Optimizing 6g integrated sensing and communications (isac) via expert networks,” arXiv preprint arXiv:2406.00408, 2024.[<a href="https://arxiv.org/abs/2406.00408" target="_blank" rel="noopener noreferrer">Paper</a>]
+M. Xu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, Y. Fang,D. I. Kim et al., “Integration of mixture of experts and multimodal generative ai in internet of vehicles: A survey,” arXiv preprint arXiv:2404.16356, 2024.[<a href="https://arxiv.org/abs/2404.16356" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ## 大模型在通信领域中的应用
 ### 大模型在 PHY 和 MAC 层中的设计
