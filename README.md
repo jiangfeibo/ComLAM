@@ -153,8 +153,8 @@
   <tr align="center">
     <td>GPT-4</td>
     <td>2023</td>
-    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://arxiv.org/abs/2312.00752" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/pdf/2312.00752" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>OpenAI o1</td>
