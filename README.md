@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9bf1ef8d-bad9-449e-b77d-0d74e47b594b)
+
 # ComLAM
 
 简要介绍ComLAM
