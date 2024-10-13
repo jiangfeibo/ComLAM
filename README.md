@@ -238,7 +238,7 @@
   </tr>
   <tr align="center">
     <td>Stable Diffusion V2</td>
-    <td>2023</td>
+    <td>2022</td>
     <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
