@@ -147,7 +147,7 @@
     <td rowspan=3>GPT系列</td>
     <td>GPT-3</td>
     <td>2020</td>
-    <td><a href="https://splab.sdu.edu.cn/GPT3" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
