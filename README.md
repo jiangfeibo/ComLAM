@@ -165,7 +165,7 @@
   <tr align="center">
     <td rowspan=2>Gemma 系列</td>
     <td>Gemma 1</td>
-    <td>2023</td>
+    <td>2024</td>
     <td><a href="https://arxiv.org/abs/2403.08295" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://arxiv.org/pdf/2403.08295" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
