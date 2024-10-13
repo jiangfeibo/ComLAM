@@ -397,8 +397,9 @@
 </tbody></table>
 
 ### 大模型的优化方法
-#### 1、In-context learning(ICL)
+#### 1、In-context learning(ICL)<a href="https://arxiv.org/abs/2005.14165" target="_blank" rel="noopener noreferrer">Paper</a>
 In-context learning(ICL)[[Paper]]()  
+In-Context Learning for MIMO Equalization Using Transformer-Based Sequence Models <a href="https://arxiv.org/abs/2311.06101" target="_blank" rel="noopener noreferrer">[Paper]</a>
 #### 2、XoT
 XoT[[Paper]]()  
 #### 3、检索生成增强(RAG)
