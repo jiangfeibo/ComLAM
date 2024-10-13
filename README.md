@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/9bf1ef8d-bad9-449e-b77d-0d74e47b594b)
 # ComLAM
 
 简要介绍ComLAM
@@ -147,8 +147,8 @@
     <td rowspan=3>GPT系列</td>
     <td>GPT-3</td>
     <td>2020</td>
-    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>GPT-4</td>
