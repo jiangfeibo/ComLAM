@@ -461,16 +461,35 @@ M. Xu, D. Niyato, J. Kang, Z. Xiong, S. Guo, Y. Fang, and D. I. Kim, “Generati
 ### 大模型在网络的设计与管理的应用
 #### 1、网络的设计
 [[Paper]]()  
+Y. Huang, H. Du, X. Zhang, D. Niyato, J. Kang, Z. Xiong,S. Wang, and T. Huang, “Large language models for networking:Applications, enabling techniques, and challenges,” arXiv preprint arXiv:2311.17474, 2023.[<a href="https://ieeexplore.ieee.org/abstract/document/10614634/" target="_blank" rel="noopener noreferrer">Paper</a>]
+H. Zou, Q. Zhao, L. Bariah, M. Bennis, and M. Debbah, “Wireless multi-agent generative ai: From connected intelligence to collective intelligence,” arXiv preprint arXiv:2307.02757, 2023.[<a href="https://arxiv.org/abs/2307.02757" target="_blank" rel="noopener noreferrer">Paper</a>]
+L. He, G. Sun, D. Niyato, H. Du, F. Mei, J. Kang, M. Debbah et al., “Generative ai for game theory-based mobile networking,”arXiv preprint arXiv:2404.09699, 2024.[<a href="https://arxiv.org/abs/2404.09699" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 2、网络的管理
 [[Paper]]()  
+Y. Du, S. C. Liew, K. Chen, and Y. Shao, “The power of large language models for wireless communication system development:A case study on fpga platforms,” arXiv preprint arXiv:2307.07319,2023.[<a href="https://arxiv.org/abs/2307.07319" target="_blank" rel="noopener noreferrer">Paper</a>]
+J. Wang, L. Zhang, Y. Yang, Z. Zhuang, Q. Qi, H. Sun, L. Lu,J. Feng, and J. Liao, “Network meets chatgpt: Intent autonomous management, control and operation,” Journal of Communications and Information Networks, vol. 8, no. 3, pp. 239–255, 2023.[<a href="https://ieeexplore.ieee.org/abstract/document/10272352/" target="_blank" rel="noopener noreferrer">Paper</a>]
+Y. Hong, J. Wu, and R. Morello, “Llm-twin: Mini-giant model-driven beyond 5g digital twin networking framework with semantic secure communication and computation,” arXiv preprint arXiv:2312.10631, 2023.[<a href="https://www.nature.com/articles/s41598-024-69474-5" target="_blank" rel="noopener noreferrer">Paper</a>]
+A. Dandoush, V. Kumarskandpriya, M. Uddin, and U. Khalil,“Large language models meet network slicing management and orchestration,” arXiv preprint arXiv:2403.13721, 2024.[<a href="https://arxiv.org/abs/2403.13721" target="_blank" rel="noopener noreferrer">Paper</a>]
+L. Yue and T. Chen, “Ai large model and 6g network,” in 2023 IEEE Globecom Workshops (GC Wkshps). IEEE, 2023, pp. 2049–2054.[<a href="https://ieeexplore.ieee.org/abstract/document/10465211/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 
 ### 大模型在边缘智能的应用
 #### 1、边缘端 AIGC 的学习与应用
 [[Paper]]()  
+Y. Liu, H. Du, D. Niyato, J. Kang, S. Cui, X. Shen, and P. Zhang,“Optimizing mobile-edge ai-generated everything (aigx) services by prompt engineering: Fundamental, framework, and case study,”IEEE Network, 2023.[<a href="https://ieeexplore.ieee.org/abstract/document/10330096/" target="_blank" rel="noopener noreferrer">Paper</a>]
+H. Du, R. Zhang, D. Niyato, J. Kang, Z. Xiong, D. I. Kim,X. S. Shen, and H. V. Poor, “Exploring collaborative distributed diffusion-based ai-generated content (aigc) in wireless networks,”IEEE Network, 2023.[<a href="https://ieeexplore.ieee.org/abstract/document/10172151/" target="_blank" rel="noopener noreferrer">Paper</a>]
+G. Sun, W. Xie, D. Niyato, H. Du, J. Kang, J. Wu, S. Sun, and P. Zhang, “Generative ai for advanced uav networking,” arXiv preprint arXiv:2404.10556, 2024.[<a href="https://arxiv.org/abs/2404.10556" target="_blank" rel="noopener noreferrer">Paper</a>]
+M. Xu, Y. Wu, D. Cai, X. Li, and S. Wang, “Federated fine-tuning of billion-sized language models across mobile devices,”arXiv preprint arXiv:2308.13894, 2023.[<a href="https://www.caidongqi.com/pdf/arXiv-FwdLLM.pdf" target="_blank" rel="noopener noreferrer">Paper</a>]
+R. Zhang, K. Xiong, H. Du, D. Niyato, J. Kang, X. Shen, and H. V.Poor, “Generative ai-enabled vehicular networks: Fundamentals,framework, and case study,” IEEE Network, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10506539/" target="_blank" rel="noopener noreferrer">Paper</a>]
+Z. Chen, H. H. Yang, Y. Tay, K. F. E. Chong, and T. Q. Quek,“The role of federated learning in a wireless world with foundation models,” IEEE Wireless Communications, vol. 31, no. 3, pp. 42–49,2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558823/" target="_blank" rel="noopener noreferrer">Paper</a>]
+J. Zhang, Z. Wei, B. Liu, X. Wang, Y. Yu, and R. Zhang, “Cloud-edge-terminal collaborative aigc for autonomous driving,” IEEE Wireless Communications, vol. 31, no. 4, pp. 40–47, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10628024/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 #### 2、边缘端大模型资源管理与调度
 [[Paper]]()  
+J. Wang, H. Du, D. Niyato, J. Kang, Z. Xiong, D. I. Kim, and K. B.Letaief, “Toward scalable generative ai via mixture of experts in mobile edge networks,” arXiv preprint arXiv:2402.06942, 2024.[<a href="https://arxiv.org/abs/2402.06942" target="_blank" rel="noopener noreferrer">Paper</a>]
+O. Friha, M. A. Ferrag, B. Kantarci, B. Cakmak, A. Ozgun, and N. Ghoualmi-Zine, “Llm-based edge intelligence: A comprehensive survey on architectures, applications, security and trustworthiness,” IEEE Open Journal of the Communications Society, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10669603/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 #### 3、边缘端大模型跨域协同与融合
 （1）与无线感知技术的融合[[Paper]]()  
 （2）与强化学习技术的融合[[Paper]]()  
@@ -483,8 +502,10 @@ M. Xu, D. Niyato, J. Kang, Z. Xiong, S. Guo, Y. Fang, and D. I. Kim, “Generati
 （2）基于 Transformer 的语义增强和推理[[Paper]]()  
 （3）基于 LLM 的语义通信优化[[Paper]]()  
 （4）基于大视觉模型的语义通信[[Paper]]()  
+
 #### 2、智能体驱动的语义通信系统
 [[Paper]]()  
+
 #### 3、语义通信与无线感知
 [[Paper]]()  
 
@@ -494,6 +515,7 @@ M. Xu, D. Niyato, J. Kang, Z. Xiong, S. Guo, Y. Fang, and D. I. Kim, “Generati
 （1）后门攻击防御[[Paper]]()  
 （2）网络威胁检测[[Paper]]()  
 （3）软件漏洞检测[[Paper]]()  
+
 #### 2、通信网络中的可信 AI
 [[Paper]]()  
 
