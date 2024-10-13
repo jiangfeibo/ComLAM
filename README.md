@@ -343,21 +343,21 @@
   <tr align="center">
     <td>Sora</td>
     <td>Sora</td>
-    <td>202_</td>
+    <td>2024</td>
     <td><a href="https://arxiv.org/abs/2402.17177" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://arxiv.org/abs/2402.17177" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
      <td>JEPA </td>
      <td>JEPA </td>
-     <td>202_</td>
+     <td>2022</td>
      <td><a href="https://openreview.net/pdf?id=BZ5a1r-kVsf" target="_blank" rel="noopener noreferrer">Paper</a></td>
      <td><a href="https://openreview.net/pdf?id=BZ5a1r-kVsf" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
    </tr>
    <tr align="center">
       <td>Vista</td>
       <td>Vista</td>
-      <td>202_</td>
+      <td>2024</td>
       <td><a href="https://arxiv.org/abs/2405.17398" target="_blank" rel="noopener noreferrer">Paper</a></td>
       <td><a href="https://arxiv.org/abs/2405.17398" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
     </tr>
@@ -376,21 +376,21 @@
   <tr align="center">
     <td>TinyLlama</td>
     <td>TinyLlama</td>
-    <td>202_</td>
+    <td>2024</td>
     <td><a href="https://arxiv.org/abs/2401.02385" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://arxiv.org/abs/2401.02385" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
      <td>MobileVLM</td>
      <td>MobileVLM</td>
-     <td>202_</td>
+     <td>2024</td>
      <td><a href="https://arxiv.org/abs/2402.03766" target="_blank" rel="noopener noreferrer">Paper</a></td>
      <td><a href="https://arxiv.org/abs/2402.03766" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
    </tr>
    <tr align="center">
       <td>Mini-Gemini</td>
       <td>Mini-Gemini</td>
-      <td>202_</td>
+      <td>2024</td>
       <td><a href="https://arxiv.org/abs/2403.18814" target="_blank" rel="noopener noreferrer">Paper</a></td>
       <td><a href="https://arxiv.org/abs/2403.18814" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
     </tr>
