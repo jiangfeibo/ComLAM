@@ -400,18 +400,7 @@
 #### 1、In-context learning(ICL)
 In-context learning(ICL)[[Paper]]() 
 
-##### In-Context Learning for MIMO Equalization Using Transformer-Based Sequence Models
-- **作者**：Matteo Zecchin, Kai Yu, Osvaldo Simeone
-- **论文地址**：<a href="https://arxiv.org/abs/2311.06101" target="_blank" rel="noopener noreferrer">Paper</a>
-- **出版日期**：2023年
-- **页数**：6
-
-##### Leveraging Large Language Models for Wireless Symbol Detection via In-Context Learning
-- **作者**：Momin Abbas, Koushik Kar, Tianyi Chen
-- **论文地址**：<a href="https://arxiv.org/abs/2409.00124" target="_blank" rel="noopener noreferrer">Paper</a>
-- **出版日期**：2024年
-- **页数**：6
-
+M. Zecchin, K. Yu, and O. Simeone, "In-context learning for MIMO equalization using transformer-based sequence models," in *2024 IEEE International Conference on Communications Workshops (ICC Workshops)*, IEEE, 2024, pp. 1573-1578. [<a href="https://arxiv.org/abs/2311.06101" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 2、XoT
 XoT[[Paper]]()  
