@@ -445,7 +445,9 @@ J. Fontaine, A. Shahid, and E. De Poorter, “Towards a wireless physical-layer 
 #### 1、大模型的计算资源分配
 [[Paper]]()  
 H. Du, Z. Li, D. Niyato, J. Kang, Z. Xiong, D. I. Kim et al.,“Enabling ai-generated content (aigc) services in wireless edge networks,” arXiv preprintarXiv:2301.03220, 2023.[<a href="https://arxiv.org/abs/2301.03220" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 H. Du, Z. Li, D. Niyato, J. Kang, Z. Xiong, H. Huang, and S. Mao, “Diffusion-based reinforcement learning for edge-enabled ai-generated content services,” IEEE Transactions on Mobile Computing, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10409284/" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/Lizonghang/AGOD/blob/c8b6a1df58a1de3c1da4903450c7ae2ec8154ebf/main.py" target="_blank" rel="noopener noreferrer">code</a>]
+
 H. Du, G. Liu, Y. Lin, D. Niyato, J. Kang, Z. Xiong, and D. I. Kim,“Mixture of experts for network optimization: A large language model-enabled approach,” arXiv preprint arXiv:2402.09756, 2024.[<a href="https://arxiv.org/abs/2402.09756" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 2、大模型的频谱资源分配
