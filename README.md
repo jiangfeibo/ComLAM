@@ -300,27 +300,27 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
     <td>LLaVA</td>
     <td>2024</td>
     <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/haotian-liu/LLaVA" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Qwen-VL 系列</td>
     <td> Qwen-VL</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2308.12966" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://arxiv.org/pdf/2308.12966 target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/QwenLM/Qwen-VL" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>Qwen-VL-Chat</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2308.12966" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://arxiv.org/pdf/2308.12966" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/QwenLM/Qwen-VL" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>Mini-GPT4</td>
     <td>Mini-GPT4</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2304.10592" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://arxiv.org/pdf/2304.10592" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/Vision-CAIR/MiniGPT-4" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
 </tbody></table>
 
