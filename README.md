@@ -136,8 +136,14 @@ H. Yoo, T. Jung, L. Dai, S. Kim, and C.-B. Chae, “Real-time semantic communica
 
 H. Wu, Y. Shao, E. Ozfatura, K. Mikolajczyk, and D. Gündüz,“Transformer-aided wireless image transmission with channel feedback,” IEEE Transactions on Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10500305/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-2、变分自编码器（VAE）[[Paper]]()    
-3、扩散模型[[Paper]]()    
+2、变分自编码器（VAE）
+M. A. Alawad, M. Q. Hamdan, and K. A. Hamdi, “Innovative variational autoencoder for an end-to-end communication system,”IEEE Access, 2022.[<a href="https://ieeexplore.ieee.org/abstract/document/9964187/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Bo, Y. Duan, S. Shao, and M. Tao, “Joint coding-modulation for digital semantic communications via variational autoencoder,”IEEE Transactions on Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10495330/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Q. Hu, G. Zhang, Z. Qin, Y. Cai, G. Yu, and G. Y. Li, “Robust semantic communications with masked vq-vae enabled codebook,”IEEE Transactions on Wireless Communications, vol. 22, no. 12,pp. 8707–8722, 2023.[<a href="https://ieeexplore.ieee.org/abstract/document/10101778/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+3、扩散模型[[Paper]]()   
 4、Mamba[[Paper]]()    
 ### 大模型分类及其在通信中的应用
 #### 1、大语言模型LLM
