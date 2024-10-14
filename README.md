@@ -256,32 +256,32 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
     <td>DINO V1</td>
     <td>2021</td>
     <td><a href="https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/facebookresearch/dino" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>DINO V2</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2304.07193" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://arxiv.org/pdf/2304.07193" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/facebookresearch/dinov2" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td rowspan=3>Stable Diffusion 系列</td>
     <td> Stable Diffusion V1</td>
     <td>2022</td>
     <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href=" https : / / github.com/CompVis/latent-diffusion " target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Stable Diffusion V2</td>
     <td>2022</td>
     <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https : / / github.com/CompVis/latent-diffusion" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
    <td>Stable Diffusion V3</td>
    <td>2024</td>
    <td><a href="https://openreview.net/forum?id=FPnUhsQJ5B" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://openreview.net/pdf?id=FPnUhsQJ5B" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/facebookresearch/faiss/wiki/The-index-factory" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 </tbody></table>
 
