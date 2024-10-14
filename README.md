@@ -675,7 +675,7 @@ M. Xu, D. Niyato, H. Zhang, J. Kang, Z. Xiong, S. Mao, and Z. Han, “Generative
 J. Wen, R. Zhang, D. Niyato, J. Kang, H. Du, Y. Zhang, and Z. Han, “Generative ai for low-carbon artificial intelligence of things,” arXiv preprint arXiv:2404.18077, 2024.[<a href="https://arxiv.org/abs/2404.18077" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/mlco2/codecarbon" target="_blank" rel="noopener noreferrer">Code</a>] 
 #### 4、其他领域
 
-M. Abbasian, I. Azimi, A. M. Rahmani, and R. Jain, “Conversational health agents: A personalized llm-powered agent framework,” arXiv preprint arXiv:2310.02374, 2023.[<a href="https://arxiv.org/abs/2310.02374" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="⋄https://github.com/Institute4FutureHealth/CHA" target="_blank" rel="noopener noreferrer">Code</a>] 
+M. Abbasian, I. Azimi, A. M. Rahmani, and R. Jain, “Conversational health agents: A personalized llm-powered agent framework,” arXiv preprint arXiv:2310.02374, 2023.[<a href="https://arxiv.org/abs/2310.02374" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/Institute4FutureHealth/CHA" target="_blank" rel="noopener noreferrer">Code</a>] 
 
 H. Wen, Y. Li, G. Liu, S. Zhao, T. Yu, T. J.-J. Li, S. Jiang, Y. Liu,Y. Zhang, and Y. Liu, “Autodroid: Llm-powered task automation in android,” in Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2024, pp. 543–557.[<a href="https://dl.acm.org/doi/abs/10.1145/3636534.3649379" target="_blank" rel="noopener noreferrer">Paper</a>]
 
