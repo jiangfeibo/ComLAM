@@ -517,10 +517,25 @@ J. Wang, H. Du, D. Niyato, J. Kang, Z. Xiong, D. I. Kim, and K. B.Letaief, “To
 
 O. Friha, M. A. Ferrag, B. Kantarci, B. Cakmak, A. Ozgun, and N. Ghoualmi-Zine, “Llm-based edge intelligence: A comprehensive survey on architectures, applications, security and trustworthiness,” IEEE Open Journal of the Communications Society, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10669603/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
+H. Du, R. Zhang, D. Niyato, J. Kang, Z. Xiong, S. Cui,X. Shen, and D. I. Kim, “User-centric interactive ai for distributed diffusion model-based ai-generated content,” arXiv preprint arXiv:2311.11094, 2023.[<a href="https://arxiv.org/abs/2311.11094" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2311.11094" target="_blank" rel="noopener noreferrer">Code</a>]
+
+Y. Shen, J. Shao, X. Zhang, Z. Lin, H. Pan, D. Li, J. Zhang, and
+K. B. Letaief, “Large language models empowered autonomous
+edge ai for connected intelligence,” IEEE Communications Mag-
+azine, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10384606" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+L. Dong, F. Jiang, Y. Peng, K. Wang, K. Yang, C. Pan, and R. Schober, “Lambo: Large language model empowered edge intelligence,” arXiv preprint arXiv:2308.15078, 2023.[<a href="https://arxiv.org/abs/2308.15078" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2308.15078" target="_blank" rel="noopener noreferrer">Code</a>]
+
+T. Zhou, J. Yu, J. Zhang, and D. H. Tsang, “Federated promptbased decision transformer for customized vr services in mobile edge computing system,” arXiv preprint arXiv:2402.09729, 2024.[<a href="https://arxiv.org/abs/2402.09729" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2402.09729" target="_blank" rel="noopener noreferrer">Code</a>]
+
+S. Zhang, Q. Liu, K. Chen, B. Di, H. Zhang, W. Yang, D. Niyato,Z. Han, and H. V. Poor, “Large models for aerial edges: An edge-cloud model evolution and communication paradigm,” IEEE Journal on Selected Areas in Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10681129" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+B. Lai, J. Wen, J. Kang, H. Du, J. Nie, C. Yi, D. I. Kim, and S. Xie, “Resource-efficient generative mobile edge networks in 6g era: Fundamentals, framework and case study,” IEEE Wireless Communications, vol. 31, no. 4, pp. 66–74, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10628023" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 #### 3、边缘端大模型跨域协同与融合
-（1）与无线感知技术的融合[[Paper]]()  
-（2）与强化学习技术的融合[[Paper]]()  
-（3）与缓存和推理技术的融合[[Paper]]()  
+（1）与无线感知技术的融合
+（2）与强化学习技术的融合 
+（3）与缓存和推理技术的融合 
 
 
 ### 大模型在语义通信的应用
@@ -550,20 +565,42 @@ O. Friha, M. A. Ferrag, B. Kantarci, B. Cakmak, A. Ozgun, and N. Ghoualmi-Zine, 
 #### 1、数字孪生
 N. Sehad, L. Bariah, W. Hamidouche, H. Hellaoui, R. Jäntti,and M. Debbah, “Generative ai for immersive communication:The next frontier in internet-of-senses through 6g,” arXiv preprintarXiv:2404.01713, 2024.[<a href="https://arxiv.org/abs/2404.01713" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2404.01713" target="_blank" rel="noopener noreferrer">Code</a>]
 
-Y. Xia, M. Shenoy, N. Jazdi, and M. Weyrich, “Towards au-tonomous system: flexible modular production system enhanced with large language model agents,” in 2023 IEEE 28th Interna-tional Conference on Emerging Technologies and Factory Automa-tion (ETFA). IEEE, 2023, pp. 1–8.[<ahref="https://ieeexplore.ieee.org/abstract/document/10275362" target="_blank" rel="noopener noreferrer">Paper</a>]
+Y. Xia, M. Shenoy, N. Jazdi, and M. Weyrich, “Towards au-tonomous system: flexible modular production system enhanced with large language model agents,” in 2023 IEEE 28th Interna-tional Conference on Emerging Technologies and Factory Automa-tion (ETFA). IEEE, 2023, pp. 1–8.[<a href="https://ieeexplore.ieee.org/abstract/document/10275362" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-N. Das, A. Kotal, D. Roseberry, and A. Joshi, “Change manage-ment using generative modeling on digital twins,” in 2023 IEEE International Conference on Intelligence and Security Informatics(ISI). IEEE, 2023, pp. 1–6.[<ahref="https://ieeexplore.ieee.org/abstract/document/10297181" target="_blank" rel="noopener noreferrer">Paper</a>]
+N. Das, A. Kotal, D. Roseberry, and A. Joshi, “Change manage-ment using generative modeling on digital twins,” in 2023 IEEE International Conference on Intelligence and Security Informatics(ISI). IEEE, 2023, pp. 1–6.[<a href="https://ieeexplore.ieee.org/abstract/document/10297181" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 Z. Tao, W. Xu, Y. Huang, X. Wang, and X. You, “Wireless network digital twin for 6g: Generative ai as a key enabler,” IEEE Wireless Communications, vol. 31, no. 4, pp. 24–31, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10628026" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-C. Zhao, H. Du, D. Niyato, J. Kang, Z. Xiong, D. I. Kim, K. B.Letaief et al., “Generative ai for secure physical layer communica-tions: A survey,” arXiv preprint arXiv:2402.13553, 2024.[<ahref="https://ieeexplore.ieee.org/abstract/document/10623395" target="_blank" rel="noopener noreferrer">Paper</a>]
+C. Zhao, H. Du, D. Niyato, J. Kang, Z. Xiong, D. I. Kim, K. B.Letaief et al., “Generative ai for secure physical layer communica-tions: A survey,” arXiv preprint arXiv:2402.13553, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10623395" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 2、智慧医疗
-[[Paper]]()  
+J. Chen, C. Yi, H. Du, D. Niyato, J. Kang, J. Cai, and X. Shen,“A revolution of personalized healthcare: Enabling human digital twin with mobile aigc,” IEEE Network, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10438453" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 #### 3、元宇宙
-[[Paper]]()  
+M. Xu, D. Niyato, H. Zhang, J. Kang, Z. Xiong, S. Mao,and Z. Han, “Sparks of gpts in edge intelligence for metaverse:caching and inference for mobile aigcservices,” arXiv preprint arXiv:2304.08782, 2023.[<a href="https://arxiv.org/abs/2304.08782" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2304.08782" target="_blank" rel="noopener noreferrer">Code</a>]
+
+Y. Lin, Z. Gao, H. Du, D. Niyato, J. Kang, A. Jamalipour, andX. S. Shen, “A unified framework for integrating semantic communication and aigenerated content in metaverse,” IEEE Network,2023.[<a href="https://ieeexplore.ieee.org/abstract/document/10273254" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+H. Du, Z. Li, D. Niyato, J. Kang, Z. Xiong, H. Huang, and S. Mao,“Generative ai-aided optimization for ai-generated content (aigc) services in edge networks,” arXiv preprint arXiv:2303.13052, 2023.[<a href="https://arxiv.org/abs/2303.13052v1" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+G. Liu, H. Du, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour,S. Mao, and D. I. Kim, “Fusion of mixture of experts and generative artificial intelligence in mobile edge metaverse,” arXiv preprint arXiv:2404.03321, 2024.[<a href="https://arxiv.org/abs/2404.03321" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2404.03321" target="_blank" rel="noopener noreferrer">Code</a>]
+
+M. Xu, D. Niyato, H. Zhang, J. Kang, Z. Xiong, S. Mao, and Z. Han, “Generative ai-empowered effective physical-virtual synchronization in the vehicular metaverse,” in 2023 IEEE Inter-national Conference on Metaverse Computing, Networking and Applications (MetaCom). IEEE, 2023, pp. 607–611.[<a href="https://ieeexplore.ieee.org/abstract/document/10271797" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+J. Wen, R. Zhang, D. Niyato, J. Kang, H. Du, Y. Zhang, and Z. Han, “Generative ai for low-carbon artificial intelligence of things,” arXiv preprint arXiv:2404.18077, 2024.[<a href="https://arxiv.org/abs/2404.18077" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2404.18077" target="_blank" rel="noopener noreferrer">Code</a>] 
 #### 4、其他领域
-[[Paper]]()  
+
+M. Abbasian, I. Azimi, A. M. Rahmani, and R. Jain, “Conversational health agents: A personalized llm-powered agent framework,” arXiv preprint arXiv:2310.02374, 2023.[<a href="https://arxiv.org/abs/2310.02374" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2310.02374" target="_blank" rel="noopener noreferrer">Code</a>] 
+
+H. Wen, Y. Li, G. Liu, S. Zhao, T. Yu, T. J.-J. Li, S. Jiang, Y. Liu,Y. Zhang, and Y. Liu, “Autodroid: Llm-powered task automation in android,” in Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2024, pp. 543–557.[<a href="https://dl.acm.org/doi/abs/10.1145/3636534.3649379" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+S. Javaid, R. A. Khalil, N. Saeed, B. He, and M.-S. Alouini,“Leveraging large language models for integrated satellite-aerialterrestrial networks: recent advances and future directions,” arXiv preprint arXiv:2407.04581, 2024.[<a href="https://arxiv.org/abs/2407.04581" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2407.04581" target="_blank" rel="noopener noreferrer">Code</a>] 
+
+S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Current state and pathways to the future,” IEEE Open Journal of Vehicular Technology, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10643253" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+H. Cui, Y. Du, Q. Yang, Y. Shao, and S. C. Liew, “Llmind:Orchestrating ai and iot with llm for complex task execution,”IEEE Communications Magazine, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10697418" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+L. Bariah, H. Zou, Q. Zhao, B. Mouhouche, F. Bader, and M. Debbah, “Understanding telecom language through large language models,” in GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023, pp. 6542–6547.[<a href="https://ieeexplore.ieee.org/abstract/document/10437725" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ## 团队
 | 部分 	| 学生贡献者 	|
