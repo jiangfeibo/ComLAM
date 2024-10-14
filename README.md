@@ -292,13 +292,13 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
     <td> Stable Diffusion V1</td>
     <td>2022</td>
     <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-   <td><a href="https : / / github.com/CompVis/latent-diffusion" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href=" https://github.com/CompVis/latent-diffusion " target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Stable Diffusion V2</td>
     <td>2022</td>
     <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https : / / github.com/CompVis/latent-diffusion" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="https://github.com/CompVis/latent-diffusion" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
    <td>Stable Diffusion V3</td>
