@@ -126,28 +126,29 @@
 5、通信安全评测[[Paper]]()    
 
 ## ComLAM的关键架构、分类和优化方法
-### 大模型
-#### 1、Large Language Model
+### 大模型分类
+#### 1、大语言模型（Large Language Model）
 
 F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large ai model-based semantic communications,” IEEE Wireless Communications, vol. 31, no. 3, pp. 68–75, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558819" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 P. Jiang, C.-K. Wen, X. Yi, X. Li, S. Jin, and J. Zhang, “Semantic communications using foundation models: Design approaches and open issues,” IEEE Wireless Communications, vol. 31, no. 3, pp.76–84, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558822" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-#### 2、Large Vision Model
+#### 2、大视觉模型（Large Vision Model）
 
 F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large generative model assisted 3d semantic communication,”arXiv preprint arXiv:2403.05783, 2024.[<a href="https://arxiv.org/abs/2403.05783" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-#### 3、Vision-Language Model
+#### 3、视觉语言模型（Vision-Language Model）
 
 F. Jiang, C. Tang, L. Dong, K. Wang, K. Yang, and C. Pan, “Visual language model based cross-modal semantic communication systems,” arXiv preprint arXiv:2407.00020, 2024.[<a href="https://arxiv.org/abs/2407.00020" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-#### 4、Multimodal Large Model
+#### 4、多模态大模型（Multimodal Large Model）
 
 L. Qiao, M. B. Mashhadi, Z. Gao, C. H. Foh, P. Xiao, and M. Bennis, “Latency-aware generative semantic communications with pretrained diffusion models,” arXiv preprint arXiv:2403.17256, 2024.[<a href="https://arxiv.org/abs/2403.17256" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-#### 5、World Model
+#### 5、世界模型（World Model）
 
 W. Saad, O. Hashash, C. K. Thomas, C. Chaccour, M. Debbah,N. Mandayam, and Z. Han, “Artificial general intelligence (agi)native wireless systems: A journey beyond 6g,” arXiv preprint arXiv:2405.02336, 2024.[<a href="https://arxiv.org/abs/2405.02336" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 ### 大模型的关键架构
 1、Transformer
 
@@ -291,7 +292,7 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
     <td> Stable Diffusion V1</td>
     <td>2022</td>
     <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href=" https : / / github.com/CompVis/latent-diffusion " target="_blank" rel="noopener noreferrer">Code</a></td>
+   <td><a href="https : / / github.com/CompVis/latent-diffusion" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Stable Diffusion V2</td>
