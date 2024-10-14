@@ -127,7 +127,15 @@
 
 ## ComLAM的关键架构、分类和优化方法
 ### 大模型的关键架构
-1、Transformer[[Paper]]()    
+1、Transformer
+Y. Liu, “Roberta: A robustly optimized bert pretraining approach,”arXiv preprint arXiv:1907.11692, 2019.[<a href="https://arxiv.org/abs/1907.11692" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/IndicoDataSolutions/finetune/tree/b1b072cc2b0dd16545f96fc949d5d04af52d02d3" target="_blank" rel="noopener noreferrer">code</a>]
+
+Y. Wang, Z. Gao, D. Zheng, S. Chen, D. Gündüz, and H. V.Poor, “Transformer-empowered 6g intelligent networks: From massive mimo processing to semantic communication,” IEEE Wireless Communications, vol. 30, no. 6, pp. 127–135, 2022.[<a href="https://ieeexplore.ieee.org/abstract/document/9961131/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+H. Yoo, T. Jung, L. Dai, S. Kim, and C.-B. Chae, “Real-time semantic communications with a vision transformer,” in 2022 IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2022, pp. 1–2.[<a href="https://ieeexplore.ieee.org/abstract/document/9914635/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+H. Wu, Y. Shao, E. Ozfatura, K. Mikolajczyk, and D. Gündüz,“Transformer-aided wireless image transmission with channel feedback,” IEEE Transactions on Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10500305/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 2、变分自编码器（VAE）[[Paper]]()    
 3、扩散模型[[Paper]]()    
 4、Mamba[[Paper]]()    
