@@ -25,12 +25,6 @@
     * [ComLAM的对齐方法](#ComLAM的对齐方法)
     * [ComLAM的评估方法](#ComLAM的评估方法)
   * [ComLAM的关键架构、分类和优化方法](#ComLAM的关键架构分类和优化方法)
-    * [大模型分类]
-      *[大语言模型（Large Language Model）]
-      *[大视觉模型（Large Vision Model）]
-      *[视觉语言模型（Vision-Language Model）]
-      *[多模态大模型（Multimodal Large Model）]
-      *[世界模型（World Model）] 
     * [大模型的关键架构](#1大模型的关键架构)
     * [大模型分类及其在通信中的应用](#2大模型分类及其在通信中的应用)
       * [大语言模型LLM](#大语言模型LLM)
