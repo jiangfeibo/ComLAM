@@ -300,27 +300,27 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
     <td>LLaVA</td>
     <td>2024</td>
     <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/haotian-liu/LLaVA" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/haotian-liu/LLaVA" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Qwen-VL 系列</td>
     <td> Qwen-VL</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2308.12966" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/QwenLM/Qwen-VL" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/QwenLM/Qwen-VL" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Qwen-VL-Chat</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2308.12966" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/QwenLM/Qwen-VL" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/QwenLM/Qwen-VL" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Mini-GPT4</td>
     <td>Mini-GPT4</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2304.10592" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/Vision-CAIR/MiniGPT-4" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/Vision-CAIR/MiniGPT-4" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 </tbody></table>
 
@@ -341,20 +341,20 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
     <td>CoDi-1</td>
     <td>2024</td>
     <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/33edf072fe44f19079d66713a1831550-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/microsoft/i-Code/tree/main/i-Code-V3" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/microsoft/i-Code/tree/main/i-Code-V3" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>CoDi-2</td>
     <td>2024</td>
     <td><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Tang_CoDi-2_In-Context_Interleaved_and_Interactive_Any-to-Any_Generation_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/microsoft/i-Code/tree/main/CoDi-2" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/microsoft/i-Code/tree/main/CoDi-2" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Meta-Transformer</td>
     <td>Meta-Transformer</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2307.10802" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/invictus717/MetaTransformer" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/invictus717/MetaTransformer" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
      <td>ImageBind</td>
@@ -380,7 +380,7 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
     <td>Sora</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2402.17177" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/lichao-sun/SoraReview" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/lichao-sun/SoraReview" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
      <td>JEPA </td>
@@ -394,7 +394,7 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
       <td>Vista</td>
       <td>2024</td>
       <td><a href="https://arxiv.org/abs/2405.17398" target="_blank" rel="noopener noreferrer">Paper</a></td>
-      <td><a href="https://github.com/OpenDriveLab/Vista" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+      <td><a href="https://github.com/OpenDriveLab/Vista" target="_blank" rel="noopener noreferrer">Code</a></td>
     </tr>
 </tbody></table>
 
@@ -413,21 +413,21 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
     <td>TinyLlama</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2401.02385" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/jzhang38/TinyLlama" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/jzhang38/TinyLlama" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
      <td>MobileVLM</td>
      <td>MobileVLM</td>
      <td>2024</td>
      <td><a href="https://arxiv.org/abs/2402.03766" target="_blank" rel="noopener noreferrer">Paper</a></td>
-     <td><a href="https://github.com/Meituan-AutoML/MobileVLM" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+     <td><a href="https://github.com/Meituan-AutoML/MobileVLM" target="_blank" rel="noopener noreferrer">Code</a></td>
    </tr>
    <tr align="center">
       <td>Mini-Gemini</td>
       <td>Mini-Gemini</td>
       <td>2024</td>
       <td><a href="https://arxiv.org/abs/2403.18814" target="_blank" rel="noopener noreferrer">Paper</a></td>
-      <td><a href="https://github.com/dvlab-research/MGM" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+      <td><a href="https://github.com/dvlab-research/MGM" target="_blank" rel="noopener noreferrer">Code</a></td>
     </tr>
 </tbody></table>
 
