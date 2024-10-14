@@ -143,7 +143,15 @@ Y. Bo, Y. Duan, S. Shao, and M. Tao, “Joint coding-modulation for digital sema
 
 Q. Hu, G. Zhang, Z. Qin, Y. Cai, G. Yu, and G. Y. Li, “Robust semantic communications with masked vq-vae enabled codebook,”IEEE Transactions on Wireless Communications, vol. 22, no. 12,pp. 8707–8722, 2023.[<a href="https://ieeexplore.ieee.org/abstract/document/10101778/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-3、扩散模型[[Paper]]()   
+3、扩散模型
+H. Du, R. Zhang, Y. Liu, J. Wang, Y. Lin, Z. Li, D. Niyato, J. Kang,Z. Xiong, S. Cui et al., “Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization,”arXiv preprint arXiv:2308.05384, 2023.[<a href="https://arxiv.org/abs/2308.05384" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/hongyangdu/gdmopt" target="_blank" rel="noopener noreferrer">code</a>]
+
+T. Wu, Z. Chen, D. He, L. Qian, Y. Xu, M. Tao, and W. Zhang,“Cddm: Channel denoising diffusion models for wireless communications,” in GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023, pp. 7429–7434.[<a href="https://ieeexplore.ieee.org/abstract/document/10436728/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Duan, T. Wu, Z. Chen, and M. Tao, “Dm-mimo: Diffusion models for robust semantic communications over mimo channels,”arXiv preprint arXiv:2407.05289,2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10681856/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+G. Chi, Z. Yang, C. Wu, J. Xu, Y. Gao, Y. Liu, and T. X. Han, “Rfdiffusion: Radio signal generation via time-frequency diffusion,” in Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2024, pp. 77–92.[<a href="https://dl.acm.org/doi/abs/10.1145/3636534.3649348" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 4、Mamba[[Paper]]()    
 ### 大模型分类及其在通信中的应用
 #### 1、大语言模型LLM
