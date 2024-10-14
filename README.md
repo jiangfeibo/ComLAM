@@ -398,22 +398,27 @@
 
 ### 大模型的优化方法
 #### 1、In-context learning(ICL)
-In-context learning(ICL)[[Paper]]() 
 
 M. Zecchin, K. Yu, and O. Simeone, "In-context learning for MIMO equalization using transformer-based sequence models," in *2024 IEEE International Conference on Communications Workshops (ICC Workshops)*, IEEE, 2024, pp. 1573-1578. [<a href="https://arxiv.org/abs/2311.06101" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 2、XoT
-XoT[[Paper]]()  
+
 T. B. Brown, “Language models are few-shot learners,” arXiv preprint arXiv:2005.14165, 2020.[<a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 J. Achiam, S. Adler, S. Agarwal, L. Ahmad, I. Akkaya, F. L.Aleman, D. Almeida, J. Altenschmidt, S. Altman, S. Anadkat et al., “Gpt-4 technical report,” arXiv preprint arXiv:2303.08774,2023.[<a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/openai/evals" target="_blank" rel="noopener noreferrer">code</a>]
+
 A. Chowdhery, S. Narang, J. Devlin, M. Bosma, G. Mishra,A. Roberts, P. Barham, H. W. Chung, C. Sutton, S. Gehrmann et al., “Palm: Scaling language modeling with pathways,” Journal of Machine Learning Research, vol. 24, no. 240, pp. 1–113, 2023.[<a href="https://www.jmlr.org/papers/v24/22-1144.html" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 S. Rasal, “Llm harmony: Multi-agent communication for problem solving,” arXiv preprint arXiv:2401.01312, 2024.[<a href="https://arxiv.org/abs/2401.01312" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/sumedhrasal/simulation" target="_blank" rel="noopener noreferrer">code</a>]
 
 #### 3、检索生成增强(RAG)
-检索生成增强(RAG)[[Paper]]()  
+
 A.-L. Bornea, F. Ayed, A. De Domenico, N. Piovesan, and A. Maatouk, “Telco-rag: Navigating the challenges of retrieval-augmented language models for telecommunications,” arXiv preprint arXiv:2404.15939, 2024.[<a href="https://arxiv.org/abs/2404.15939" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 Z. Rackauckas, “Rag-fusion: a new take on retrieval-augmented generation,” arXiv preprint arXiv:2402.03367, 2024.[<a href="https://arxiv.org/abs/2402.03367" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 W. Jiang, S. Zhang, B. Han, J. Wang, B. Wang, and T. Kraska,“Piperag: Fast retrieval-augmented generation via algorithm-system co-design,” arXiv preprint arXiv:2403.05676, 2024.[<a href="https://arxiv.org/abs/2403.05676" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 Y. Tang and W. Guo, “Automatic retrieval-augmented generation of 6g network specifications for use cases,” arXiv preprint arXiv:2405.03122, 2024.[<a href="https://arxiv.org/abs/2405.03122" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 4、多智能体系统(MAS)
