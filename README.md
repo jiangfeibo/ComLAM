@@ -341,27 +341,27 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
     <td>CoDi-1</td>
     <td>2024</td>
     <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/33edf072fe44f19079d66713a1831550-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/33edf072fe44f19079d66713a1831550-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/microsoft/i-Code/tree/main/i-Code-V3" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>CoDi-2</td>
     <td>2024</td>
     <td><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Tang_CoDi-2_In-Context_Interleaved_and_Interactive_Any-to-Any_Generation_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Tang_CoDi-2_In-Context_Interleaved_and_Interactive_Any-to-Any_Generation_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/microsoft/i-Code/tree/main/CoDi-2" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
     <td>Meta-Transformer</td>
     <td>Meta-Transformer</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2307.10802" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://arxiv.org/abs/2307.10802" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/invictus717/MetaTransformer" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
      <td>ImageBind</td>
      <td>ImageBind</td>
      <td>2023</td>
      <td><a href="http://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-     <td><a href="http://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+     <td></td>
    </tr>
 </tbody></table>
 
@@ -380,21 +380,21 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
     <td>Sora</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2402.17177" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://arxiv.org/abs/2402.17177" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/lichao-sun/SoraReview" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
      <td>JEPA </td>
      <td>JEPA </td>
      <td>2022</td>
      <td><a href="https://openreview.net/pdf?id=BZ5a1r-kVsf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-     <td><a href="https://openreview.net/pdf?id=BZ5a1r-kVsf" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+        <td></td>
    </tr>
    <tr align="center">
       <td>Vista</td>
       <td>Vista</td>
       <td>2024</td>
       <td><a href="https://arxiv.org/abs/2405.17398" target="_blank" rel="noopener noreferrer">Paper</a></td>
-      <td><a href="https://arxiv.org/abs/2405.17398" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+      <td><a href="https://github.com/OpenDriveLab/Vista" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
     </tr>
 </tbody></table>
 
@@ -413,21 +413,21 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
     <td>TinyLlama</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2401.02385" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://arxiv.org/abs/2401.02385" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/jzhang38/TinyLlama" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
   </tr>
   <tr align="center">
      <td>MobileVLM</td>
      <td>MobileVLM</td>
      <td>2024</td>
      <td><a href="https://arxiv.org/abs/2402.03766" target="_blank" rel="noopener noreferrer">Paper</a></td>
-     <td><a href="https://arxiv.org/abs/2402.03766" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+     <td><a href="https://github.com/Meituan-AutoML/MobileVLM" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
    </tr>
    <tr align="center">
       <td>Mini-Gemini</td>
       <td>Mini-Gemini</td>
       <td>2024</td>
       <td><a href="https://arxiv.org/abs/2403.18814" target="_blank" rel="noopener noreferrer">Paper</a></td>
-      <td><a href="https://arxiv.org/abs/2403.18814" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+      <td><a href="https://github.com/dvlab-research/MGM" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
     </tr>
 </tbody></table>
 
