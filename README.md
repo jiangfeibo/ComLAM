@@ -542,8 +542,16 @@ O. Friha, M. A. Ferrag, B. Kantarci, B. Cakmak, A. Ozgun, and N. Ghoualmi-Zine, 
 
 ### 大模型在新兴应用的应用
 #### 1、数字孪生
-N. Sehad, L. Bariah, W. Hamidouche, H. Hellaoui, R. Jäntti,and M. Debbah, “Generative ai for immersive communication:The next frontier in internet-of-senses through 6g,” arXiv preprint
-arXiv:2404.01713, 2024.[<a href="https://arxiv.org/abs/2404.01713" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2404.01713" target="_blank" rel="noopener noreferrer">Code</a>]
+N. Sehad, L. Bariah, W. Hamidouche, H. Hellaoui, R. Jäntti,and M. Debbah, “Generative ai for immersive communication:The next frontier in internet-of-senses through 6g,” arXiv preprintarXiv:2404.01713, 2024.[<a href="https://arxiv.org/abs/2404.01713" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2404.01713" target="_blank" rel="noopener noreferrer">Code</a>]
+
+Y. Xia, M. Shenoy, N. Jazdi, and M. Weyrich, “Towards au-tonomous system: flexible modular production system enhanced with large language model agents,” in 2023 IEEE 28th Interna-tional Conference on Emerging Technologies and Factory Automa-tion (ETFA). IEEE, 2023, pp. 1–8.[<ahref="https://ieeexplore.ieee.org/abstract/document/10275362" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+N. Das, A. Kotal, D. Roseberry, and A. Joshi, “Change manage-ment using generative modeling on digital twins,” in 2023 IEEE International Conference on Intelligence and Security Informatics(ISI). IEEE, 2023, pp. 1–6.[<ahref="https://ieeexplore.ieee.org/abstract/document/10297181" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Z. Tao, W. Xu, Y. Huang, X. Wang, and X. You, “Wireless network digital twin for 6g: Generative ai as a key enabler,” IEEE Wireless Communications, vol. 31, no. 4, pp. 24–31, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10628026" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+C. Zhao, H. Du, D. Niyato, J. Kang, Z. Xiong, D. I. Kim, K. B.Letaief et al., “Generative ai for secure physical layer communica-tions: A survey,” arXiv preprint arXiv:2402.13553, 2024.[<ahref="https://ieeexplore.ieee.org/abstract/document/10623395" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 #### 2、智慧医疗
 [[Paper]]()  
 #### 3、元宇宙
