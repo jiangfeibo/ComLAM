@@ -585,26 +585,68 @@ M. Xu, D. Niyato, H. Zhang, J. Kang, Z. Xiong, S. Mao, and Z. Han, “Joint foun
 
 ### 大模型在语义通信的应用
 #### 1、AIGC 增强的语义通信系统
-（1）基于扩散模型的语义通信优化[[Paper]]()  
-（2）基于 Transformer 的语义增强和推理[[Paper]]()  
-（3）基于 LLM 的语义通信优化[[Paper]]()  
-（4）基于大视觉模型的语义通信[[Paper]]()  
+（1）基于扩散模型的语义通信优化
+
+F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large ai model-based semantic communications,” IEEE Wireless Communications, vol. 31, no. 3, pp. 68–75, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558819" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+（2）基于 Transformer 的语义增强和推理
+
+F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large generative model assisted 3d semantic communication,”arXiv preprint arXiv:2403.05783, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10436771" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+（3）基于 LLM 的语义通信优化
+
+T. Wu, Z. Chen, D. He, L. Qian, Y. Xu, M. Tao, and W. Zhang,“Cddm: Channel denoising diffusion models for wireless semantic communications,” IEEE Transactions on Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10480348" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+F. Ni, B. Wang, R. Li, Z. Zhao, and H. Zhang, “Interplay of semantic communication and knowledge learning,” arXiv preprint arXiv:2402.03339, 2024.[<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394223336.ch5" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Z. Wang, L. Zou, S. Wei, F. Liao, J. Zhuo, H. Mi, and R. Lai, “Large language model enabled semantic communication systems,” arXiv preprint arXiv:2407.14112, 2024.[<a href="https://arxiv.org/abs/2407.14112" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2407.14112" target="_blank" rel="noopener noreferrer">Code</a>]
+
+（4）基于大视觉模型的语义通信
+
+Y. Zhao, Y. Yue, S. Hou, B. Cheng, and Y. Huang, “Lamosc: Large language model-driven semantic communication system for visual transmission,” IEEE Transactions on Cognitive Communications and Networking, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10531769" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Kim, S. Seo, J. Park, M. Bennis, S.-L. Kim, and J. Choi,“Knowledge distillation from language-oriented to emergent communication for multi-agent remote control,” arXiv preprintarXiv:2401.12624, 2024.[<a href="https://arxiv.org/abs/2401.12624" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2401.12624" target="_blank" rel="noopener noreferrer">Code</a>]
 
 #### 2、智能体驱动的语义通信系统
-[[Paper]]()  
+
+W. Yang, Z. Xiong, Y. Yuan, W. Jiang, T. Q. Quek, and M. Debbah, “Agent-driven generative semantic communication for remote surveillance,” arXiv preprint arXiv:2404.06997, 2024.[<a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.172165653.34559702" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, D. Niyato,and O. A. Dobre, “Large language model enhanced multi-agent systems for 6g communications,” IEEE Wireless Communications,2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10638533" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 3、语义通信与无线感知
-[[Paper]]()  
 
+J. Wang, H. Du, D. Niyato, Z. Xiong, J. Kang, S. Mao, and X. S. Shen, “Guiding ai-generated digital content with wireless perception,” IEEE Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10515205" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### 大模型在安全隐私的应用
 #### 1、网络安全威胁检测与防御
-（1）后门攻击防御[[Paper]]()  
-（2）网络威胁检测[[Paper]]()  
-（3）软件漏洞检测[[Paper]]()  
+（1）后门攻击防御 
+
+H. Yang, K. Xiang, M. Ge, H. Li, R. Lu, and S. Yu, “A comprehen-
+sive overview of backdoor attacks in large language models within
+communication networks,” IEEE Network, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10440367" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+（2）网络威胁检测
+
+M. A. Ferrag, M. Ndhlovu, N. Tihanyi, L. C. Cordeiro, M. Debbah,T. Lestable, and N. S. Thandi, “Revolutionizing cyber threat detection with large language models: A privacy-preserving bert based lightweight model for iot/iiot devices,” IEEE Access, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10423646" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Ferrag M A, Ndhlovu M, Tihanyi N, et al. Revolutionizing cyber threat detection with large language models[J]. arXiv preprint arXiv:2306.14263, 2023.[<a href="https://arxiv.org/abs/2306.14263" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2306.14263" target="_blank" rel="noopener noreferrer">Code</a>]
+
+J. Wang, Y. Li, Q. Qi, Y. Lu, and B. Wu, “Multilayered fault detection and localization with transformer for microservice systems,”IEEE Transactions on Reliability, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10423414" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+（3）软件漏洞检测
+
+M. A. Ferrag, A. Battah, N. Tihanyi, M. Debbah, T. Lestable, and L. C. Cordeiro, “Securefalcon: The next cyber reasoning system for cyber security,” arXiv preprint arXiv:2307.06616, 2023.[<a href="https://arxiv.org/abs/2307.06616" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2307.06616" target="_blank" rel="noopener noreferrer">Code</a>]
+
 
 #### 2、通信网络中的可信 AI
-[[Paper]]()  
+
+H. Luo, J. Luo, and A. V. Vasilakos, “Bc4llm: Trusted artificial intelligence when blockchain meets large language models,” arXiv preprint arXiv:2310.06278, 2023.[<a href="https://arxiv.org/abs/2310.06278" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+
+H. Du, D. Niyato, J. Kang, Z. Xiong, K.-Y. Lam, Y. Fang,and Y. Li, “Spear or shield: Leveraging generative ai to tackle security threats of intelligent network services,” arXiv preprint arXiv:2306.02384, 2023.[<a href="https://arxiv.org/abs/2306.02384" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2306.02384" target="_blank" rel="noopener noreferrer">Code</a>]
+
+C. T. Nguyen, Y. Liu, H. Du, D. T. Hoang, D. Niyato, D. N. Nguyen, and S. Mao, “Generative ai-enabled blockchain networks:Fundamentals, applications, and case study,” IEEE Network, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10552807" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 
 ### 大模型在新兴应用的应用
 #### 1、数字孪生
