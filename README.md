@@ -462,7 +462,7 @@ Y. Tang and W. Guo, “Automatic retrieval-augmented generation of 6g network sp
 
 J. Tong, J. Shao, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang,“Wirelessagent: Large language model agents for intelligent wireless networks,” arXiv preprint arXiv:2409.07964, 2024.[<a href="https://arxiv.org/abs/2409.07964" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/weiiguo/wireless-agent" target="_blank" rel="noopener noreferrer">code</a>]
 
-F. Jiang, L. Dong, Y. Peng, K. Wang, K. Yang,C. Pan, D. T. Niyato, and O. A. Dobre, “Large language model enhanced multi-agent systems for 6g communications,” ArXiv, vol. abs/2312.07850, 2023. [Online].Available: https://api.semanticscholar.org/CorpusID:266191504.[<a href="https://ieeexplore.ieee.org/abstract/document/10638533/" target="_blank" rel="noopener noreferrer">Paper</a>]
+F. Jiang, L. Dong, Y. Peng, K. Wang, K. Yang,C. Pan, D. T. Niyato, and O. A. Dobre, “Large language model enhanced multi-agent systems for 6g communications,” ArXiv, vol. abs/2312.07850, 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10638533/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 5、混合专家模型(MoE)
 
@@ -578,7 +578,7 @@ M. Xu, D. Niyato, H. Zhang, J. Kang, Z. Xiong, S. Mao, and Z. Han, “Joint foun
 
 （3）与缓存和推理技术的融合
 
-——, “Cached model-as-a-resource: Provisioning large language model agents for edge intelligence in space-air-ground integrated networks,” 2024. [Online]. Available:https://arxiv.org/abs/2403.05826.[<a href="https://arxiv.org/abs/2403.05826" target="_blank" rel="noopener noreferrer">Paper</a>]
+——, “Cached model-as-a-resource: Provisioning large language model agents for edge intelligence in space-air-ground integrated networks,” 2024.[<a href="https://arxiv.org/abs/2403.05826" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### 大模型在语义通信的应用
 #### 1、AIGC 增强的语义通信系统
