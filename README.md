@@ -243,13 +243,13 @@ B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture
     <td>SAM-1</td>
     <td>2023</td>
     <td><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Kirillov_Segment_Anything_ICCV_2023_paper.pdf" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>SAM-2</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2408.08315" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://arxiv.org/pdf/2408.08315" target="_blank" rel="noopener noreferrer">Checkpoint</a></td>
+    <td><a href="https://github.com/983632847/sam-for-videos" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>DINO 系列</td>
