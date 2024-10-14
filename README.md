@@ -534,9 +534,18 @@ B. Lai, J. Wen, J. Kang, H. Du, J. Nie, C. Yi, D. I. Kim, and S. Xie, “Resourc
 
 #### 3、边缘端大模型跨域协同与融合
 （1）与无线感知技术的融合
-（2）与强化学习技术的融合 
-（3）与缓存和推理技术的融合 
 
+J. Wang, H. Du, D. Niyato, J. Kang, Z. Xiong, D. Rajan, S. Mao,and X. Shen, “A unified framework for guiding generative ai with wireless perception in resource constrained mobile edge networks,”IEEE Transactions on Mobile Computing, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10472660" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+（2）与强化学习技术的融合
+
+H. Du, Z. Li, D. Niyato, J. Kang, Z. Xiong, H. Huang, and S. Mao, “Diffusion-based reinforcement learning for edge-enabled ai-generated content services,” IEEE Transactions on Mobile Computing, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10409284" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+M. Xu, D. Niyato, H. Zhang, J. Kang, Z. Xiong, S. Mao, and Z. Han, “Joint foundation model caching and inference of generative ai services for edge intelligence,” in GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023, pp. 35483553.[<a href="https://ieeexplore.ieee.org/abstract/document/10436771" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+（3）与缓存和推理技术的融合
+
+——, “Cached model-as-a-resource: Provisioning large language model agents for edge intelligence in space-air-ground integrated networks,” 2024. [Online]. Available:https://arxiv.org/abs/2403.05826[<a href="https://arxiv.org/abs/2403.05826" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/format/2403.05826" target="_blank" rel="noopener noreferrer">Code</a>]
 
 ### 大模型在语义通信的应用
 #### 1、AIGC 增强的语义通信系统
