@@ -12,52 +12,52 @@
   * [Contents](#Contents)
   * [I.INTRODUCTION](#IINTRODUCTION)
     * [A. Background](#)
-      * [1) Traditional machine learning-assisted communication](#Traditional machine learning-assisted communication)
-      * [2) Deep supervised learning-assisted communication](#Deep supervised learning-assisted communication)
-      * [3) Deep reinforcement learning-assisted communication](#Deep reinforcement learning-assisted communication)
-      * [4) Generative AI-assisted communication](#Generative AI-assisted communication)
+      * [1) Traditional machine learning-assisted communication](#)
+      * [2) Deep supervised learning-assisted communication](#)
+      * [3) Deep reinforcement learning-assisted communication](#)
+      * [4) Generative AI-assisted communication](#)
     * [B. Motivation](#)
-      * [1) Outstanding global perspective and decision-making capability](#1)
-      * [2) Significant robustness and generalization capability](#2通信专用数据集)
-      * [3) Remarkable comprehension and emergent capabilities](#3用于预训练的通信数据集)
-    * [C. Related survey work](#ComLAM的预训练方法)
-    * [D. Contributions](#ComLAM的微调方法)
-      * [1) Learning foundations of LAMs for communications](#1通用数据集)
-      * [2) Design foundations of LAMs for communications](#2通信专用数据集)
-      * [3) Applications of LAMs for communications](#3用于预训练的通信数据集)
-      * [4) Research challenges and future directions of LAMs for communications](#3用于预训练的通信数据集)
-  * [II. LEARNING FOUNDATIONS OF LAMS FOR COMMUNICATIONS](#ComLAM的关键架构分类和优化方法)
-    * [A. Development history of LAMs](#1大模型的关键架构)
-      * [1) Emergence stage](#1通用数据集)
-      * [2) Initial stage](#2通信专用数据集)
-      * [3) Mature stage](#3用于预训练的通信数据集)
-      * [4) Multimodal stage](#3用于预训练的通信数据集)
-      * [5) World model stage](#3用于预训练的通信数据集)
-    * [B. Communication datasets for LAMs](#2大模型分类及其在通信中的应用)
-      * [1) General datasets](#大语言模型LLM)
-      * [2) Communication content filtering](#大视觉模型VLM)
-      * [3) Communication pre-training datasets](#视觉语言模型VLM)
-      * [4) Communication fine-tuning datasets](#多模态大模型)
-      * [5) Communication alignment datasets](#世界模型)
-    * [C. Pre-training of LAMs for communications](#3大模型的优化方法)
-      * [1) Pre-training on general datasets](#In-contextlearning(ICL))
+      * [1) Outstanding global perspective and decision-making capability](#)
+      * [2) Significant robustness and generalization capability](#)
+      * [3) Remarkable comprehension and emergent capabilities](#)
+    * [C. Related survey work](#)
+    * [D. Contributions](#)
+      * [1) Learning foundations of LAMs for communications](#)
+      * [2) Design foundations of LAMs for communications](#)
+      * [3) Applications of LAMs for communications](#)
+      * [4) Research challenges and future directions of LAMs for communications](#)
+  * [II. LEARNING FOUNDATIONS OF LAMS FOR COMMUNICATIONS](#)
+    * [A. Development history of LAMs](#)
+      * [1) Emergence stage](#)
+      * [2) Initial stage](#)
+      * [3) Mature stage](#)
+      * [4) Multimodal stage](#)
+      * [5) World model stage](#)
+    * [B. Communication datasets for LAMs](#)
+      * [1) General datasets](#)
+      * [2) Communication content filtering](#)
+      * [3) Communication pre-training datasets](#)
+      * [4) Communication fine-tuning datasets](#)
+      * [5) Communication alignment datasets](#)
+    * [C. Pre-training of LAMs for communications](#)
+      * [1) Pre-training on general datasets](#)
       * [2) Continual pre-training on communication datasets](#XoT)
-      * [3) Optimization strategies for pre-training](#检索生成增强(RAG))
-    * [D. Fine-tuning of LAMs for communications](#大模型在通信领域中的应用)
-      * [1) Diverse instruction tasks](#大模型在PHY和MAC层中的设计)
-      * [2) Fine-tuning steps](#1大模型在PHY层的设计)
-      * [3) Fine-tuning techniques](#2大模型在MAC层的设计)
-    * [E. Alignment of LAMs for communications](#大模型在资源分配和优化的应用)
-      * [1) RLHF](#1大模型的计算资源分配)
-      * [2) Other alignment technologies](#2大模型的频谱资源分配)
-    * [F. Evaluation of LAMs for communications](#大模型在网络的设计与管理的应用)
-      * [1) Communication Q&A and classification evaluation](#1网络的设计)
-      * [2) Communication modeling and code generation evaluation](#2网络的管理)
-      * [3) Communication reasoning evaluation](#1网络的设计)
-      * [4) Communication tool learning evaluation](#1网络的设计)
-      * [5) Communication security evaluation](#1网络的设计)
-  * [III. DESIGN FOUNDATIONS OF LAMS FOR COMMUNICATIONS](#大模型在语义通信的应用)
-    * [A. Key architecture of LAMs](#1AIGC增强的语义通信系统)
+      * [3) Optimization strategies for pre-training](#)
+    * [D. Fine-tuning of LAMs for communications](#)
+      * [1) Diverse instruction tasks](#)
+      * [2) Fine-tuning steps](#)
+      * [3) Fine-tuning techniques](#)
+    * [E. Alignment of LAMs for communications](#)
+      * [1) RLHF](#)
+      * [2) Other alignment technologies](#)
+    * [F. Evaluation of LAMs for communications](#)
+      * [1) Communication Q&A and classification evaluation](#)
+      * [2) Communication modeling and code generation evaluation](#)
+      * [3) Communication reasoning evaluation](#)
+      * [4) Communication tool learning evaluation](#)
+      * [5) Communication security evaluation](#)
+  * [III. DESIGN FOUNDATIONS OF LAMS FOR COMMUNICATIONS](#)
+    * [A. Key architecture of LAMs](#)
       * [1) Transformer](#智能体驱动的语义通信系统)
       * [2) Variational autoencoder](语义通信与无线感知)
       * [3) Diffusion models](#大模型在安全隐私的应用)
@@ -151,6 +151,221 @@
 #### 3) Deep reinforcement learning-assisted communication
 
 #### 4) Generative AI-assisted communication
+
+### B. Motivation
+#### 1) Outstanding global perspective and decision-making capability
+
+#### 2) Significant robustness and generalization capability
+
+#### 3) Remarkable comprehension and emergent capabilities
+
+### C. Related survey work
+
+### D. Contributions
+#### 1) Learning foundations of LAMs for communications
+
+#### 2) Design foundations of LAMs for communications
+
+#### 3) Applications of LAMs for communications
+
+#### 4) Research challenges and future directions of LAMs for communications
+
+## II. LEARNING FOUNDATIONS OF LAMS FOR COMMUNICATIONS
+### A. Development history of LAMs
+#### 1) Emergence stage
+
+#### 2) Initial stage
+
+#### 3) Mature stage
+
+#### 4) Multimodal stage
+
+#### 5) World model stage
+
+### B. Communication datasets for LAMs
+#### 1) General datasets
+
+#### 2) Communication content filtering
+
+#### 3) Communication pre-training datasets
+
+#### 4) Communication fine-tuning datasets
+
+#### 5) Communication alignment datasets
+
+### C. Pre-training of LAMs for communications
+#### 1) Pre-training on general datasets
+
+#### 2) Continual pre-training on communication datasets
+
+#### 3) Optimization strategies for pre-training
+
+### D. Fine-tuning of LAMs for communications
+#### 1) Diverse instruction tasks
+
+#### 2) Fine-tuning steps
+
+#### 3) Fine-tuning techniques
+
+### E. Alignment of LAMs for communications
+#### 1) RLHF
+
+#### 2) Other alignment technologies
+
+### F. Evaluation of LAMs for communications
+#### 1) Communication Q&A and classification evaluation
+
+#### 2) Communication modeling and code generation evaluation
+
+#### 3) Communication reasoning evaluation
+
+#### 4) Communication tool learning evaluation
+
+#### 5) Communication security evaluation
+
+## III. DESIGN FOUNDATIONS OF LAMS FOR COMMUNICATIONS
+### A. Key architecture of LAMs
+#### 1) Transformer
+
+#### 2) Variational autoencoder
+
+#### 3) Diffusion models
+
+#### 4) Mamba
+
+### B. Classification of LAMs
+#### 1) Large language model
+
+#### 2) Large vision model
+
+#### 3) Vision-language model
+
+#### 4) Large multimodal model
+
+#### 5) World model
+
+#### 6) Lightweight large AI model
+
+### C. Optimization of LAMs
+#### 1) In-context learning
+
+#### 2) X of thought
+
+#### 3) Retrieval-augmented generation
+
+#### 4) Multi-agent system
+
+#### 5) Mixture of experts
+
+## IV. LAMS FOR PHYSICAL LAYER DESIGN
+### A. LLM-assisted physical layer design
+
+### B. GAI model-assisted physical layer design
+
+## V. LAMS FOR RESOURCE ALLOCATION AND OPTIMIZATION
+### A. Computing resource allocation
+
+### B. Spectrum resource allocation
+
+### C. Energy resource optimization
+
+## VI. LAMS FOR NETWORK DESIGN AND MANAGEMENT
+### A. Network design
+
+### B. Network management
+
+## VII. LAMS FOR EDGE INTELLIGENCE
+### A. Edge training and application of LAMs
+
+### B. Edge resource scheduling meets LAMs
+
+### C. Cross-domain collaboration of LAMs
+
+## VIII. LAMS FOR SEMANTIC COMMUNICATION
+### A. LLM-based semantic communication systems
+
+### B. Other LAM-based semantic communication systems
+
+## IX. LAMS FOR FEDERATED LEARNING
+### A. Federated fine-tuning for LAMs
+
+### B. Personlized federated learning for LAMs
+
+## X. LAM-BASED AGENT SYSTEMS
+### A. Agent systems based on LLMs
+
+### B. Agent systems based on other GAI models
+
+## XI. LAMS FOR SECURITY AND PRIVACY
+### A. Network threat detection and defense
+
+### B. Trusted AI in communication networks
+
+## XII. LAMS FOR DIGITAL TWIN AND METAVERSE
+### A. LAMs for digital twin
+
+### B. GAI models for metaverse
+
+## XIII. LAMS FOR EMERGING APPLICATIONS
+### A. Smart healthcare
+
+### B. Carbon emissions
+
+### C. Automation systems
+
+### D. Artificial intelligence of things
+
+### E. Integrated satellite, aerial, and terrestrial networks
+
+### F. Integration of UAVs and LLMs
+
+## XIV. RESEARCH CHALLENGES
+### A. The lack of communication data and knowledge
+#### 1) The lack of communication data
+
+#### 2) The lack of communication knowledge
+
+### B. Insufficient logical reasoning capabilities
+#### 1) Limitations in logical understanding
+
+#### 2) Limitations in logical reasoning
+
+### C. Inadequate explanation and evaluation mechanisms
+#### 1) Deficient explanation mechanism
+
+#### 2) Insufficient evaluation mechanism
+
+### D. Difficulties in the deployment of LAMs
+#### 1) Hardware resource limitation
+
+#### 2) Communication resources limitation
+
+## XV. FUTURE RESEARCH DIRECTIONS
+### A. Continual learning for LAMs
+
+#### 1) Continual learning algorithms
+
+#### 2) Continual learning evaluation
+
+### B. Agentic AI
+#### 1) Single-agent optimization
+
+#### 2) Multi-agent optimization
+
+### C. Explainable LAMs
+#### 1) Interpretable model
+
+#### 2) Interpretable evaluations
+
+### D. Efficient deployment of LAMs
+#### 1) Pruning
+
+#### 2) Quantization
+
+#### 3) Knowledge distillation
+
+
+
 
 
 #### 4、用于微调的通信数据集
