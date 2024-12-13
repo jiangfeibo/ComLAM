@@ -7,7 +7,7 @@
 
 ## Contents
 
-* [A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions](#)
+* [A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions](#A Comprehensive Survey)
   * [Abstract](#Abstract)
   * [Contents](#Contents)
   * [I.INTRODUCTION](#IINTRODUCTION)
@@ -365,47 +365,6 @@
 #### 3) Knowledge distillation
 
 
-
-
-
-#### 4、用于微调的通信数据集
-（1）elecomInstruct数据集[[Download]]()  
-（2）符合3GPP标准的CSI数据集[[Download]]()  
-
-#### 5、用于对齐的通信数据集
-（1）TelecomAlign数据集[[Download]]()  
-
-### ComLAM的预训练方法
-#### 1、通用数据集上的预训练
-（1）无监督学习[[Paper]]()    
-（2）自监督学习[[Paper]]()    
-（3）多任务学习[[Paper]]()    
-#### 2、专用数据集上的持续预训练
-（1）通信领域的持续预训练[[Paper]]()    
-#### 3、预训练优化策略
-（1）分布式训练[[Paper]]()    
-（2）学习率调度[[Paper]]()    
-（3）梯度剪裁[[Paper]]()    
-### ComLAM的微调方法
-1、ComLAM微调技术：  
- （1）电信指令微调[[Paper]]()  
-2、大模型的微调技术：  
- （1）LoRA[[Paper]]()  
- （2）Adapters[[Paper]]()  
- （3）BitFit[[Paper]]()  
- （4）Prefix Tuning[[Paper]]()  
-### ComLAM的对齐方法
-1、大模型对齐微调技术：  
- （1）RLHF[[Paper]]()  
- （2）RLAIF[[Paper]]()  
- （3）PPO[[Paper]]()  
- （4）DPO[[Paper]]()  
-### ComLAM的评估方法
-1、通信问答与文档分类评测[[Paper]]()    
-2、通信建模与代码生成能力评测[[Paper]]()    
-3、通信推理能力评测[[Paper]]()    
-4、通信工具学习能力评测[[Paper]]()    
-5、通信安全评测[[Paper]]()    
 
 ## ComLAM的关键架构、分类和优化方法
 ### 大模型分类
@@ -991,24 +950,24 @@ H. Cui, Y. Du, Q. Yang, Y. Shao, and S. C. Liew, “Llmind:Orchestrating ai and 
 
 L. Bariah, H. Zou, Q. Zhao, B. Mouhouche, F. Bader, and M. Debbah, “Understanding telecom language through large language models,” in GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023, pp. 6542–6547.[<a href="https://ieeexplore.ieee.org/abstract/document/10437725" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-## 团队
-| 部分 	| 学生贡献者 	|
-|:----:	|:----------:	|
-|      	|            	|
-|      	|            	|
-|      	|            	|
+## The Team
+| Section 	| Student Contributors 	|
+|:-------:	|:--------------------:	|
+|         	|                      	|
+|         	|                      	|
+|         	|                      	|
 
 
-## 致谢
+## Acknowledgments
 
 
 
-## 更新日志
-| 版本 	| 时间 	| 更新内容 	|
-|:----:	|:----:	|:--------:	|
-|      	|      	|          	|
-|      	|      	|          	|
-|      	|      	|          	|
+## Update Log
+| Version 	| Time 	| Update Content 	|
+|:-------:	|:----:	|:--------------:	|
+|         	|      	|                	|
+|         	|      	|                	|
+|         	|      	|                	|
 
 
 
