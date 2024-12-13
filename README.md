@@ -7,7 +7,7 @@
 
 ## Contents
 
-* [A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions](#AComprehensiveSurvey)
+* [A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions](#AComprehensiveSurveyofLargeAIModelsforCommunications:Foundations,Applications,andFutureDirections)
   * [Abstract](#Abstract)
   * [Contents](#Contents)
   * [I.INTRODUCTION](#IINTRODUCTION)
