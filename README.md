@@ -7,7 +7,7 @@
 
 ## Contents
 
-* [A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions](#A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions)
+* [A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions](#AComprehensive)
   * [Abstract](#Abstract)
   * [Contents](#Contents)
   * [I.INTRODUCTION](#ComLAM的数据训练和评估)
