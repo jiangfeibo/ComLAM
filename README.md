@@ -12,7 +12,7 @@
   * [Contents](#Contents)
   * [I.INTRODUCTION](#IINTRODUCTION)
     * [A. Background](#ABackground)
-      * [1) Traditional machine learning-assisted communication](#Traditionalmachinelearning-assistedcommunication)
+      * [1) Traditional machine learning-assisted communication](#Traditionalmachinelearningassistedcommunication)
       * [2) Deep supervised learning-assisted communication](#)
       * [3) Deep reinforcement learning-assisted communication](#)
       * [4) Generative AI-assisted communication](#)
