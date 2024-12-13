@@ -7,11 +7,11 @@
 
 ## Contents
 
-* [A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions](#AComprehensiveSurveyofLargeAIModelsforCommunicationsFoundationsApplicationsandFutureDirections)
+* [A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions](#A-Comprehensive-Survey-of-Large-AI-Models-for-Communications-Foundations-Applications-and-Future-Directions)
   * [Abstract](#Abstract)
   * [Contents](#Contents)
   * [I.INTRODUCTION](#IINTRODUCTION)
-    * [A. Background](#A.Background)
+    * [A. Background](#A-Background)
       * [1) Traditional machine learning-assisted communication](#Traditionalmachinelearningassistedcommunication)
       * [2) Deep supervised learning-assisted communication](#)
       * [3) Deep reinforcement learning-assisted communication](#)
