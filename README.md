@@ -7,12 +7,12 @@
 
 ## Contents
 
-* [A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions](#AComprehensiveSurveyofLargeAIModelsforCommunications:Foundations,Applications,andFutureDirections)
+* [A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions](#A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions)
   * [Abstract](#Abstract)
   * [Contents](#Contents)
-  * [I.INTRODUCTION](#ComLAM的数据训练和评估)
-    * [A. Background](#LAM的发展阶段)
-      * [1) Traditional machine learning-assisted communication](#1通用数据集)
+  * [I.INTRODUCTION](#I.INTRODUCTION)
+    * [A. Background](#A. Background)
+      * [1) Traditional machine learning-assisted communication](#1) Traditional machine learning-assisted communication)
       * [2) Deep supervised learning-assisted communication](#2通信专用数据集)
       * [3) Deep reinforcement learning-assisted communication](#3用于预训练的通信数据集)
       * [4) Generative AI-assisted communication](#4用于微调的通信数据集)
@@ -142,21 +142,16 @@
   * [Acknowledgments](#致谢)
   * [Update log](#更新日志)
 
-## ComLAM的数据、训练和评估
-### LAM的发展阶段
-### 大模型的通信数据集
-#### 1、通用数据集
-（1）Common Crawl数据集[[Download]](http://commoncrawl.org/the-data/get-started)  
-（2）Pile数据集[[Download]]()  
-（3）Dolma数据[[Download]]()  
-（4）RedPajama-Data数据集[[Download]]()   
-#### 2、通信专用数据集
-（通过从通用数据集Common Crawl数据集和Redpajama数据集中提取与通信相关的内容来构成通信专用数据集）[[Download]]()  
+## I.INTRODUCTION
+### A. Background
+#### 1) Traditional machine learning-assisted communication
 
-#### 3、用于预训练的通信数据集
-（1）TSpec-LLM数据集[[Download]]()  
-（2）OpenTelecom数据集[[Download]]()  
-（3）TeleQnA数据集[[Download]]()  
+#### 2) Deep supervised learning-assisted communication
+
+#### 3) Deep reinforcement learning-assisted communication
+
+#### 4) Generative AI-assisted communication
+
 
 #### 4、用于微调的通信数据集
 （1）elecomInstruct数据集[[Download]]()  
