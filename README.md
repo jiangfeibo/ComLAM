@@ -226,38 +226,94 @@
 ## III. DESIGN FOUNDATIONS OF LAMS FOR COMMUNICATIONS
 ### A. Key architecture of LAMs
 #### 1) Transformer
+Y. Liu, “Roberta: A robustly optimized bert pretraining approach,”arXiv preprint arXiv:1907.11692, 2019.[<a href="https://arxiv.org/abs/1907.11692" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/IndicoDataSolutions/finetune/tree/b1b072cc2b0dd16545f96fc949d5d04af52d02d3" target="_blank" rel="noopener noreferrer">code</a>]
+
+Y. Wang, Z. Gao, D. Zheng, S. Chen, D. Gündüz, and H. V.Poor, “Transformer-empowered 6g intelligent networks: From massive mimo processing to semantic communication,” IEEE Wireless Communications, vol. 30, no. 6, pp. 127–135, 2022.[<a href="https://ieeexplore.ieee.org/abstract/document/9961131/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+H. Yoo, T. Jung, L. Dai, S. Kim, and C.-B. Chae, “Real-time semantic communications with a vision transformer,” in 2022 IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2022, pp. 1–2.[<a href="https://ieeexplore.ieee.org/abstract/document/9914635/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+H. Wu, Y. Shao, E. Ozfatura, K. Mikolajczyk, and D. Gündüz,“Transformer-aided wireless image transmission with channel feedback,” IEEE Transactions on Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10500305/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 2) Variational autoencoder
+M. A. Alawad, M. Q. Hamdan, and K. A. Hamdi, “Innovative variational autoencoder for an end-to-end communication system,”IEEE Access, 2022.[<a href="https://ieeexplore.ieee.org/abstract/document/9964187/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Bo, Y. Duan, S. Shao, and M. Tao, “Joint coding-modulation for digital semantic communications via variational autoencoder,”IEEE Transactions on Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10495330/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Q. Hu, G. Zhang, Z. Qin, Y. Cai, G. Yu, and G. Y. Li, “Robust semantic communications with masked vq-vae enabled codebook,”IEEE Transactions on Wireless Communications, vol. 22, no. 12,pp. 8707–8722, 2023.[<a href="https://ieeexplore.ieee.org/abstract/document/10101778/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 3) Diffusion models
+H. Du, R. Zhang, Y. Liu, J. Wang, Y. Lin, Z. Li, D. Niyato, J. Kang,Z. Xiong, S. Cui et al., “Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization,”arXiv preprint arXiv:2308.05384, 2023.[<a href="https://arxiv.org/abs/2308.05384" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/hongyangdu/gdmopt" target="_blank" rel="noopener noreferrer">code</a>]
+
+T. Wu, Z. Chen, D. He, L. Qian, Y. Xu, M. Tao, and W. Zhang,“Cddm: Channel denoising diffusion models for wireless communications,” in GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023, pp. 7429–7434.[<a href="https://ieeexplore.ieee.org/abstract/document/10436728/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Duan, T. Wu, Z. Chen, and M. Tao, “Dm-mimo: Diffusion models for robust semantic communications over mimo channels,”arXiv preprint arXiv:2407.05289,2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10681856/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+G. Chi, Z. Yang, C. Wu, J. Xu, Y. Gao, Y. Liu, and T. X. Han, “Rfdiffusion: Radio signal generation via time-frequency diffusion,” in Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2024, pp. 77–92.[<a href="https://dl.acm.org/doi/abs/10.1145/3636534.3649348" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 4) Mamba
+O. Lieber, B. Lenz, H. Bata, G. Cohen, J. Osin, I. Dalmedigos, E. Safahi, S. Meirom, Y. Belinkov, S. Shalev-Shwartz et al.,“Jamba: A hybrid transformer-mamba language model,” arXiv preprint arXiv:2403.19887, 2024.[<a href="https://arxiv.org/abs/2403.19887" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+J. T. Halloran, M. Gulati, and P. F. Roysdon, “Mamba state-space models can be strong downstream learners,” arXiv preprint arXiv:2406.00209, 2024.[<a href="https://arxiv.org/abs/2406.00209" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Li, Z. Zhang, H. Chen, and Z. Ma, “Mamba: Bringing multidimensional abr to webrtc,” in Proceedings of the 31st ACM International Conference on Multimedia, 2023, pp. 9262–9270.[<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611915" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture for vision and multivariate time series,” arXiv preprint arXiv:2403.15360, 2024.[<a href="https://arxiv.org/abs/2403.15360" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/badripatro/simba" target="_blank" rel="noopener noreferrer">code</a>]
 
 ### B. Classification of LAMs
 #### 1) Large language model
 F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large ai model-based semantic communications,” IEEE Wireless Communications, vol. 31, no. 3, pp. 68–75, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558819" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 P. Jiang, C.-K. Wen, X. Yi, X. Li, S. Jin, and J. Zhang, “Semantic communications using foundation models: Design approaches and open issues,” IEEE Wireless Communications, vol. 31, no. 3, pp.76–84, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558822" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 #### 2) Large vision model
+F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large generative model assisted 3d semantic communication,”arXiv preprint arXiv:2403.05783, 2024.[<a href="https://arxiv.org/abs/2403.05783" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 3) Vision-language model
+F. Jiang, C. Tang, L. Dong, K. Wang, K. Yang, and C. Pan, “Visual language model based cross-modal semantic communication systems,” arXiv preprint arXiv:2407.00020, 2024.[<a href="https://arxiv.org/abs/2407.00020" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 4) Large multimodal model
+L. Qiao, M. B. Mashhadi, Z. Gao, C. H. Foh, P. Xiao, and M. Bennis, “Latency-aware generative semantic communications with pretrained diffusion models,” arXiv preprint arXiv:2403.17256, 2024.[<a href="https://arxiv.org/abs/2403.17256" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 5) World model
+W. Saad, O. Hashash, C. K. Thomas, C. Chaccour, M. Debbah,N. Mandayam, and Z. Han, “Artificial general intelligence (agi)native wireless systems: A journey beyond 6g,” arXiv preprint arXiv:2405.02336, 2024.[<a href="https://arxiv.org/abs/2405.02336" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 6) Lightweight large AI model
 
 ### C. Optimization of LAMs
 #### 1) In-context learning
+M. Zecchin, K. Yu, and O. Simeone, "In-context learning for MIMO equalization using transformer-based sequence models," in *2024 IEEE International Conference on Communications Workshops (ICC Workshops)*, IEEE, 2024, pp. 1573-1578. [<a href="https://arxiv.org/abs/2311.06101" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+M. Abbas, K. Kar, and T. Chen, “Leveraging large language models for wireless symbol detection via in-context learning,” arXiv preprint arXiv:2409.00124, 2024.[<a href="https://arxiv.org/abs/2409.00124" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 2) X of thought
+T. B. Brown, “Language models are few-shot learners,” arXiv preprint arXiv:2005.14165, 2020.[<a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+J. Achiam, S. Adler, S. Agarwal, L. Ahmad, I. Akkaya, F. L.Aleman, D. Almeida, J. Altenschmidt, S. Altman, S. Anadkat et al., “Gpt-4 technical report,” arXiv preprint arXiv:2303.08774,2023.[<a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/openai/evals" target="_blank" rel="noopener noreferrer">code</a>]
+
+A. Chowdhery, S. Narang, J. Devlin, M. Bosma, G. Mishra,A. Roberts, P. Barham, H. W. Chung, C. Sutton, S. Gehrmann et al., “Palm: Scaling language modeling with pathways,” Journal of Machine Learning Research, vol. 24, no. 240, pp. 1–113, 2023.[<a href="https://www.jmlr.org/papers/v24/22-1144.html" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+S. Rasal, “Llm harmony: Multi-agent communication for problem solving,” arXiv preprint arXiv:2401.01312, 2024.[<a href="https://arxiv.org/abs/2401.01312" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/sumedhrasal/simulation" target="_blank" rel="noopener noreferrer">code</a>]
 
 #### 3) Retrieval-augmented generation
+A.-L. Bornea, F. Ayed, A. De Domenico, N. Piovesan, and A. Maatouk, “Telco-rag: Navigating the challenges of retrieval-augmented language models for telecommunications,” arXiv preprint arXiv:2404.15939, 2024.[<a href="https://arxiv.org/abs/2404.15939" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Z. Rackauckas, “Rag-fusion: a new take on retrieval-augmented generation,” arXiv preprint arXiv:2402.03367, 2024.[<a href="https://arxiv.org/abs/2402.03367" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+W. Jiang, S. Zhang, B. Han, J. Wang, B. Wang, and T. Kraska,“Piperag: Fast retrieval-augmented generation via algorithm-system co-design,” arXiv preprint arXiv:2403.05676, 2024.[<a href="https://arxiv.org/abs/2403.05676" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Tang and W. Guo, “Automatic retrieval-augmented generation of 6g network specifications for use cases,” arXiv preprint arXiv:2405.03122, 2024.[<a href="https://arxiv.org/abs/2405.03122" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 4) Multi-agent system
+J. Tong, J. Shao, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang,“Wirelessagent: Large language model agents for intelligent wireless networks,” arXiv preprint arXiv:2409.07964, 2024.[<a href="https://arxiv.org/abs/2409.07964" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/weiiguo/wireless-agent" target="_blank" rel="noopener noreferrer">code</a>]
+
+F. Jiang, L. Dong, Y. Peng, K. Wang, K. Yang,C. Pan, D. T. Niyato, and O. A. Dobre, “Large language model enhanced multi-agent systems for 6g communications,” ArXiv, vol. abs/2312.07850, 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10638533/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 5) Mixture of experts
+R. Zhang, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, and D. I. Kim, “Interactive generative ai agents for satellite networks through a mixture of experts transmission,”arXiv preprint arXiv:2404.09134, 2024.[<a href="https://arxiv.org/abs/2404.09134" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+J. Wang, H. Du, G. Sun, J. Kang, H. Zhou, D. Niyato, and J. Chen,“Optimizing 6g integrated sensing and communications (isac) via expert networks,” arXiv preprint arXiv:2406.00408, 2024.[<a href="https://arxiv.org/abs/2406.00408" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+M. Xu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, Y. Fang,D. I. Kim et al., “Integration of mixture of experts and multimodal generative ai in internet of vehicles: A survey,” arXiv preprint arXiv:2404.16356, 2024.[<a href="https://arxiv.org/abs/2404.16356" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ## IV. LAMS FOR PHYSICAL LAYER DESIGN
 ### A. LLM-assisted physical layer design
