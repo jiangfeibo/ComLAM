@@ -11,7 +11,7 @@
   * [Abstract](#Abstract)
   * [Contents](#Contents)
   * [I.INTRODUCTION](#IINTRODUCTION)
-    * [A. Background](#ABackground)
+    * [A. Background](#A.Background)
       * [1) Traditional machine learning-assisted communication](#Traditionalmachinelearningassistedcommunication)
       * [2) Deep supervised learning-assisted communication](#)
       * [3) Deep reinforcement learning-assisted communication](#)
