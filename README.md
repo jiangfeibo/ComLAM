@@ -401,45 +401,79 @@ L. Yue and T. Chen, “Ai large model and 6g network,” in 2023 IEEE Globecom W
 
 ## X. LAM-BASED AGENT SYSTEMS
 ### A. Agent systems based on LLMs
+M. Xu, D. Niyato, J. Kang, Z. Xiong, S. Mao, Z. Han, D. I. Kim, and K. B. Letaief, “When large language model agents meet 6g networks: Perception, grounding, and alignment,” IEEE Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10648594/" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/Cogito2012/CarCrashDatase" target="_blank" rel="noopener noreferrer">code</a>]
 
+F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, D. Niyato, and O. A. Dobre, “Large language model enhanced multi-agent systems for 6g communications,” IEEE Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10638533/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+J. Tong, J. Shao, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang, “Wirelessagent: Large language model agents for intelligent wireless networks,” arXiv preprint arXiv:2409.07964, 2024.[<a href="https://arxiv.org/abs/2409.07964" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/weiiguo/Wireless-Agent" target="_blank" rel="noopener noreferrer">code</a>]
+
+H. Zou, Q. Zhao, L. Bariah, M. Bennis, and M. Debbah, “Wireless multi-agent generative ai: From connected intelligence to collective intelligence,” arXiv preprint arXiv:2307.02757, 2023.[<a href="https://arxiv.org/abs/2307.02757" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Z. Wang, J. Zhang, H. Du, R. Zhang, D. Niyato, B. Ai, and K. B. Letaief, “Generative ai agent for next-generation mimo design: Fundamentals, challenges, and vision,” arXiv preprint arXiv:2404.08878,2024.[<a href="https://arxiv.org/abs/2404.08878" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://zhewang77.github.io/GAIMIMO/" target="_blank" rel="noopener noreferrer">code</a>]
+
+R. Zhang, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, and D. I. Kim, “Generative ai agents with large language model for satellite networks via a mixture of experts transmission,” IEEE Journal on Selected Areas in Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10679152/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Wang, M. M. Afzal, Z. Li, J. Zhou, C. Feng, S. Guo, and T. Q. Quek, “Large language models for base station siting: Intelligent deployment based on prompt or agent,” arXiv preprint arXiv:2408.03631, 2024.[<a href="https://arxiv.org/abs/2408.03631" target="_blank" rel="noopener noreferrer">Paper</a>]
 ### B. Agent systems based on other GAI models
 
 ## XI. LAMS FOR SECURITY AND PRIVACY
 ### A. Network threat detection and defense
 H. Yang, K. Xiang, M. Ge, H. Li, R. Lu, and S. Yu, “A comprehensive overview of backdoor attacks in large language models within communication networks,” IEEE Network, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10440367/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 M. A. Ferrag, M. Ndhlovu, N. Tihanyi, L. C. Cordeiro, M. Debbah, T. Lestable, and N. S. Thandi, “Revolutionizing cyber threat detection with large language models: A privacy-preserving bert-based lightweight model for iot/iiot devices,” IEEE Access, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10423646/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 J. Wang, Y. Li, Q. Qi, Y. Lu, and B. Wu, “Multilayered fault detection and localization with transformer for microservice systems,” IEEE Transactions on Reliability, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10423414/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 M. A. Ferrag, A. Battah, N. Tihanyi, M. Debbah, T. Lestable, and L. C. Cordeiro, “Securefalcon: The next cyber reasoning system for cyber security,” arXiv preprint arXiv:2307.06616, 2023.[<a href="https://arxiv.org/abs/2307.06616" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/features/copilot/" target="_blank" rel="noopener noreferrer">code</a>]
+
 ### B. Trusted AI in communication networks
 H. Luo, J. Luo, and A. V. Vasilakos, “Bc4llm: Trusted artificial intelligence when blockchain meets large language models,” arXiv preprint arXiv:2310.06278, 2023.[<a href="https://arxiv.org/abs/2310.06278" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 H. Du, D. Niyato, J. Kang, Z. Xiong, K.-Y. Lam, Y. Fang, and Y. Li, “Spear or shield: Leveraging generative ai to tackle security threats of intelligent network services,” arXiv preprint arXiv:2306.02384, 2023.[<a href="https://arxiv.org/abs/2306.02384" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 S. A. Khowaja, P. Khuwaja, K. Dev, H. A. Hamadi, and E. Zeydan, “Pathway to secure and trustworthy 6g for llms: Attacks, defense, and opportunities,” arXiv preprint arXiv:2408.00722, 2024.[<a href="https://arxiv.org/abs/2408.00722" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 ## XII. LAMS FOR DIGITAL TWIN AND METAVERSE
 ### A. LAMs for digital twin
 Y. Xia, M. Shenoy, N. Jazdi, and M. Weyrich, “Towards autonomous system: flexible modular production system enhanced with large language model agents,” in 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA). IEEE, 2023, pp. 1–8.[<a href="https://ieeexplore.ieee.org/abstract/document/10275362/" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/YuchenXia/GPT4IndustrialAutomation" target="_blank" rel="noopener noreferrer">code</a>]
-Y. Hong, J. Wu, and R. Morello, “Llm-twin: mini-giant model-driven beyond 5g digital twin networking framework with semantic secure communication and computation,” Scientific Reports, vol. 14, no. 1, p.19065, 2024.[<a href="https://www.nature.com/articles/s41598-024-69474-5" target="_blank" rel="noopener noreferrer">Paper</a>][<a href=" https://github.com/CURRYSGITHUB/LLM-twin/tree/main." target="_blank" rel="noopener noreferrer">code</a>]
+
+Y. Hong, J. Wu, and R. Morello, “Llm-twin: mini-giant model-driven beyond 5g digital twin networking framework with semantic secure communication and computation,” Scientific Reports, vol. 14, no. 1, p.19065, 2024.[<a href="https://www.nature.com/articles/s41598-024-69474-5" target="_blank" rel="noopener noreferrer">Paper</a>][<a href=" https://github.com/CURRYSGITHUB/LLM-twin/tree/main" target="_blank" rel="noopener noreferrer">code</a>]
+
 W. Wu, X. Huang, and T. H. Luan, “Ai-native network digital twin for intelligent network management in 6g,” arXiv preprint arXiv:2410.01584, 2024.[<a href="https://arxiv.org/abs/2410.01584" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 K. Duran, L. V. Cakir, M. Ozdem, K. Gursu, and B. Canberk, “Generative ai-enabled digital twins for 6g-enhanced smart cities,” arXiv preprint arXiv:2411.14222, 2024.[<a href="https://arxiv.org/abs/2411.14222" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 M. Corici, H. Buhr, and T. Magedanz, “Generative twin for 6g and beyond 5g networks: Vision, challenges and architecture,” in 2023 2nd International Conference on 6G Networking (6GNet). IEEE, 2023, pp. 1–6.[<a href="https://ieeexplore.ieee.org/abstract/document/10317780/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 ### B. GAI models for metaverse
 G. Liu, H. Du, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, S. Mao, and D. I. Kim, “Fusion of mixture of experts and generative artificial intelligence in mobile edge metaverse,” arXiv preprint arXiv:2404.03321,
 2024.[<a href="https://arxiv.org/abs/2404.03321" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/alvinliu97/MOEGAI-Metaverse" target="_blank" rel="noopener noreferrer">code</a>]
+
 M. Xu, D. Niyato, H. Zhang, J. Kang, Z. Xiong, S. Mao, and Z. Han, “Generative ai-empowered effective physical-virtual synchronization in the vehicular metaverse,” in 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom). IEEE, 2023, pp. 607–611.[<a href="https://ieeexplore.ieee.org/abstract/document/10271797/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 N. Sehad, L. Bariah, W. Hamidouche, H. Hellaoui, R. Jantti, and M. Debbah, “Generative ai for immersive communication:The next frontier in internet-of-senses through 6g,” arXiv preprint arXiv:2404.01713, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10731639/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 I. F. Akyildiz, H. Guo, R. Dai, and W. Gerstacker, “Mulsemedia communication research challenges for metaverse in 6g wireless systems,” arXiv preprint arXiv:2306.16359, 2023.[<a href="https://arxiv.org/abs/2306.16359" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 ## XIII. LAMS FOR EMERGING APPLICATIONS
 ### A. Smart healthcare
 M. Abbasian, I. Azimi, A. M. Rahmani, and R. Jain, “Conversational health agents: A personalized llm-powered agent framework,” arXiv preprint arXiv:2310.02374, 2023.[<a href="https://arxiv.org/abs/2310.02374" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/Institute4FutureHealth/CHA" target="_blank" rel="noopener noreferrer">code</a>]
+
 ### B. Carbon emissions
 J. Wen, R. Zhang, D. Niyato, J. Kang, H. Du, Y. Zhang, and Z. Han, “Generative ai for low-carbon artificial intelligence of things,” arXiv preprint arXiv:2404.18077, 2024.[<a href="https://arxiv.org/abs/2404.18077" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="7https://github.com/mlco2/codecarbon" target="_blank" rel="noopener noreferrer">code</a>]
+
 ### C. Automation systems
 H. Wen, Y. Li, G. Liu, S. Zhao, T. Yu, T. J.-J. Li, S. Jiang, Y. Liu, Y. Zhang, and Y. Liu, “Autodroid: Llm-powered task automation in android,” in Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2024, pp. 543–557.[<a href="https://dl.acm.org/doi/abs/10.1145/3636534.3649379" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 ### D. Artificial intelligence of things
 H. Cui, Y. Du, Q. Yang, Y. Shao, and S. C. Liew, “Llmind: Orchestrating ai and iot with llm for complex task execution,” IEEE Communications Magazine, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10697418/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 ### E. Integrated satellite, aerial, and terrestrial networks
 S. Javaid, R. A. Khalil, N. Saeed, B. He, and M.-S. Alouini, “Leveraging large language models for integrated satellite-aerial-terrestrial networks: recent advances and future directions,” arXiv preprint arXiv:2407.04581, 2024.[<a href="https://arxiv.org/abs/2407.04581" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 ### F. Integration of UAVs and LLMs
 S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Current state and pathways to the future,” IEEE Open Journal of Vehicular Technology, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10643253/" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 ## XIV. RESEARCH CHALLENGES
 ### A. The lack of communication data and knowledge
 #### 1) The lack of communication data
