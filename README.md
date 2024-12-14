@@ -483,9 +483,9 @@ Z. Chen, Q. Sun, N. Li, X. Li, Y. Wang, and I. Chih-Lin, “Enabling mobile ai a
 
 ## XI. LAMS FOR SECURITY AND PRIVACY
 ### A. Network threat detection and defense
-H. Yang, K. Xiang, M. Ge, H. Li, R. Lu, and S. Yu, “A comprehensive overview of backdoor attacks in large language models within communication networks,” IEEE Network, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10440367/" target="_blank" rel="noopener noreferrer">Paper</a>]
+H. Yang, K. Xiang, M. Ge, H. Li, R. Lu, and S. Yu, “A comprehensive overview of backdoor attacks in large language models within communication networks,” IEEE Network, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10440367/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-M. A. Ferrag, M. Ndhlovu, N. Tihanyi, L. C. Cordeiro, M. Debbah, T. Lestable, and N. S. Thandi, “Revolutionizing cyber threat detection with large language models: A privacy-preserving bert-based lightweight model for iot/iiot devices,” IEEE Access, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10423646/" target="_blank" rel="noopener noreferrer">Paper</a>]
+M. A. Ferrag, M. Ndhlovu, N. Tihanyi, L. C. Cordeiro, M. Debbah, T. Lestable, and N. S. Thandi, “Revolutionizing cyber threat detection with large language models: A privacy-preserving bert-based lightweight model for iot/iiot devices,” IEEE Access, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10423646/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 J. Wang, Y. Li, Q. Qi, Y. Lu, and B. Wu, “Multilayered fault detection and localization with transformer for microservice systems,” IEEE Transactions on Reliability, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10423414/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
@@ -500,7 +500,7 @@ S. A. Khowaja, P. Khuwaja, K. Dev, H. A. Hamadi, and E. Zeydan, “Pathway to se
 
 ## XII. LAMS FOR DIGITAL TWIN AND METAVERSE
 ### A. LAMs for digital twin
-Y. Xia, M. Shenoy, N. Jazdi, and M. Weyrich, “Towards autonomous system: flexible modular production system enhanced with large language model agents,” in 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA). IEEE, 2023, pp. 1–8.[<a href="https://ieeexplore.ieee.org/abstract/document/10275362/" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/YuchenXia/GPT4IndustrialAutomation" target="_blank" rel="noopener noreferrer">code</a>]
+Y. Xia, M. Shenoy, N. Jazdi, and M. Weyrich, “Towards autonomous system: flexible modular production system enhanced with large language model agents,” in 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA). IEEE, 2023, pp. 1–8.[<a href="https://ieeexplore.ieee.org/abstract/document/10275362/" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/YuchenXia/GPT4IndustrialAutomation" target="_blank" rel="noopener noreferrer">code</a>]
 
 Y. Hong, J. Wu, and R. Morello, “Llm-twin: mini-giant model-driven beyond 5g digital twin networking framework with semantic secure communication and computation,” Scientific Reports, vol. 14, no. 1, p.19065, 2024.[<a href="https://www.nature.com/articles/s41598-024-69474-5" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/CURRYSGITHUB/LLM-twin/tree/main" target="_blank" rel="noopener noreferrer">code</a>]
 
