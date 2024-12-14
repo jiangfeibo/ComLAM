@@ -415,8 +415,34 @@ Y. Chen, R. Li, X. Yu, Z. Zhao, and H. Zhang, “Adaptive layer splitting for wi
 M. Xu, D. Niyato, H. Zhang, J. Kang, Z. Xiong, S. Mao, and Z. Han, “Joint foundation model caching and inference of generative ai services for edge intelligence,” in GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023, pp. 3548–3553.[<a href="https://ieeexplore.ieee.org/abstract/document/10436771" target="_blank" rel="noopener noreferrer">Paper</a>]
 ## VIII. LAMS FOR SEMANTIC COMMUNICATION
 ### A. LLM-based semantic communication systems
+Z. Wang, L. Zou, S. Wei, F. Liao, J. Zhuo, H. Mi, and R. Lai,“Large language model enabled semantic communication systems,”arXiv preprint arXiv:2407.14112, 2024.[<a href="https://arxiv.org/abs/2407.14112" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+F. Jiang, S. Tu, L. Dong, C. Pan, J. Wang, and X. You, “Large generative model-assisted talking-face semantic communication system,”arXiv preprint arXiv:2411.03876, 2024.[<a href="https://arxiv.org/abs/2411.03876" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+W. Chen, W. Xu, H. Chen, X. Zhang, Z. Qin, Y. Zhang, and Z. Han,“Semantic communication based on large language model for underwater image transmission,” arXiv preprint arXiv:2408.12616, 2024.[<a href="https://arxiv.org/abs/2408.12616" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+A. Kalita, “Large language models (llms) for semantic communication in edge-based iot networks,” arXiv preprint arXiv:2407.20970, 2024.[<a href="https://arxiv.org/abs/2407.20970" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+P. Jiang, C.-K. Wen, X. Yi, X. Li, S. Jin, and J. Zhang, “Semantic communications using foundation models: Design approaches and open issues,” IEEE Wireless Communications, vol. 31, no. 3, pp. 76–84,2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558822" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Wang, Z. Sun, J. Fan, and H. Ma, “On the uses of large language models to design end-to-end learning semantic communication,” in 2024 IEEE Wireless Communications and Networking Conference(WCNC). IEEE, 2024, pp. 1–6.[<a href="https://ieeexplore.ieee.org/abstract/document/10570717" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### B. Other LAM-based semantic communication systems
+F. Zhang, Y. Du, K. Chen, Y. Shao, and S. C. Liew, “Addressing out-of-distribution challenges in image semantic communication systems with multi-modal large language models,” arXiv preprint arXiv:2407.15335,2024.[<a href="https://arxiv.org/abs/2407.15335" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+H. Xie, Z. Qin, X. Tao, and Z. Han, “Towards intelligent communications: Large model empowered semantic communications,” arXiv preprint arXiv:2402.13073, 2024.[<a href="https://arxiv.org/abs/2402.13073" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+W. Yang, Z. Xiong, S. Mao, T. Q. Quek, P. Zhang, M. Debbah, and R. Tafazolli, “Rethinking generative semantic communication for multiuser systems with multi-modal llm,” arXiv preprint arXiv:2408.08765,2024.[<a href="https://arxiv.org/abs/2408.08765" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large generative model assisted 3d semantic communication,” arXiv
+preprint arXiv:2403.05783, 2024.[<a href="https://arxiv.org/abs/2403.05783" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+F. Jiang, C. Tang, L. Dong, K. Wang, K. Yang, and C. Pan, “Visual language model based cross-modal semantic communication systems,”
+arXiv preprint arXiv:2407.00020, 2024.[<a href="https://arxiv.org/abs/2407.00020" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+T. S. Do, T. P. Truong, T. Do, H. P. Van, and S. Cho, “Lightweight multiuser multimodal semantic communication system for multimodal large language model communication,” Authorea Preprints, 2024.[<a href="https://www.authorea.com/doi/full/10.22541/au.172479430.09168922" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+F. Jiang, L. Dong, Y. Peng, K. Wang, K. Yang, C. Pan, and X. You,“Large ai model empowered multimodal semantic communications,”IEEE Communications Magazine, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10670195" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ## IX. LAMS FOR FEDERATED LEARNING
 ### A. Federated fine-tuning for LAMs
