@@ -384,11 +384,35 @@ L. Yue and T. Chen, “Ai large model and 6g network,” in 2023 IEEE Globecom W
 
 ## VII. LAMS FOR EDGE INTELLIGENCE
 ### A. Edge training and application of LAMs
+Z. Yu, Z. Wang, Y. Li, H. You, R. Gao, X. Zhou, S. R. Bommu,Y. K. Zhao, and Y. C. Lin, “Edge-llm: Enabling efficient large language model adaptation on edge devices via layerwise unified compression and adaptive layer tuning and voting,” arXiv preprint arXiv:2406.15758, 2024.[<a href="https://arxiv.org/abs/2406.15758" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/GATECH-EIC/Edge-LLM" target="_blank" rel="noopener noreferrer">code</a>]
+
+M. Zhang, J. Cao, X. Shen, and Z. Cui, “Edgeshard: Efficient llm inference via collaborative edge computing,” arXiv preprint arXiv:2405.14371, 2024.[<a href="https://arxiv.org/abs/2405.14371" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+G. Qu, Q. Chen, W. Wei, Z. Lin, X. Chen, and K. Huang, “Mobile edge intelligence for large language models: A contemporary survey,”arXiv preprint arXiv:2407.18921, 2024.[<a href="https://arxiv.org/abs/2407.18921" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+M. Xu, Y. Wu, D. Cai, X. Li, and S. Wang, “Federated fine-tuning of billion-sized language models across mobile devices,” arXiv preprint arXiv:2308.13894, 2023.[<a href="https://arxiv.org/abs/2308.13894" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+W. Zhao, W. Jing, Z. Lu, and X. Wen, “Edge and terminal cooperation enabled llm deployment optimization in wireless network,” in 2024 IEEE/CIC International Conference on Communications in China(ICCC Workshops). IEEE, 2024, pp. 220–225.[<a href="https://ieeexplore.ieee.org/abstract/document/10693742" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+A. Khoshsirat, G. Perin, and M. Rossi, “Decentralized llm inference over edge networks with energy harvesting,” arXiv preprint arXiv:2408.15907, 2024.[<a href="https://arxiv.org/abs/2408.15907" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Z. Lin, G. Qu, Q. Chen, X. Chen, Z. Chen, and K. Huang, “Pushing large language models to the 6g edge: Vision, challenges, and opportunities,” arXiv preprint arXiv:2309.16739, 2023.[<a href="https://arxiv.org/abs/2309.16739" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Rong, Y. Mao, X. He, and M. Chen, “Large-scale traffic flow forecast with lightweight llm in edge intelligence,” IEEE Internet of Things Magazine, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10742575" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### B. Edge resource scheduling meets LAMs
+O. Friha, M. A. Ferrag, B. Kantarci, B. Cakmak, A. Ozgun, and N. Ghoualmi-Zine, “Llm-based edge intelligence: A comprehensive survey on architectures, applications, security and trustworthiness,”IEEE Open Journal of the Communications Society, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10669603" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+L. Dong, F. Jiang, Y. Peng, K. Wang, K. Yang, C. Pan, and R. Schober,“Lambo: Large language model empowered edge intelligence,” arXiv preprint arXiv:2308.15078, 2023.[<a href="https://arxiv.org/abs/2308.15078" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+B. Lai, J. Wen, J. Kang, H. Du, J. Nie, C. Yi, D. I. Kim, and S. Xie,“Resource-efficient generative mobile edge networks in 6g era: Fundamentals, framework and case study,” IEEE Wireless Communications,vol. 31, no. 4, pp. 66–74, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10628023" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### C. Cross-domain collaboration of LAMs
+J. Wang, H. Du, D. Niyato, J. Kang, Z. Xiong, D. Rajan, S. Mao,and X. Shen, “A unified framework for guiding generative ai with wireless perception in resource constrained mobile edge networks,”IEEE Transactions on Mobile Computing, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10472660" target="_blank" rel="noopener noreferrer">Paper</a>]
 
+Y. Chen, R. Li, X. Yu, Z. Zhao, and H. Zhang, “Adaptive layer splitting for wireless llm inference in edge computing: A model-based reinforcement learning approach,” arXiv preprint arXiv:2406.02616,2024.[<a href="https://arxiv.org/abs/2406.02616" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+M. Xu, D. Niyato, H. Zhang, J. Kang, Z. Xiong, S. Mao, and Z. Han, “Joint foundation model caching and inference of generative ai services for edge intelligence,” in GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023, pp. 3548–3553.[<a href="https://ieeexplore.ieee.org/abstract/document/10436771" target="_blank" rel="noopener noreferrer">Paper</a>]
 ## VIII. LAMS FOR SEMANTIC COMMUNICATION
 ### A. LLM-based semantic communication systems
 
