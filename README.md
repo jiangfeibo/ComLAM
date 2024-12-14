@@ -366,8 +366,21 @@ H. Du, Z. Li, D. Niyato, J. Kang, Z. Xiong, D. I. Kim et al., “Enabling ai-gen
 
 ## VI. LAMS FOR NETWORK DESIGN AND MANAGEMENT
 ### A. Network design
+Y. Huang, H. Du, X. Zhang, D. Niyato, J. Kang, Z. Xiong, S. Wang,and T. Huang, “Large language models for networking: Applications,enabling techniques, and challenges,” arXiv preprint arXiv:2311.17474,2023.[<a href="https://ieeexplore.ieee.org/abstract/document/10614634" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+H. Zou, Q. Zhao, L. Bariah, M. Bennis, and M. Debbah, “Wireless multi-agent generative ai: From connected intelligence to collective intelligence,” arXiv preprint arXiv:2307.02757, 2023.[<a href="https://arxiv.org/abs/2307.02757" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+L. He, G. Sun, D. Niyato, H. Du, F. Mei, J. Kang, M. Debbah et al., “Generative ai for game theory-based mobile networking,” arXiv preprint arXiv:2404.09699, 2024.[<a href="https://arxiv.org/abs/2404.09699" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### B. Network management
+Y. Du, H. Deng, S. C. Liew, K. Chen, Y. Shao, and H. Chen,“The power of large language models for wireless communication system development: A case study on fpga platforms,” arXiv preprint arXiv:2307.07319, 2023.[<a href="https://arxiv.org/abs/2307.07319" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+J. Wang, L. Zhang, Y. Yang, Z. Zhuang, Q. Qi, H. Sun, L. Lu, J. Feng,and J. Liao, “Network meets chatgpt: Intent autonomous management,control and operation,” Journal of Communications and Information Networks, vol. 8, no. 3, pp. 239–255, 2023.[<a href="https://ieeexplore.ieee.org/abstract/document/10272352" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+A. Dandoush, V. Kumarskandpriya, M. Uddin, and U. Khalil, “Large language models meet network slicing management and orchestration,”
+arXiv preprint arXiv:2403.13721, 2024.[<a href="https://arxiv.org/abs/2403.13721" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+L. Yue and T. Chen, “Ai large model and 6g network,” in 2023 IEEE Globecom Workshops (GC Wkshps). IEEE, 2023, pp. 2049–2054.[<a href="https://ieeexplore.ieee.org/abstract/document/10465211" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ## VII. LAMS FOR EDGE INTELLIGENCE
 ### A. Edge training and application of LAMs
