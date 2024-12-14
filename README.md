@@ -298,22 +298,23 @@ M. Zecchin, K. Yu, and O. Simeone, "In-context learning for MIMO equalization us
 M. Abbas, K. Kar, and T. Chen, “Leveraging large language models for wireless symbol detection via in-context learning,” arXiv preprint arXiv:2409.00124, 2024.[<a href="https://arxiv.org/abs/2409.00124" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 2) X of thought
-T. B. Brown, “Language models are few-shot learners,” arXiv preprint arXiv:2005.14165, 2020.[<a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Paper</a>]
+Y. Du, H. Deng, S. C. Liew, K. Chen, Y. Shao, and H. Chen,“The power of large language models for wireless communication system development: A case study on fpga platforms,” arXiv preprint arXiv:2307.07319, 2023.[<a href="https://arxiv.org/abs/2307.07319" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-J. Achiam, S. Adler, S. Agarwal, L. Ahmad, I. Akkaya, F. L.Aleman, D. Almeida, J. Altenschmidt, S. Altman, S. Anadkat et al., “Gpt-4 technical report,” arXiv preprint arXiv:2303.08774,2023.[<a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/openai/evals" target="_blank" rel="noopener noreferrer">code</a>]
+H. Zou, Q. Zhao, L. Bariah, Y. Tian, M. Bennis, S. Lasaulce,M. Debbah, and F. Bader, “Genainet: Enabling wireless collective intelligence via knowledge transfer and reasoning,” arXiv preprint arXiv:2402.16631, 2024.[<a href="https://arxiv.org/abs/2402.16631" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-A. Chowdhery, S. Narang, J. Devlin, M. Bosma, G. Mishra,A. Roberts, P. Barham, H. W. Chung, C. Sutton, S. Gehrmann et al., “Palm: Scaling language modeling with pathways,” Journal of Machine Learning Research, vol. 24, no. 240, pp. 1–113, 2023.[<a href="https://www.jmlr.org/papers/v24/22-1144.html" target="_blank" rel="noopener noreferrer">Paper</a>]
-
-S. Rasal, “Llm harmony: Multi-agent communication for problem solving,” arXiv preprint arXiv:2401.01312, 2024.[<a href="https://arxiv.org/abs/2401.01312" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/sumedhrasal/simulation" target="_blank" rel="noopener noreferrer">code</a>]
+J. Shao, J. Tong, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang,“Wirelessllm: Empowering large language models towards wireless intelligence,” arXiv preprint arXiv:2405.17053, 2024.[<a href="https://arxiv.org/abs/2405.17053" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 3) Retrieval-augmented generation
 A.-L. Bornea, F. Ayed, A. De Domenico, N. Piovesan, and A. Maatouk, “Telco-rag: Navigating the challenges of retrieval-augmented language models for telecommunications,” arXiv preprint arXiv:2404.15939, 2024.[<a href="https://arxiv.org/abs/2404.15939" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-Z. Rackauckas, “Rag-fusion: a new take on retrieval-augmented generation,” arXiv preprint arXiv:2402.03367, 2024.[<a href="https://arxiv.org/abs/2402.03367" target="_blank" rel="noopener noreferrer">Paper</a>]
-
-W. Jiang, S. Zhang, B. Han, J. Wang, B. Wang, and T. Kraska,“Piperag: Fast retrieval-augmented generation via algorithm-system co-design,” arXiv preprint arXiv:2403.05676, 2024.[<a href="https://arxiv.org/abs/2403.05676" target="_blank" rel="noopener noreferrer">Paper</a>]
-
 Y. Tang and W. Guo, “Automatic retrieval-augmented generation of 6g network specifications for use cases,” arXiv preprint arXiv:2405.03122, 2024.[<a href="https://arxiv.org/abs/2405.03122" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+X. Huang, Y. Tang, J. Li, N. Zhang, and X. S. Shen, “Toward effective retrieval augmented generative services in 6g networks,” IEEE
+Network, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10620276" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+S. Xu, C. K. Thomas, O. Hashash, N. Muralidhar, W. Saad, and N. Ramakrishnan, “Large multi-modal models (lmms) as universal foundation models for ai-native wireless systems,” arXiv preprint arXiv:2402.01748, 2024.[<a href="https://arxiv.org/abs/2402.01748" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+G. Y. GMY, J. A. Ayala-Romero, A. Garcia-Saavedra, and X. Costa-Perez, “Telecomrag: Taming telecom standards with retrieval augmented generation and llms,” Authorea Preprints, 2024.[<a href="https://arxiv.org/abs/2406.07053" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 4) Multi-agent system
 J. Tong, J. Shao, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang,“Wirelessagent: Large language model agents for intelligent wireless networks,” arXiv preprint arXiv:2409.07964, 2024.[<a href="https://arxiv.org/abs/2409.07964" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/weiiguo/wireless-agent" target="_blank" rel="noopener noreferrer">code</a>]
