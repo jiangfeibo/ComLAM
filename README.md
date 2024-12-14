@@ -384,7 +384,10 @@ M. Arvinte and J. I. Tamir, “Mimo channel estimation using score-based generat
 
 ## XI. LAMS FOR SECURITY AND PRIVACY
 ### A. Network threat detection and defense
-
+H. Yang, K. Xiang, M. Ge, H. Li, R. Lu, and S. Yu, “A comprehensive overview of backdoor attacks in large language models within communication networks,” IEEE Network, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10440367/" target="_blank" rel="noopener noreferrer">Paper</a>]
+M. A. Ferrag, M. Ndhlovu, N. Tihanyi, L. C. Cordeiro, M. Debbah, T. Lestable, and N. S. Thandi, “Revolutionizing cyber threat detection with large language models: A privacy-preserving bert-based lightweight model for iot/iiot devices,” IEEE Access, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10423646/" target="_blank" rel="noopener noreferrer">Paper</a>]
+J. Wang, Y. Li, Q. Qi, Y. Lu, and B. Wu, “Multilayered fault detection and localization with transformer for microservice systems,” IEEE Transactions on Reliability, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10423414/" target="_blank" rel="noopener noreferrer">Paper</a>]
+M. A. Ferrag, A. Battah, N. Tihanyi, M. Debbah, T. Lestable, and L. C. Cordeiro, “Securefalcon: The next cyber reasoning system for cyber security,” arXiv preprint arXiv:2307.06616, 2023.[<a href="https://arxiv.org/abs/2307.06616" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/features/copilot/" target="_blank" rel="noopener noreferrer">Code</a>]
 ### B. Trusted AI in communication networks
 
 ## XII. LAMS FOR DIGITAL TWIN AND METAVERSE
