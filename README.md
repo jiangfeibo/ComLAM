@@ -259,23 +259,37 @@ L. Yu, H. Zhang, J. Liu, C. Liu, J. Yuan, Z. Li, and Z. Wang, “Vimsc:Robust un
 
 ### B. Classification of LAMs
 #### 1) Large language model
-F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large ai model-based semantic communications,” IEEE Wireless Communications, vol. 31, no. 3, pp. 68–75, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558819" target="_blank" rel="noopener noreferrer">Paper</a>]
+F. Jiang, L. Dong, Y. Peng, K. Wang, K. Yang, C. Pan, and X. You,“Large ai model empowered multimodal semantic communications,”IEEE Communications Magazine, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10670195" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 P. Jiang, C.-K. Wen, X. Yi, X. Li, S. Jin, and J. Zhang, “Semantic communications using foundation models: Design approaches and open issues,” IEEE Wireless Communications, vol. 31, no. 3, pp.76–84, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558822" target="_blank" rel="noopener noreferrer">Paper</a>]
 
+F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, D. Niyato, and O. A. Dobre, “Large language model enhanced multi-agent systems
+for 6g communications,” IEEE Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10638533" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Wang, Z. Sun, J. Fan, and H. Ma, “On the uses of large language models to design end-to-end learning semantic communication,” in 2024 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2024, pp. 1–6.[<a href="https://ieeexplore.ieee.org/abstract/document/10570717" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+M. Xu, D. Niyato, J. Kang, Z. Xiong, S. Mao, Z. Han, D. I.Kim, and K. B. Letaief, “When large language model agents meet 6g networks: Perception, grounding, and alignment,” IEEE Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10648594" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 #### 2) Large vision model
-F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large generative model assisted 3d semantic communication,”arXiv preprint arXiv:2403.05783, 2024.[<a href="https://arxiv.org/abs/2403.05783" target="_blank" rel="noopener noreferrer">Paper</a>]
+F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large ai model-based semantic communications,” IEEE Wireless Communications, vol. 31, no. 3, pp. 68–75, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558819" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+S. Tariq, B. E. Arfeto, C. Zhang, and H. Shin, “Segment anything meets semantic communication,” arXiv preprint arXiv:2306.02094, 2023.[<a href="https://arxiv.org/abs/2306.02094" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 3) Vision-language model
 F. Jiang, C. Tang, L. Dong, K. Wang, K. Yang, and C. Pan, “Visual language model based cross-modal semantic communication systems,” arXiv preprint arXiv:2407.00020, 2024.[<a href="https://arxiv.org/abs/2407.00020" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 4) Large multimodal model
+F. Jiang, L. Dong, Y. Peng, K. Wang, K. Yang, C. Pan, and X. You,“Large ai model empowered multimodal semantic communications,”IEEE Communications Magazine, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10670195" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 L. Qiao, M. B. Mashhadi, Z. Gao, C. H. Foh, P. Xiao, and M. Bennis, “Latency-aware generative semantic communications with pretrained diffusion models,” arXiv preprint arXiv:2403.17256, 2024.[<a href="https://arxiv.org/abs/2403.17256" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 5) World model
 W. Saad, O. Hashash, C. K. Thomas, C. Chaccour, M. Debbah,N. Mandayam, and Z. Han, “Artificial general intelligence (agi)native wireless systems: A journey beyond 6g,” arXiv preprint arXiv:2405.02336, 2024.[<a href="https://arxiv.org/abs/2405.02336" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 6) Lightweight large AI model
+T. S. Do, T. P. Truong, T. Do, H. P. Van, and S. Cho, “Lightweight multiuser multimodal semantic communication system for multimodal large language model communication,” Authorea Preprints, 2024.[<a href="https://www.authorea.com/doi/full/10.22541/au.172479430.09168922" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Rong, Y. Mao, X. He, and M. Chen, “Large-scale traffic flow forecast with lightweight llm in edge intelligence,” IEEE Internet of Things Magazine, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10742575" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### C. Optimization of LAMs
 #### 1) In-context learning
