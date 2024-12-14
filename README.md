@@ -330,8 +330,23 @@ M. Xu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, Y. Fang,D. I. Kim et al., �
 
 ## IV. LAMS FOR PHYSICAL LAYER DESIGN
 ### A. LLM-assisted physical layer design
+Z. Xiao, C. Ye, Y. Hu, H. Yuan, Y. Huang, Y. Feng, L. Cai, an J. Chang, “Llm agents as 6g orchestrator: A paradigm for task-oriented physical-layer automation,” arXiv preprint arXiv:2410.03688, 2024.[<a href="https://arxiv.org/abs/2410.03688" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+S. Fan, Z. Liu, X. Gu, and H. Li, “Csi-llm: A novel downlink channel prediction method aligned with llm pre-training,” arXiv preprint
+arXiv:2409.00005, 2024.[<a href="https://arxiv.org/abs/2409.00005" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+B. Liu, X. Liu, S. Gao, X. Cheng, and L. Yang, “Llm4cp: Adapting large language models for channel prediction,” arXiv preprint arXiv:2406.14440, 2024.[<a href="https://arxiv.org/abs/2406.14440" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/liuboxun/LLM4CP" target="_blank" rel="noopener noreferrer">code</a>]
+
+Y. Sheng, K. Huang, L. Liang, P. Liu, S. Jin, and G. Y. Li,“Beam prediction based on large language models,” arXiv preprint arXiv:2408.08707, 2024.[<a href="https://arxiv.org/abs/2408.08707" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+M. Akrout, A. Mezghani, E. Hossain, F. Bellili, and R. W. Heath,“From multilayer perceptron to gpt: A reflection on deep learning research for wireless physical layer,” IEEE Communications Magazine,vol. 62, no. 7, pp. 34–41, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10582856" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Z. Wang, J. Zhang, H. Du, R. Zhang, D. Niyato, B. Ai, and K. B.Letaief, “Generative ai agent for next-generation mimo design: Fundamentals, challenges, and vision,” arXiv preprint arXiv:2404.08878,2024.[<a href="https://arxiv.org/abs/2404.08878" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://zhewang77.github.io/GAIMIMO/" target="_blank" rel="noopener noreferrer">code</a>]
 
 ### B. GAI model-assisted physical layer design
+N. Van Huynh, J. Wang, H. Du, D. T. Hoang, D. Niyato, D. N.Nguyen, D. I. Kim, and K. B. Letaief, “Generative ai for physical layer communications: A survey,” IEEE Transactions on Cognitive Communications and Networking, 2024.[<a href="https://arxiv.org/abs/2404.08878" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/abs/2404.08878" target="_blank" rel="noopener noreferrer">code</a>]
+
+M. Arvinte and J. I. Tamir, “Mimo channel estimation using score-based generative models,” IEEE Transactions on Wireless Communications, 2022.[<a href="https://ieeexplore.ieee.org/abstract/document/9957135" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/utcsilab/score-based-channels" target="_blank" rel="noopener noreferrer">code</a>]
 
 ## V. LAMS FOR RESOURCE ALLOCATION AND OPTIMIZATION
 ### A. Computing resource allocation
