@@ -420,8 +420,18 @@ M. Xu, D. Niyato, H. Zhang, J. Kang, Z. Xiong, S. Mao, and Z. Han, “Joint foun
 
 ## IX. LAMS FOR FEDERATED LEARNING
 ### A. Federated fine-tuning for LAMs
+M. Xu, D. Cai, Y. Wu, X. Li, and S. Wang, “Fwdllm: Efficient fedllm using forward gradient,” arXiv preprint arXiv:2308.13894, 2023.[<a href="https://arxiv. org/abs/2308.13894" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+H. Woisetschlager, A. Erben, S. Wang, R. Mayer, and H.-A. Jacobsen, “Federated fine-tuning of llms on the very edge: The good, the bad, the ugly,” in Proceedings of the Eighth Workshop on Data Management for End-to-End Machine Learning, 2024, pp. 39–50.[<a href="https://dl.acm.org/doi abs/10.1145/3650203.3663331" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Z. Wang, Y. Zhou, Y. Shi, K. Letaief et al., “Federated fine-tuning for pre-trained foundation models over wireless networks,” arXiv preprint arXiv:2407.02924, 2024.[<a href="https://arxiv.org/abs/2407.02924" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### B. Personlized federated learning for LAMs
+F. Jiang, L. Dong, S. Tu, Y. Peng, K. Wang, K. Yang, C. Pan, and D. Niyato, “Personalized wireless federated learning for large language models,” arXiv preprint arXiv:2404.13238, 2024.[<a href="https://arxiv.org/abs/2404.13238" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Y. Peng, F. Jiang, L. Dong, K. Wang, and K. Yang, “Gai-enabled explainable personalized federated semi-supervised learning,” arXiv preprint arXiv:2410.08634, 2024.[<a href="https://arxiv.org/abs/2410.08634" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+——, “Personalized federated learning for generative ai-assisted semantic communications,” arXiv preprint arXiv:2410.02450, 2024.[<a href="https://arxiv.org/abs/2410.02450" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ## X. LAM-BASED AGENT SYSTEMS
 ### A. Agent systems based on LLMs
@@ -438,7 +448,11 @@ Z. Wang, J. Zhang, H. Du, R. Zhang, D. Niyato, B. Ai, and K. B. Letaief, “Gene
 R. Zhang, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, and D. I. Kim, “Generative ai agents with large language model for satellite networks via a mixture of experts transmission,” IEEE Journal on Selected Areas in Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10679152/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 Y. Wang, M. M. Afzal, Z. Li, J. Zhou, C. Feng, S. Guo, and T. Q. Quek, “Large language models for base station siting: Intelligent deployment based on prompt or agent,” arXiv preprint arXiv:2408.03631, 2024.[<a href="https://arxiv.org/abs/2408.03631" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 ### B. Agent systems based on other GAI models
+W. Yang, Z. Xiong, Y. Yuan, W. Jiang, T. Q. Quek, and M. Debbah, “Agent-driven generative semantic communication for remote surveillance,” arXiv preprint arXiv:2404.06997, 2024.[<a href="https://arxiv.org/abs/2404.06997" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+Z. Chen, Q. Sun, N. Li, X. Li, Y. Wang, and I. Chih-Lin, “Enabling mobile ai agent in 6g era: Architecture and key technologies,” IEEE Network, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10599391/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ## XI. LAMS FOR SECURITY AND PRIVACY
 ### A. Network threat detection and defense
