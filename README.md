@@ -475,7 +475,7 @@ S. A. Khowaja, P. Khuwaja, K. Dev, H. A. Hamadi, and E. Zeydan, “Pathway to se
 ### A. LAMs for digital twin
 Y. Xia, M. Shenoy, N. Jazdi, and M. Weyrich, “Towards autonomous system: flexible modular production system enhanced with large language model agents,” in 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA). IEEE, 2023, pp. 1–8.[<a href="https://ieeexplore.ieee.org/abstract/document/10275362/" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/YuchenXia/GPT4IndustrialAutomation" target="_blank" rel="noopener noreferrer">code</a>]
 
-Y. Hong, J. Wu, and R. Morello, “Llm-twin: mini-giant model-driven beyond 5g digital twin networking framework with semantic secure communication and computation,” Scientific Reports, vol. 14, no. 1, p.19065, 2024.[<a href="https://www.nature.com/articles/s41598-024-69474-5" target="_blank" rel="noopener noreferrer">Paper</a>][<a href=" https://github.com/CURRYSGITHUB/LLM-twin/tree/main" target="_blank" rel="noopener noreferrer">code</a>]
+Y. Hong, J. Wu, and R. Morello, “Llm-twin: mini-giant model-driven beyond 5g digital twin networking framework with semantic secure communication and computation,” Scientific Reports, vol. 14, no. 1, p.19065, 2024.[<a href="https://www.nature.com/articles/s41598-024-69474-5" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/CURRYSGITHUB/LLM-twin/tree/main" target="_blank" rel="noopener noreferrer">code</a>]
 
 W. Wu, X. Huang, and T. H. Luan, “Ai-native network digital twin for intelligent network management in 6g,” arXiv preprint arXiv:2410.01584, 2024.[<a href="https://arxiv.org/abs/2410.01584" target="_blank" rel="noopener noreferrer">Paper</a>]
 
@@ -498,7 +498,7 @@ I. F. Akyildiz, H. Guo, R. Dai, and W. Gerstacker, “Mulsemedia communication 
 M. Abbasian, I. Azimi, A. M. Rahmani, and R. Jain, “Conversational health agents: A personalized llm-powered agent framework,” arXiv preprint arXiv:2310.02374, 2023.[<a href="https://arxiv.org/abs/2310.02374" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/Institute4FutureHealth/CHA" target="_blank" rel="noopener noreferrer">code</a>]
 
 ### B. Carbon emissions
-J. Wen, R. Zhang, D. Niyato, J. Kang, H. Du, Y. Zhang, and Z. Han, “Generative ai for low-carbon artificial intelligence of things,” arXiv preprint arXiv:2404.18077, 2024.[<a href="https://arxiv.org/abs/2404.18077" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="7https://github.com/mlco2/codecarbon" target="_blank" rel="noopener noreferrer">code</a>]
+J. Wen, R. Zhang, D. Niyato, J. Kang, H. Du, Y. Zhang, and Z. Han, “Generative ai for low-carbon artificial intelligence of things,” arXiv preprint arXiv:2404.18077, 2024.[<a href="https://arxiv.org/abs/2404.18077" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/mlco2/codecarbon" target="_blank" rel="noopener noreferrer">code</a>]
 
 ### C. Automation systems
 H. Wen, Y. Li, G. Liu, S. Zhao, T. Yu, T. J.-J. Li, S. Jiang, Y. Liu, Y. Zhang, and Y. Liu, “Autodroid: Llm-powered task automation in android,” in Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2024, pp. 543–557.[<a href="https://dl.acm.org/doi/abs/10.1145/3636534.3649379" target="_blank" rel="noopener noreferrer">Paper</a>]
