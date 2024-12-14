@@ -226,8 +226,6 @@
 ## III. DESIGN FOUNDATIONS OF LAMS FOR COMMUNICATIONS
 ### A. Key architecture of LAMs
 #### 1) Transformer
-Y. Liu, “Roberta: A robustly optimized bert pretraining approach,”arXiv preprint arXiv:1907.11692, 2019.[<a href="https://arxiv.org/abs/1907.11692" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/IndicoDataSolutions/finetune/tree/b1b072cc2b0dd16545f96fc949d5d04af52d02d3" target="_blank" rel="noopener noreferrer">code</a>]
-
 Y. Wang, Z. Gao, D. Zheng, S. Chen, D. Gündüz, and H. V.Poor, “Transformer-empowered 6g intelligent networks: From massive mimo processing to semantic communication,” IEEE Wireless Communications, vol. 30, no. 6, pp. 127–135, 2022.[<a href="https://ieeexplore.ieee.org/abstract/document/9961131/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 H. Yoo, T. Jung, L. Dai, S. Kim, and C.-B. Chae, “Real-time semantic communications with a vision transformer,” in 2022 IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2022, pp. 1–2.[<a href="https://ieeexplore.ieee.org/abstract/document/9914635/" target="_blank" rel="noopener noreferrer">Paper</a>]
@@ -242,6 +240,8 @@ Y. Bo, Y. Duan, S. Shao, and M. Tao, “Joint coding-modulation for digital sema
 Q. Hu, G. Zhang, Z. Qin, Y. Cai, G. Yu, and G. Y. Li, “Robust semantic communications with masked vq-vae enabled codebook,”IEEE Transactions on Wireless Communications, vol. 22, no. 12,pp. 8707–8722, 2023.[<a href="https://ieeexplore.ieee.org/abstract/document/10101778/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 3) Diffusion models
+F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large generative model assisted 3d semantic communication,” arXiv preprint arXiv:2403.05783, 2024.[<a href="https://arxiv.org/abs/2403.05783" target="_blank" rel="noopener noreferrer">Paper</a>]
+
 H. Du, R. Zhang, Y. Liu, J. Wang, Y. Lin, Z. Li, D. Niyato, J. Kang,Z. Xiong, S. Cui et al., “Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization,”arXiv preprint arXiv:2308.05384, 2023.[<a href="https://arxiv.org/abs/2308.05384" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/hongyangdu/gdmopt" target="_blank" rel="noopener noreferrer">code</a>]
 
 T. Wu, Z. Chen, D. He, L. Qian, Y. Xu, M. Tao, and W. Zhang,“Cddm: Channel denoising diffusion models for wireless communications,” in GLOBECOM 2023-2023 IEEE Global Communications Conference. IEEE, 2023, pp. 7429–7434.[<a href="https://ieeexplore.ieee.org/abstract/document/10436728/" target="_blank" rel="noopener noreferrer">Paper</a>]
@@ -251,13 +251,11 @@ Y. Duan, T. Wu, Z. Chen, and M. Tao, “Dm-mimo: Diffusion models for robust sem
 G. Chi, Z. Yang, C. Wu, J. Xu, Y. Gao, Y. Liu, and T. X. Han, “Rfdiffusion: Radio signal generation via time-frequency diffusion,” in Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2024, pp. 77–92.[<a href="https://dl.acm.org/doi/abs/10.1145/3636534.3649348" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 4) Mamba
-O. Lieber, B. Lenz, H. Bata, G. Cohen, J. Osin, I. Dalmedigos, E. Safahi, S. Meirom, Y. Belinkov, S. Shalev-Shwartz et al.,“Jamba: A hybrid transformer-mamba language model,” arXiv preprint arXiv:2403.19887, 2024.[<a href="https://arxiv.org/abs/2403.19887" target="_blank" rel="noopener noreferrer">Paper</a>]
+T. Wu, Z. Chen, M. Tao, Y. Sun, X. Xu, W. Zhang, and P. Zhang,“Mambajscc: Adaptive deep joint source-channel coding with generalized state space model,” arXiv preprint arXiv:2409.16592, 2024.[<a href="https://arxiv.org/abs/2409.16592" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-J. T. Halloran, M. Gulati, and P. F. Roysdon, “Mamba state-space models can be strong downstream learners,” arXiv preprint arXiv:2406.00209, 2024.[<a href="https://arxiv.org/abs/2406.00209" target="_blank" rel="noopener noreferrer">Paper</a>]
+D. Yuan, J. Xue, J. Su, W. Xu, and H. Zhou, “St-mamba: Spatial-temporal mamba for traffic flow estimation recovery using limited data,” in 2024 IEEE/CIC International Conference on Communications in China (ICCC). IEEE, 2024, pp. 1928–1933.[<a href="https://ieeexplore.ieee.org/abstract/document/10681692" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-Y. Li, Z. Zhang, H. Chen, and Z. Ma, “Mamba: Bringing multidimensional abr to webrtc,” in Proceedings of the 31st ACM International Conference on Multimedia, 2023, pp. 9262–9270.[<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611915" target="_blank" rel="noopener noreferrer">Paper</a>]
-
-B. N. Patro and V. S. Agneeswaran, “Simba: Simplified mamba-based architecture for vision and multivariate time series,” arXiv preprint arXiv:2403.15360, 2024.[<a href="https://arxiv.org/abs/2403.15360" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/badripatro/simba" target="_blank" rel="noopener noreferrer">code</a>]
+L. Yu, H. Zhang, J. Liu, C. Liu, J. Yuan, Z. Li, and Z. Wang, “Vimsc:Robust underwater acoustic image semantic communication based on vision mamba model,” in Proceedings of the 2024 12th International Conference on Communications and Broadband Networking, 2024, pp.46–52.[<a href="https://dl.acm.org/doi/abs/10.1145/3688636.3688668" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### B. Classification of LAMs
 #### 1) Large language model
