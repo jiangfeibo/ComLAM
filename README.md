@@ -511,14 +511,14 @@ K. Duran, L. V. Cakir, M. Ozdem, K. Gursu, and B. Canberk, “Generative ai-enab
 M. Corici, H. Buhr, and T. Magedanz, “Generative twin for 6g and beyond 5g networks: Vision, challenges and architecture,” in 2023 2nd International Conference on 6G Networking (6GNet). IEEE, 2023, pp. 1–6.[<a href="https://ieeexplore.ieee.org/abstract/document/10317780/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### B. GAI models for metaverse
-G. Liu, H. Du, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, S. Mao, and D. I. Kim, “Fusion of mixture of experts and generative artificial intelligence in mobile edge metaverse,” arXiv preprint arXiv:2404.03321,
+G. Liu, H. Du, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, S. Mao, and D. I. Kim, “Fusion of mixture of experts and generative artificial intelligence in mobile edge metaverse,” arXiv preprint arXiv:2404.03321,
 2024.[<a href="https://arxiv.org/abs/2404.03321" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/alvinliu97/MOEGAI-Metaverse" target="_blank" rel="noopener noreferrer">code</a>]
 
 M. Xu, D. Niyato, H. Zhang, J. Kang, Z. Xiong, S. Mao, and Z. Han, “Generative ai-empowered effective physical-virtual synchronization in the vehicular metaverse,” in 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom). IEEE, 2023, pp. 607–611.[<a href="https://ieeexplore.ieee.org/abstract/document/10271797/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 N. Sehad, L. Bariah, W. Hamidouche, H. Hellaoui, R. Jantti, and M. Debbah, “Generative ai for immersive communication:The next frontier in internet-of-senses through 6g,” arXiv preprint arXiv:2404.01713, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10731639/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-I. F. Akyildiz, H. Guo, R. Dai, and W. Gerstacker, “Mulsemedia communication research challenges for metaverse in 6g wireless systems,” arXiv preprint arXiv:2306.16359, 2023.[<a href="https://arxiv.org/abs/2306.16359" target="_blank" rel="noopener noreferrer">Paper</a>]
+I. F. Akyildiz, H. Guo, R. Dai, and W. Gerstacker, “Mulsemedia communication research challenges for metaverse in 6g wireless systems,” arXiv preprint arXiv:2306.16359, 2023.[<a href="https://arxiv.org/abs/2306.16359" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ## XIII. LAMS FOR EMERGING APPLICATIONS
 ### A. Smart healthcare
