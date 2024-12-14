@@ -350,10 +350,19 @@ M. Arvinte and J. I. Tamir, “Mimo channel estimation using score-based generat
 
 ## V. LAMS FOR RESOURCE ALLOCATION AND OPTIMIZATION
 ### A. Computing resource allocation
+H. Du, Z. Li, D. Niyato, J. Kang, Z. Xiong, H. Huang, and S. Mao,“Diffusion-based reinforcement learning for edge-enabled ai-generated content services,” IEEE Transactions on Mobile Computing, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10409284" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/Lizonghang/AGOD" target="_blank" rel="noopener noreferrer">code</a>]
+
+H. Du, G. Liu, Y. Lin, D. Niyato, J. Kang, Z. Xiong, and D. I. Kim,“Mixture of experts for network optimization: A large language model-enabled approach,” arXiv preprint arXiv:2402.09756, 2024.[<a href="https://arxiv.org/abs/2402.09756" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### B. Spectrum resource allocation
+R. Zhang, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, and D. I. Kim, “Interactive generative ai agents for satellite networks through a mixture of experts transmission,” arXiv preprintarXiv:2404.09134, 2024.[<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240409134Z/abstract" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+X. Du and X. Fang, “An integrated communication and computing scheme for wi-fi networks based on generative ai and reinforcement learning,” arXiv preprint arXiv:2404.13598, 2024.[<a href="https://arxiv.org/abs/2404.13598" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### C. Energy resource optimization
+M. Xu, D. Niyato, J. Kang, Z. Xiong, S. Guo, Y. Fang, and D. I. Kim,“Generative ai-enabled mobile tactical multimedia networks: Distribution, generation, and perception,” arXiv preprint arXiv:2401.06386,2024.[<a href="https://arxiv.org/abs/2401.06386" target="_blank" rel="noopener noreferrer">Paper</a>]
+
+H. Du, Z. Li, D. Niyato, J. Kang, Z. Xiong, D. I. Kim et al., “Enabling ai-generated content (aigc) services in wireless edge networks,” arXiv preprint arXiv:2301.03220, 2023.[<a href="https://arxiv.org/abs/2301.03220" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ## VI. LAMS FOR NETWORK DESIGN AND MANAGEMENT
 ### A. Network design
