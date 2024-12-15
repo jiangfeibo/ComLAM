@@ -464,7 +464,7 @@ Y. Peng, F. Jiang, L. Dong, K. Wang, and K. Yang, “Gai-enabled explainable per
 ### A. Agent systems based on LLMs
 M. Xu, D. Niyato, J. Kang, Z. Xiong, S. Mao, Z. Han, D. I. Kim, and K. B. Letaief, “When large language model agents meet 6g networks: Perception, grounding, and alignment,” IEEE Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10648594/" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/Cogito2012/CarCrashDatase" target="_blank" rel="noopener noreferrer">code</a>]
 
-F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, D. Niyato, and O. A. Dobre, “Large language model enhanced multi-agent systems for 6g communications,” IEEE Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10638533/" target="_blank" rel="noopener noreferrer">Paper</a>]
+F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, D. Niyato, and O. A. Dobre, “Large language model enhanced multi-agent systems for 6g communications,” IEEE Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10638533/" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/jiangfeibo/CommLLM.git" target="_blank" rel="noopener noreferrer">code</a>]
 
 J. Tong, J. Shao, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang, “Wirelessagent: Large language model agents for intelligent wireless networks,” arXiv preprint arXiv:2409.07964, 2024.[<a href="https://arxiv.org/abs/2409.07964" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/weiiguo/Wireless-Agent" target="_blank" rel="noopener noreferrer">code</a>]
 
@@ -472,7 +472,7 @@ H. Zou, Q. Zhao, L. Bariah, M. Bennis, and M. Debbah, “Wireless multi-agent ge
 
 Z. Wang, J. Zhang, H. Du, R. Zhang, D. Niyato, B. Ai, and K. B. Letaief, “Generative ai agent for next-generation mimo design: Fundamentals, challenges, and vision,” arXiv preprint arXiv:2404.08878,2024.[<a href="https://arxiv.org/abs/2404.08878" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://zhewang77.github.io/GAIMIMO/" target="_blank" rel="noopener noreferrer">code</a>]
 
-R. Zhang, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, and D. I. Kim, “Generative ai agents with large language model for satellite networks via a mixture of experts transmission,” IEEE Journal on Selected Areas in Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10679152/" target="_blank" rel="noopener noreferrer">Paper</a>]
+R. Zhang, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, and D. I. Kim, “Generative ai agents with large language model for satellite networks via a mixture of experts transmission,” IEEE Journal on Selected Areas in Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10679152/" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/RickyZang/GAI-agent-satellite" target="_blank" rel="noopener noreferrer">code</a>]
 
 Y. Wang, M. M. Afzal, Z. Li, J. Zhou, C. Feng, S. Guo, and T. Q. Quek, “Large language models for base station siting: Intelligent deployment based on prompt or agent,” arXiv preprint arXiv:2408.03631, 2024.[<a href="https://arxiv.org/abs/2408.03631" target="_blank" rel="noopener noreferrer">Paper</a>]
 
