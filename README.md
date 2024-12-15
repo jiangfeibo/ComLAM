@@ -344,7 +344,7 @@ M. Akrout, A. Mezghani, E. Hossain, F. Bellili, and R. W. Heath,“From multilay
 Z. Wang, J. Zhang, H. Du, R. Zhang, D. Niyato, B. Ai, and K. B.Letaief, “Generative ai agent for next-generation mimo design: Fundamentals, challenges, and vision,” arXiv preprint arXiv:2404.08878,2024.[<a href="https://arxiv.org/abs/2404.08878" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://zhewang77.github.io/GAIMIMO/" target="_blank" rel="noopener noreferrer">code</a>]
 
 ### B. GAI model-assisted physical layer design
-N. Van Huynh, J. Wang, H. Du, D. T. Hoang, D. Niyato, D. N.Nguyen, D. I. Kim, and K. B. Letaief, “Generative ai for physical layer communications: A survey,” IEEE Transactions on Cognitive Communications and Networking, 2024.[<a href="https://arxiv.org/abs/2404.08878" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://arxiv.org/abs/2404.08878" target="_blank" rel="noopener noreferrer">code</a>]
+N. Van Huynh, J. Wang, H. Du, D. T. Hoang, D. Niyato, D. N.Nguyen, D. I. Kim, and K. B. Letaief, “Generative ai for physical layer communications: A survey,” IEEE Transactions on Cognitive Communications and Networking, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10490142" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 M. Arvinte and J. I. Tamir, “Mimo channel estimation using score-based generative models,” IEEE Transactions on Wireless Communications, 2022.[<a href="https://ieeexplore.ieee.org/abstract/document/9957135" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/utcsilab/score-based-channels" target="_blank" rel="noopener noreferrer">code</a>]
 
