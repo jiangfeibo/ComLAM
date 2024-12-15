@@ -235,7 +235,7 @@ H. Wu, Y. Shao, E. Ozfatura, K. Mikolajczyk, and D. Gündüz,“Transformer-aide
 #### 2) Variational autoencoder
 M. A. Alawad, M. Q. Hamdan, and K. A. Hamdi, “Innovative variational autoencoder for an end-to-end communication system,”IEEE Access, 2022.[<a href="https://ieeexplore.ieee.org/abstract/document/9964187/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-Y. Bo, Y. Duan, S. Shao, and M. Tao, “Joint coding-modulation for digital semantic communications via variational autoencoder,”IEEE Transactions on Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10495330/" target="_blank" rel="noopener noreferrer">Paper</a>]
+Y. Bo, Y. Duan, S. Shao, and M. Tao, “Joint coding-modulation for digital semantic communications via variational autoencoder,”IEEE Transactions on Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10495330/" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/SJTU-mxtao/Joint-Coding-Modulation-for-Digital-Semantic-Communication" target="_blank" rel="noopener noreferrer">code</a>]
 
 Q. Hu, G. Zhang, Z. Qin, Y. Cai, G. Yu, and G. Y. Li, “Robust semantic communications with masked vq-vae enabled codebook,”IEEE Transactions on Wireless Communications, vol. 22, no. 12,pp. 8707–8722, 2023.[<a href="https://ieeexplore.ieee.org/abstract/document/10101778/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
