@@ -487,7 +487,7 @@ H. Yang, K. Xiang, M. Ge, H. Li, R. Lu, and S. Yu, “A comprehensive overview o
 
 M. A. Ferrag, M. Ndhlovu, N. Tihanyi, L. C. Cordeiro, M. Debbah, T. Lestable, and N. S. Thandi, “Revolutionizing cyber threat detection with large language models: A privacy-preserving bert-based lightweight model for iot/iiot devices,” IEEE Access, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10423646/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-J. Wang, Y. Li, Q. Qi, Y. Lu, and B. Wu, “Multilayered fault detection and localization with transformer for microservice systems,” IEEE Transactions on Reliability, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10423414/" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://ieeexplore.ieee.org/abstract/document/10423414/" target="_blank" rel="noopener noreferrer">Paper</a>]
+J. Wang, Y. Li, Q. Qi, Y. Lu, and B. Wu, “Multilayered fault detection and localization with transformer for microservice systems,” IEEE Transactions on Reliability, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10423414/" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/OpenNetAI/Sock-Shop-Dataset" target="_blank" rel="noopener noreferrer">code</a>]
 
 M. A. Ferrag, A. Battah, N. Tihanyi, M. Debbah, T. Lestable, and L. C. Cordeiro, “Securefalcon: The next cyber reasoning system for cyber security,” arXiv preprint arXiv:2307.06616, 2023.[<a href="https://arxiv.org/abs/2307.06616" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/features/copilot/" target="_blank" rel="noopener noreferrer">code</a>]
 
