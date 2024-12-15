@@ -264,7 +264,7 @@ F. Jiang, L. Dong, Y. Peng, K. Wang, K. Yang, C. Pan, and X. You,“Large ai mod
 P. Jiang, C.-K. Wen, X. Yi, X. Li, S. Jin, and J. Zhang, “Semantic communications using foundation models: Design approaches and open issues,” IEEE Wireless Communications, vol. 31, no. 3, pp.76–84, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558822" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, D. Niyato, and O. A. Dobre, “Large language model enhanced multi-agent systems
-for 6g communications,” IEEE Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10638533" target="_blank" rel="noopener noreferrer">Paper</a>]
+for 6g communications,” IEEE Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10638533" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/jiangfeibo/CommLLM" target="_blank" rel="noopener noreferrer">code</a>]
 
 Y. Wang, Z. Sun, J. Fan, and H. Ma, “On the uses of large language models to design end-to-end learning semantic communication,” in 2024 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2024, pp. 1–6.[<a href="https://ieeexplore.ieee.org/abstract/document/10570717" target="_blank" rel="noopener noreferrer">Paper</a>]
 
