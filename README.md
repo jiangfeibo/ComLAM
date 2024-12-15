@@ -271,7 +271,7 @@ Y. Wang, Z. Sun, J. Fan, and H. Ma, “On the uses of large language models to d
 M. Xu, D. Niyato, J. Kang, Z. Xiong, S. Mao, Z. Han, D. I.Kim, and K. B. Letaief, “When large language model agents meet 6g networks: Perception, grounding, and alignment,” IEEE Wireless Communications, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10648594" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 2) Large vision model
-F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large ai model-based semantic communications,” IEEE Wireless Communications, vol. 31, no. 3, pp. 68–75, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558819" target="_blank" rel="noopener noreferrer">Paper</a>]
+F. Jiang, Y. Peng, L. Dong, K. Wang, K. Yang, C. Pan, and X. You,“Large ai model-based semantic communications,” IEEE Wireless Communications, vol. 31, no. 3, pp. 68–75, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10558819" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/jiangfeibo/LAMSC" target="_blank" rel="noopener noreferrer">code</a>]
 
 S. Tariq, B. E. Arfeto, C. Zhang, and H. Shin, “Segment anything meets semantic communication,” arXiv preprint arXiv:2306.02094, 2023.[<a href="https://arxiv.org/abs/2306.02094" target="_blank" rel="noopener noreferrer">Paper</a>]
 
@@ -293,7 +293,7 @@ Y. Rong, Y. Mao, X. He, and M. Chen, “Large-scale traffic flow forecast with l
 
 ### C. Optimization of LAMs
 #### 1) In-context learning
-M. Zecchin, K. Yu, and O. Simeone, "In-context learning for MIMO equalization using transformer-based sequence models," in *2024 IEEE International Conference on Communications Workshops (ICC Workshops)*, IEEE, 2024, pp. 1573-1578. [<a href="https://arxiv.org/abs/2311.06101" target="_blank" rel="noopener noreferrer">Paper</a>]
+M. Zecchin, K. Yu, and O. Simeone, "In-context learning for MIMO equalization using transformer-based sequence models," in *2024 IEEE International Conference on Communications Workshops (ICC Workshops)*, IEEE, 2024, pp. 1573-1578. [<a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">code</a>]
 
 M. Abbas, K. Kar, and T. Chen, “Leveraging large language models for wireless symbol detection via in-context learning,” arXiv preprint arXiv:2409.00124, 2024.[<a href="https://arxiv.org/abs/2409.00124" target="_blank" rel="noopener noreferrer">Paper</a>]
 
@@ -305,7 +305,7 @@ H. Zou, Q. Zhao, L. Bariah, Y. Tian, M. Bennis, S. Lasaulce,M. Debbah, and F. Ba
 J. Shao, J. Tong, Q. Wu, W. Guo, Z. Li, Z. Lin, and J. Zhang,“Wirelessllm: Empowering large language models towards wireless intelligence,” arXiv preprint arXiv:2405.17053, 2024.[<a href="https://arxiv.org/abs/2405.17053" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 #### 3) Retrieval-augmented generation
-A.-L. Bornea, F. Ayed, A. De Domenico, N. Piovesan, and A. Maatouk, “Telco-rag: Navigating the challenges of retrieval-augmented language models for telecommunications,” arXiv preprint arXiv:2404.15939, 2024.[<a href="https://arxiv.org/abs/2404.15939" target="_blank" rel="noopener noreferrer">Paper</a>]
+A.-L. Bornea, F. Ayed, A. De Domenico, N. Piovesan, and A. Maatouk, “Telco-rag: Navigating the challenges of retrieval-augmented language models for telecommunications,” arXiv preprint arXiv:2404.15939, 2024.[<a href="https://arxiv.org/abs/2404.15939" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/netop-team/telco-rag" target="_blank" rel="noopener noreferrer">code</a>]
 
 Y. Tang and W. Guo, “Automatic retrieval-augmented generation of 6g network specifications for use cases,” arXiv preprint arXiv:2405.03122, 2024.[<a href="https://arxiv.org/abs/2405.03122" target="_blank" rel="noopener noreferrer">Paper</a>]
 
