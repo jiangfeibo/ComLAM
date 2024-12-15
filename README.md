@@ -447,7 +447,7 @@ F. Jiang, L. Dong, Y. Peng, K. Wang, K. Yang, C. Pan, and X. You,“Large ai mod
 
 ## IX. LAMS FOR FEDERATED LEARNING
 ### A. Federated fine-tuning for LAMs
-M. Xu, D. Cai, Y. Wu, X. Li, and S. Wang, “Fwdllm: Efficient fedllm using forward gradient,” arXiv preprint arXiv:2308.13894, 2023.[<a href="https://arxiv. org/abs/2308.13894" target="_blank" rel="noopener noreferrer">Paper</a>]
+M. Xu, D. Cai, Y. Wu, X. Li, and S. Wang, “Fwdllm: Efficient fedllm using forward gradient,” arXiv preprint arXiv:2308.13894, 2023.[<a href="https://arxiv. org/abs/2308.13894" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/UbiquitousLearning/FwdLLM.git" target="_blank" rel="noopener noreferrer">code</a>]
 
 H. Woisetschlager, A. Erben, S. Wang, R. Mayer, and H.-A. Jacobsen, “Federated fine-tuning of llms on the very edge: The good, the bad, the ugly,” in Proceedings of the Eighth Workshop on Data Management for End-to-End Machine Learning, 2024, pp. 39–50.[<a href="https://dl.acm.org/doi abs/10.1145/3650203.3663331" target="_blank" rel="noopener noreferrer">Paper</a>]
 
