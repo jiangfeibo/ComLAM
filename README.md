@@ -390,7 +390,7 @@ M. Zhang, J. Cao, X. Shen, and Z. Cui, “Edgeshard: Efficient llm inference via
 
 G. Qu, Q. Chen, W. Wei, Z. Lin, X. Chen, and K. Huang, “Mobile edge intelligence for large language models: A contemporary survey,”arXiv preprint arXiv:2407.18921, 2024.[<a href="https://arxiv.org/abs/2407.18921" target="_blank" rel="noopener noreferrer">Paper</a>]
 
-M. Xu, Y. Wu, D. Cai, X. Li, and S. Wang, “Federated fine-tuning of billion-sized language models across mobile devices,” arXiv preprint arXiv:2308.13894, 2023.[<a href="https://arxiv.org/abs/2308.13894" target="_blank" rel="noopener noreferrer">Paper</a>]
+M. Xu, Y. Wu, D. Cai, X. Li, and S. Wang, “Federated fine-tuning of billion-sized language models across mobile devices,” arXiv preprint arXiv:2308.13894, 2023.[<a href="https://arxiv.org/abs/2308.13894" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/UbiquitousLearning/FwdLLM" target="_blank" rel="noopener noreferrer">code</a>]
 
 W. Zhao, W. Jing, Z. Lu, and X. Wen, “Edge and terminal cooperation enabled llm deployment optimization in wireless network,” in 2024 IEEE/CIC International Conference on Communications in China(ICCC Workshops). IEEE, 2024, pp. 220–225.[<a href="https://ieeexplore.ieee.org/abstract/document/10693742" target="_blank" rel="noopener noreferrer">Paper</a>]
 
