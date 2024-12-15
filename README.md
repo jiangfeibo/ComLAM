@@ -355,7 +355,7 @@ H. Du, Z. Li, D. Niyato, J. Kang, Z. Xiong, H. Huang, and S. Mao,“Diffusion-ba
 H. Du, G. Liu, Y. Lin, D. Niyato, J. Kang, Z. Xiong, and D. I. Kim,“Mixture of experts for network optimization: A large language model-enabled approach,” arXiv preprint arXiv:2402.09756, 2024.[<a href="https://arxiv.org/abs/2402.09756" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 ### B. Spectrum resource allocation
-R. Zhang, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, and D. I. Kim, “Interactive generative ai agents for satellite networks through a mixture of experts transmission,” arXiv preprintarXiv:2404.09134, 2024.[<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240409134Z/abstract" target="_blank" rel="noopener noreferrer">Paper</a>]
+R. Zhang, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, and D. I. Kim, “Interactive generative ai agents for satellite networks through a mixture of experts transmission,” arXiv preprintarXiv:2404.09134, 2024.[<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240409134Z/abstract" target="_blank" rel="noopener noreferrer">Paper</a>][<a href="https://github.com/RickyZang/GAI-agent-satellite" target="_blank" rel="noopener noreferrer">code</a>]
 
 X. Du and X. Fang, “An integrated communication and computing scheme for wi-fi networks based on generative ai and reinforcement learning,” arXiv preprint arXiv:2404.13598, 2024.[<a href="https://arxiv.org/abs/2404.13598" target="_blank" rel="noopener noreferrer">Paper</a>]
 
