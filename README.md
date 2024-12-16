@@ -561,7 +561,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td>LLaMA-3</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2407.21783" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://github.com/openai/tiktoken/tree/main" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 
  
