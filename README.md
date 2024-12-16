@@ -740,8 +740,164 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td><a href="https://github.com/SJTU-mxtao/Joint-Coding-Modulation-for-Digital-Semantic-Communication" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
+    <td>Large language model</td>
+    <td>Large language model enhanced multi-agent systems for 6g communications</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Large vision model</td>
+    <td>Large ai model-based semantic communications</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
     <td>In-context learning</td>
     <td>In-context learning for MIMO equalization using transformer-based sequence models</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Retrieval-augmented generation</td>
+    <td>Telco-rag: Navigating the challenges of retrieval-augmented language models for telecommunications</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Multi-agent system</td>
+    <td>Wirelessagent: Large language model agents for intelligent wireless networks</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Multi-agent system</td>
+    <td>Large language model enhanced multi-agent systems for 6g communications</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Mixture of experts</td>
+    <td>Interactive generative ai agents for satellite networks through a mixture of experts transmission</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>LLM-assisted physical layer design</td>
+    <td>Llm4cp: Adapting large language models for channel prediction</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>LLM-assisted physical layer design</td>
+    <td>Generative ai agent for next-generation mimo design: Fundamentals, challenges, and vision</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>GAI model-assisted physical layer design</td>
+    <td>Mimo channel estimation using score-based generative models</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Computing resource allocation</td>
+    <td>Diffusion-based reinforcement learning for edge-enabled ai-generated content services</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Spectrum resource allocation</td>
+    <td>Interactive generative ai agents for satellite networks through a mixture of experts transmission</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Edge training and application of LAMs</td>
+    <td>Edge-llm: Enabling efficient large language model adaptation on edge devices via layerwise unified compression and adaptive layer tuning and voting</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Edge training and application of LAMs</td>
+    <td>Federated fine-tuning of billion-sized language models across mobile devices</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Federated fine-tuning for LAMs</td>
+    <td>Fwdllm: Efficient fedllm using forward gradient</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Agent systems based on LLMs</td>
+    <td>When large language model agents meet 6g networks: Perception, grounding, and alignment</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Agent systems based on LLMs</td>
+    <td>Large language model enhanced multi-agent systems for 6g communications</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Agent systems based on LLMs</td>
+    <td>Wirelessagent: Large language model agents for intelligent wireless networks</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Agent systems based on LLMs</td>
+    <td>Generative ai agent for next-generation mimo design: Fundamentals, challenges, and vision</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Agent systems based on LLMs</td>
+    <td>Generative ai agents with large language model for satellite networks via a mixture of experts transmission</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Network threat detection and defense</td>
+    <td>Multilayered fault detection and localization with transformer for microservice systems</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Network threat detection and defense</td>
+    <td>Securefalcon: The next cyber reasoning system for cyber security</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>LAMs for digital twin</td>
+    <td>Towards autonomous system: flexible modular production system enhanced with large language model agents</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>LAMs for digital twin</td>
+    <td>Llm-twin: mini-giant model-driven beyond 5g digital twin networking framework with semantic secure communication and computation</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>GAI models for metaverse</td>
+    <td>Fusion of mixture of experts and generative artificial intelligence in mobile edge metaverse</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Smart healthcare</td>
+    <td>Conversational health agents: A personalized llm-powered agent framework</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Carbon emissions</td>
+    <td>Generative ai for low-carbon artificial intelligence of things</td>
     <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
