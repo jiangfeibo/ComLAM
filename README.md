@@ -570,7 +570,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td rowspan=2>SAM series</td>
     <td>SAM-1</td>
     <td>2023</td>
-    <td><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10378323/" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td></td>
   </tr>
   <tr align="center">
@@ -602,7 +602,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
   <tr align="center">
     <td>Stable Diffusion V2</td>
     <td>2022</td>
-    <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/CompVis/latent-diffusion" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
