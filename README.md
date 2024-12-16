@@ -529,7 +529,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td>OpenAI o1</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://github.com/openai/evals" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Gemma series</td>
