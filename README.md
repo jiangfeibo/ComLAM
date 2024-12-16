@@ -504,8 +504,8 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td rowspan=5>GPT series</td>
     <td>GPT-1</td>
     <td>2020</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="https://hayate-lab.com/wp-content/uploads/2023/05/43372bfa750340059ad87ac8e538c53b.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>GPT-2</td>
