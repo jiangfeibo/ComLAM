@@ -4,9 +4,12 @@
 ## Abstract
 
 ![4fd0356155dccb0ed625ed033b047d7](https://github.com/user-attachments/assets/55f04084-f5cd-4a1d-9708-c0e48fdaac1e)
-Overall organization of the survey
+
+<p align="center">Fig. 1: Overall organization of the survey.</p>
+
 ![6726b9d26a50858d841035ca3bc22ac](https://github.com/user-attachments/assets/47175a23-3cc8-43d8-90e4-0505f84aeb92)
-Communication applications of LAMs
+<p align="center">Fig. 2: Communication applications of LAMs.</p>
+
 ## Contents
 
 * [A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions](#A-Comprehensive-Survey-of-Large-AI-Models-for-Communications-Foundations-Applications-and-Future-Directions)
