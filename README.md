@@ -488,20 +488,19 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
-    <td></td>
   </tr>
    <tr align="center">
     <td>RedPajama-data</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Communication content filtering</td>
     <td>Common Crawl</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2403.08295" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>RedPajama</td>
@@ -520,19 +519,19 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td>OpenTelecom dataset</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2407.21783" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
   <tr align="center">
     <td>TeleQnA dataset</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2407.21783" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Communication fine-tuning datasets</td>
     <td>TelecomInstruct dataset</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2403.08295" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>CSI dataset compliant with 3GPP standards</td>
@@ -545,13 +544,13 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td>TelecomAlign dataset</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2403.08295" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 </tbody></table>
 
 
 
-#### 大语言模型LLM
+#### Large language model
 
 <table><thead>
   <tr>
@@ -563,11 +562,23 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
   </tr></thead>
 <tbody>
   <tr align="center">
-    <td rowspan=3>GPT系列</td>
-    <td>GPT-3</td>
+    <td rowspan=5>GPT series</td>
+    <td>GPT-1</td>
     <td>2020</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>GPT-2</td>
+    <td>2023</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+   <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>GPT-3</td>
+    <td>2023</td>
     <td><a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/openai/gpt-3/blob/master/overlap_frequency.md" target="_blank" rel="noopener noreferrer">Code</a></td>
+   <td><a href="https://github.com/openai/gpt-3/blob/master/overlap_frequency.md" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>GPT-4</td>
@@ -582,7 +593,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td></td>
   </tr>
   <tr align="center">
-    <td rowspan=2>Gemma 系列</td>
+    <td rowspan=2>Gemma series</td>
     <td>Gemma 1</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2403.08295" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -595,7 +606,13 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td><a href="https://github.com/google-deepmind/dangerous-capability-evaluations" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td rowspan=2>LLaMA 系列</td>
+    <td rowspan=3>LLaMA series</td>
+    <td>LLaMA-1</td>
+    <td>2023</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
     <td>LLaMA-2</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2307.09288" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -612,7 +629,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
 
 
 
-#### 2、大视觉模型LVM
+#### 2、Large Vision Model
 <table><thead>
   <tr>
     <th>Category</th>
@@ -623,7 +640,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
   </tr></thead>
 <tbody>
   <tr align="center">
-    <td rowspan=2>SAM 系列</td>
+    <td rowspan=2>SAM series</td>
     <td>SAM-1</td>
     <td>2023</td>
     <td><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -636,7 +653,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td><a href="https://github.com/983632847/sam-for-videos" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td rowspan=2>DINO 系列</td>
+    <td rowspan=2>DINO series</td>
     <td>DINO V1</td>
     <td>2021</td>
     <td><a href="https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -649,7 +666,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td><a href="https://github.com/facebookresearch/dinov2" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td rowspan=3>Stable Diffusion 系列</td>
+    <td rowspan=3>Stable Diffusion series</td>
     <td> Stable Diffusion V1</td>
     <td>2022</td>
     <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -669,7 +686,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
   </tr>
 </tbody></table>
 
-#### 3、视觉语言模型VLM
+#### 3、Vision Language Model
 <table><thead>
   <tr>
     <th>Category</th>
@@ -687,7 +704,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td><a href="https://github.com/haotian-liu/LLaVA" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td rowspan=2>Qwen-VL 系列</td>
+    <td rowspan=2>Qwen-VL</td>
     <td> Qwen-VL</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2308.12966" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -708,7 +725,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
   </tr>
 </tbody></table>
 
-#### 4、多模态大模型
+#### 4、Large Multimodal Model
 
 
 <table><thead>
@@ -721,7 +738,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
   </tr></thead>
 <tbody>
   <tr align="center">
-    <td rowspan=2>CoDi 系列</td>
+    <td rowspan=2>CoDi series</td>
     <td>CoDi-1</td>
     <td>2024</td>
     <td><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/33edf072fe44f19079d66713a1831550-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -749,7 +766,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
    </tr>
 </tbody></table>
 
-#### 5、世界模型
+#### 5、World Model
 <table><thead>
   <tr>
     <th>Category</th>
@@ -782,7 +799,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     </tr>
 </tbody></table>
 
-#### 6、轻量级大模型
+#### 6、Lightweight large AI model
 <table><thead>
   <tr>
     <th>Category</th>
