@@ -480,7 +480,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
 </tbody></table>
 
 
-### Classification of LAMs
+#### Classification of LAMs
 
 <table><thead>
   <tr>
