@@ -412,77 +412,77 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td rowspan=4>General datasets</td>
     <td>Common Crawl</td>
     <td>2020</td>
-    <td><a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/openai/gpt-3/blob/master/overlap_frequency.md" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Pile</td>
     <td>2023</td>
-    <td><a href="https://arxiv.org/abs/2312.00752" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Dolma</td>
     <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
    <tr align="center">
     <td>RedPajama-data</td>
     <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Communication content filtering</td>
     <td>Common Crawl</td>
     <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2403.08295" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>RedPajama</td>
     <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2408.00118" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/google-deepmind/dangerous-capability-evaluations" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td rowspan=3>Communication pre-training datasets</td>
     <td>TSpec-LLM</td>
     <td>2023</td>
-    <td><a href="https://arxiv.org/abs/2307.09288" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/facebookresearch/llama" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>OpenTelecom dataset</td>
     <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2407.21783" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   <tr align="center">
     <td>TeleQnA dataset</td>
     <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2407.21783" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Communication fine-tuning datasets</td>
     <td>TelecomInstruct dataset</td>
     <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2403.08295" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>CSI dataset compliant with 3GPP standards</td>
     <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2408.00118" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/google-deepmind/dangerous-capability-evaluations" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td rowspan=1>Communication alignment datasets</td>
     <td>TelecomAlign dataset</td>
     <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2403.08295" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/state-spaces/mamba" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 </tbody></table>
 
