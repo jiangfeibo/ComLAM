@@ -660,12 +660,12 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td><a href="https://github.com/invictus717/MetaTransformer" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-     <td>ImageBind</td>
-     <td>ImageBind</td>
-     <td>2023</td>
-     <td><a href="http://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-     <td></td>
-   </tr>
+    <td>ImageBind</td>
+    <td>ImageBind</td>
+    <td>2023</td>
+    <td><a href="http://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
 
    
   <tr align="center">
@@ -684,12 +684,12 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
      <td></td>
    </tr>
    <tr align="center">
-      <td>Vista</td>
-      <td>Vista</td>
-      <td>2024</td>
-      <td><a href="https://arxiv.org/abs/2405.17398" target="_blank" rel="noopener noreferrer">Paper</a></td>
-      <td><a href="https://github.com/OpenDriveLab/Vista" target="_blank" rel="noopener noreferrer">Code</a></td>
-    </tr>
+     <td>Vista</td>
+     <td>Vista</td>
+     <td>2024</td>
+     <td><a href="https://arxiv.org/abs/2405.17398" target="_blank" rel="noopener noreferrer">Paper</a></td>
+     <td><a href="https://github.com/OpenDriveLab/Vista" target="_blank" rel="noopener noreferrer">Code</a></td>
+   </tr>
 
 
   <tr align="center">
@@ -719,7 +719,33 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
 
 
 #### 共享代码的论文表
-
+<table><thead>
+  <tr>
+    <th>Category</th>
+    <th>Title</th>
+    <th>Link</th>
+    <th>Download</th>
+  </tr></thead>
+<tbody>
+  <tr align="center">
+    <td>Variational autoencoder</td>
+    <td>Joint coding-modulation for digital semantic communications via variational autoencoder</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10495330/" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/SJTU-mxtao/Joint-Coding-Modulation-for-Digital-Semantic-Communication" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Diffusion models</td>
+    <td>Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10495330/" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/SJTU-mxtao/Joint-Coding-Modulation-for-Digital-Semantic-Communication" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>In-context learning</td>
+    <td>In-context learning for MIMO equalization using transformer-based sequence models</td>
+    <td><a href="https://ieeexplore.ieee.pubapi.xyz/document/10615360" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/kclip/ICL-Equalization" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+</tbody></table>
 
 
 
