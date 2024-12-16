@@ -72,7 +72,7 @@
   * [The Team](#The-Team)
   * [Acknowledgments](#Acknowledgments)
   * [Update log](#Update-log)
-
+  
 ## III. DESIGN FOUNDATIONS OF LAMS FOR COMMUNICATIONS
 ### A. Key architecture of LAMs
 #### 1) Transformer
