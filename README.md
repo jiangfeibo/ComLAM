@@ -2,12 +2,17 @@
 # A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Future Directions
 
 ## Abstract
+The 6G wireless communications aim to establish an intelligent world of ubiquitous connectivity, providing unprecedented communication experience. Large artificial intelligence models (LAMs), with their outstanding cognitive and generalization capabilities, can efficiently provide artificial intelligence (AI) services for diverse communication applications, making them crucial tools for addressing complex challenges in future wireless communication systems. This study comprehensively reviews the foundations, applications, and future directions of LAMs for communications. First, we introduce the current development state of AI-based communication systems, emphasizing the motivation behind empowering communications with LAMs and summarizing the contributions. Then, we examine the learning foundations of LAMs for communications, encompassing dataset construction, model training, and evaluation. Next, we present the
+design foundations of LAMs for communications, including key architectures, model classifications, and optimization methods. Following this, we detail the research advancements of LAMs in various communication scenarios. Finally, we analyze the main challenges and summarize potential future directions.
+Index Terms—Large Language Model; Communication; Semantic Communication; 6G; Edge Computing.
+![5b2e3bba7b265e977f6731643077467](https://github.com/user-attachments/assets/b61fcde3-f804-4a9d-ad25-9b4435587238)
+<p align="center">Fig. 1: Large AI model empowered Future Wireless Communication Systems.</p>
 
 ![4fd0356155dccb0ed625ed033b047d7](https://github.com/user-attachments/assets/c00dd862-2d41-4c55-ae55-0ca3a629b554)
-<p align="center">Fig. 1: Overall organization of the survey.</p>
+<p align="center">Fig. 2: Overall organization of the survey.</p>
 
 ![6726b9d26a50858d841035ca3bc22ac](https://github.com/user-attachments/assets/47175a23-3cc8-43d8-90e4-0505f84aeb92)
-<p align="center">Fig. 2: Communication applications of LAMs.</p>
+<p align="center">Fig. 3: Communication applications of LAMs.</p>
 
 ## Contents
 
@@ -69,6 +74,9 @@
     * [D. Artificial intelligence of things](#D-Artificial-intelligence-of-things)
     * [E. Integrated satellite, aerial, and terrestrial networks](#E-Integrated-satellite-aerial-and-terrestrial-networks)
     * [F. Integration of UAVs and LLMs](#F-Integration-of-UAVs-and-LLMs)
+  * [Communication datasets for LAMs](#Communication-datasets-for-LAMs)
+  * [Classification of LAMs](#Classification-of-LAMs)
+  * [共享代码的论文表](#共享代码的论文表)
   * [The Team](#The-Team)
   * [Acknowledgments](#Acknowledgments)
   * [Update log](#Update-log)
@@ -390,7 +398,7 @@ S. Javaid, R. A. Khalil, N. Saeed, B. He, and M.-S. Alouini, “Leveraging large
 S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Current state and pathways to the future,” IEEE Open Journal of Vehicular Technology, 2024.[<a href="https://ieeexplore.ieee.org/abstract/document/10643253/" target="_blank" rel="noopener noreferrer">Paper</a>]
 
 
-#### Communication datasets for LAMs
+## Communication datasets for LAMs
 
 <table><thead>
   <tr>
@@ -480,7 +488,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
 </tbody></table>
 
 
-#### Classification of LAMs
+## Classification of LAMs
 
 <table><thead>
   <tr>
@@ -718,7 +726,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
 
 
 
-#### 共享代码的论文表
+## 共享代码的论文表
 <table><thead>
   <tr>
     <th>Category</th>
