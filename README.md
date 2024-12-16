@@ -450,18 +450,18 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td rowspan=3>Communication pre-training datasets</td>
     <td>TSpec-LLM</td>
     <td>2023</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://huggingface.co/datasets/rasoul-nikbakht/TSpec-LLM" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>OpenTelecom dataset</td>
     <td>2024</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/open-telecom-data" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   <tr align="center">
     <td>TeleQnA dataset</td>
     <td>2024</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://huggingface.co/datasets/netop/TeleQnA" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
