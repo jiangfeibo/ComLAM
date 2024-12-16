@@ -670,8 +670,8 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td>ImageBind</td>
     <td>ImageBind</td>
     <td>2023</td>
-    <td><a href="http://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://arxiv.org/abs/2305.05665" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://facebookresearch.github.io/ImageBind" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
 
    
@@ -684,8 +684,8 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td><a href="https://github.com/lichao-sun/SoraReview" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-     <td>JEPA </td>
-     <td>JEPA </td>
+     <td>JEPA</td>
+     <td>JEPA</td>
      <td>2022</td>
      <td><a href="https://openreview.net/pdf?id=BZ5a1r-kVsf" target="_blank" rel="noopener noreferrer">Paper</a></td>
      <td></td>
