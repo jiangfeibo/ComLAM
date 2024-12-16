@@ -412,38 +412,38 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td rowspan=4>General datasets</td>
     <td>Common Crawl</td>
     <td>2020</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
     <td><a href="http://commoncrawl.org/the-data/get-started/" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Pile</td>
     <td>2023</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
     <td><a href="https://github.com/EleutherAI/the-pile" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Dolma</td>
     <td>2024</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
     <td><a href="https://huggingface.co/datasets/allenai/dolma" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
    <tr align="center">
     <td>RedPajama-data</td>
     <td>2024</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
     <td><a href="https://github.com/togethercomputer/RedPajama-Data" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Communication content filtering</td>
     <td>Common Crawl</td>
     <td>2024</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
     <td><a href="http://commoncrawl.org/the-data/get-started/" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>RedPajama</td>
     <td>2024</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
     <td><a href="https://github.com/togethercomputer/RedPajama-Data" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
@@ -469,20 +469,20 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
     <td>TelecomInstruct dataset</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2407.09424" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>CSI dataset compliant with 3GPP standards</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2406.14440" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td rowspan=1>Communication alignment datasets</td>
     <td>TelecomAlign dataset</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2407.09424" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
 </tbody></table>
 
