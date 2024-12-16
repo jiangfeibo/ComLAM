@@ -510,8 +510,8 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
   <tr align="center">
     <td>GPT-2</td>
     <td>2023</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="https://insightcivic.s3.us-east-1.amazonaws.com/language-models.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/openai/gpt-2" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>GPT-3</td>
