@@ -3,8 +3,7 @@
 
 ## Abstract
 
-![4fd0356155dccb0ed625ed033b047d7](https://github.com/user-attachments/assets/55f04084-f5cd-4a1d-9708-c0e48fdaac1e)
-
+<img width="540" alt="10d2da3bfda5af7535f943067d6b8f9" src="https://github.com/user-attachments/assets/088798a7-18d4-4795-8e9e-40a73df59d5f" />
 <p align="center">Fig. 1: Overall organization of the survey.</p>
 
 ![6726b9d26a50858d841035ca3bc22ac](https://github.com/user-attachments/assets/47175a23-3cc8-43d8-90e4-0505f84aeb92)
