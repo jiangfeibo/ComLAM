@@ -918,7 +918,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
 ## The Team
 Here is the list of our student contributors in each section.
 | Section 	| Student Contributors 	|
-|:-------:	|:--------------------:	|
+|:-------	|:--------------------	|
 |   The whole paper  | Zhengyu Du , Yuhan Zhang |
 |   Literature Search   | Jian Zou , Dandan Qi  |
 |   Project Maintenance   | Xitao Pan  |
@@ -931,12 +931,9 @@ Thank you to all contributors and readers for your support. Special thanks to ev
 
 ## Update Log
 | Version 	| Time 	| Update Content 	|
-|:-------:	|:----:	|:--------------:	|
-|  V1      | 2024/12/09	|The initial version.|
-|  V2      | 2024/12/18	|Improve the writing and correct some minor errors.|
-
-
-
+|:---	|:---	|:---	|
+| v1 	| 2024/12/09 	| The initial version. 	|
+| v2 	| 2024/12/18 	| Improve the writing.<br>Correct some minor errors. 	|
 
 
 
