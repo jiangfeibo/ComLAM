@@ -4,7 +4,7 @@
 ## Abstract
 The 6G wireless communications aim to establish an intelligent world of ubiquitous connectivity, providing unprecedented communication experience. Large artificial intelligence models (LAMs), with their outstanding cognitive and generalization capabilities, can efficiently provide artificial intelligence (AI) services for diverse communication applications, making them crucial tools for addressing complex challenges in future wireless communication systems. This study comprehensively reviews the foundations, applications, and future directions of LAMs for communications. First, we introduce the current development state of AI-based communication systems, emphasizing the motivation behind empowering communications with LAMs and summarizing the contributions. Then, we examine the learning foundations of LAMs for communications, encompassing dataset construction, model training, and evaluation. Next, we present the design foundations of LAMs for communications, including key architectures, model classifications, and optimization methods. Following this, we detail the research advancements of LAMs in various communication scenarios. Finally, we analyze the main challenges and summarize potential future directions.
 
-![5cedc0c5f66d931c36703b5b59e5a17](https://github.com/user-attachments/assets/d01fa828-ac80-42e9-93b3-af19ee8affe4)
+![微信图片_202412182](https://github.com/user-attachments/assets/e3ccb2e6-8708-41a1-9b56-1e16c0ef2d00)
 <p align="center">Fig. 1: Large AI model empowered Future Wireless Communication Systems.</p>
 
 
