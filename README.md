@@ -727,7 +727,7 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
 
 
 
-## 共享代码的论文表
+## Paper with code
 <table><thead>
   <tr>
     <th>Category</th>
