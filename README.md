@@ -7,8 +7,7 @@ The 6G wireless communications aim to establish an intelligent world of ubiquito
 ![5b2e3bba7b265e977f6731643077467](https://github.com/user-attachments/assets/b61fcde3-f804-4a9d-ad25-9b4435587238)
 <p align="center">Fig. 1: Large AI model empowered Future Wireless Communication Systems.</p>
 
-![4fd0356155dccb0ed625ed033b047d7](https://github.com/user-attachments/assets/c00dd862-2d41-4c55-ae55-0ca3a629b554)
-<p align="center">Fig. 2: Overall organization of the survey.</p>
+
 
 ![6726b9d26a50858d841035ca3bc22ac](https://github.com/user-attachments/assets/47175a23-3cc8-43d8-90e4-0505f84aeb92)
 <p align="center">Fig. 3: Communication applications of LAMs.</p>
@@ -79,7 +78,10 @@ The 6G wireless communications aim to establish an intelligent world of ubiquito
   * [The Team](#The-Team)
   * [Acknowledgments](#Acknowledgments)
   * [Update log](#Update-log)
-  
+
+![4fd0356155dccb0ed625ed033b047d7](https://github.com/user-attachments/assets/c00dd862-2d41-4c55-ae55-0ca3a629b554)
+<p align="center">Fig. 2: Overall organization of the survey.</p>
+
 ## III. DESIGN FOUNDATIONS OF LAMS FOR COMMUNICATIONS
 ### A. Key architecture of LAMs
 #### 1) Transformer
