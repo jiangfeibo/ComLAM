@@ -925,8 +925,7 @@ Here is the list of our student contributors in each section.
 
 
 ## Acknowledgments
-以下例子供参考：
-The authors would like to thank Yankai Lin and Yutao Zhu for proofreading this paper. Since the first release of this paper, we have received a number of valuable comments from the readers. We sincerely thank the readers who have written to us with constructive suggestions and comments: Tyler Suard, Damai Dai, Liang Ding, Stella Biderman, Kevin Gray, Jay Alammar and Yubo Feng.
+Thank you to all contributors and readers for your support. Special thanks to everyone who helped with development, testing, and provided feedback. Your contributions made this project possible.
 
 
 ## Update Log
