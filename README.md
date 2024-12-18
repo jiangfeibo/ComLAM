@@ -920,8 +920,8 @@ Here is the list of our student contributors in each section.
 | Section 	| Student Contributors 	|
 |:-------:	|:--------------------:	|
 |   The whole paper  | Zhengyu Du , Yuhan Zhang |
-|      .....     | Jian Zou , Dandan Qi    |
-|                |                    |
+|   Documents Searching   | Jian Zou , Dandan Qi  |
+
 
 
 ## Acknowledgments
