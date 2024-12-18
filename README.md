@@ -919,9 +919,9 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
 Here is the list of our student contributors in each section.
 | Section 	| Student Contributors 	|
 |:-------:	|:--------------------:	|
-|The whole paper|  .....          	|
-| Overview && Resources of LLMs |  .....         	|
-|           |     .....         	|
+|   The whole paper  | Zhengyu Du , Yuhan Zhang |
+|      .....     | Jian Zou , Dandan Qi    |
+|                |                    |
 
 
 ## Acknowledgments
@@ -932,7 +932,8 @@ The authors would like to thank Yankai Lin and Yutao Zhu for proofreading this p
 ## Update Log
 | Version 	| Time 	| Update Content 	|
 |:-------:	|:----:	|:--------------:	|
-|  V1      | 2024/12/18	|The initial version.|
+|  V1      | 2024/12/09	|The initial version.|
+|  V2      | 2024/12/18	|Improve the writing and correct some minor errors.|
 
 
 
