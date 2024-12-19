@@ -8,8 +8,7 @@ The 6G wireless communications aim to establish an intelligent world of ubiquito
 <p align="center">Fig. 1: Large AI model empowered Future Wireless Communication Systems.</p>
 
 
-
-![6726b9d26a50858d841035ca3bc22ac](https://github.com/user-attachments/assets/47175a23-3cc8-43d8-90e4-0505f84aeb92)
+![a5fb7f952c10459ad46d7c5d57c11a5](https://github.com/user-attachments/assets/77ac9cc5-b118-4fc8-85d8-9535f78165bf)
 <p align="center">Fig. 3: Communication applications of LAMs.</p>
 
 ## Contents
