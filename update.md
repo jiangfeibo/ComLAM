@@ -750,9 +750,24 @@ S. Javaid, H. Fahim, B. He, and N. Saeed, “Large language models for uavs: Cur
       <td><a href="https://arxiv.org/abs/2403.18814" target="_blank" rel="noopener noreferrer">Paper</a></td>
       <td><a href="https://github.com/dvlab-research/MGM" target="_blank" rel="noopener noreferrer">Code</a></td>
     </tr>
+
+
+  <tr align="center">
+    <td rowspan=3>Large Reasoning Model</td>
+    <td>Open AI o3</td>
+    <td>Open AI o3</td>
+    <td>2024</td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+     <td>DeepSeek</td>
+     <td>DeepSeek</td>
+     <td>2024</td>
+     <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
+     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+   </tr>
 </tbody></table>
-
-
 
 ## Paper with code
 <table><thead>
