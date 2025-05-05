@@ -101,7 +101,7 @@ The 6G wireless communications aim to establish an intelligent world of ubiquito
   * [Update log](#Update-log)
 
 ![b36c4000a3659516ca6a81327307983](https://github.com/user-attachments/assets/5b1f361f-1ef3-4b80-a7c4-0f3bf209529d)
-<p align="center">Fig. 2: Overall organization of the survey.</p>
+<p align="center">Fig. 1: Overall organization of the survey.</p>
 
 ## III. DESIGN FOUNDATIONS OF LAMS FOR COMMUNICATIONS
 ### A. Key architecture of LAMs
