@@ -451,25 +451,25 @@ communication, agentic systems, and emerging applications.</p>
 
   <tr align="center">
     <td rowspan=3>Large Reasoning Model</td>
-    <td>Open AI o3</td>
-    <td>Open AI o3</td>
-    <td>2024</td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-     <td>DeepSeek</td>
-     <td>DeepSeek-R1</td>
-     <td>2025</td>
-     <td><a href="https://arxiv.org/abs/2502.12893" target="_blank" rel="noopener noreferrer">Paper</a></td>
-     <td><a href="https://github.com/dukeceicenter/jailbreak-o1o3-deepseek-r1" target="_blank" rel="noopener noreferrer">Code</a></td>
-   </tr>
-   <tr align="center">
      <td>Mixtral</td>
      <td>Mixtral</td>
      <td>2024</td>
      <td><a href="https://arxiv.org/abs/2401.04088" target="_blank" rel="noopener noreferrer">Paper</a></td>
      <td><a href="https://github.com/mistralai/mistral-inference" target="_blank" rel="noopener noreferrer">Code</a></td>
+   </tr>
+   <tr align="center">
+    <td>Open AI o3</td>
+    <td>Open AI o3</td>
+    <td>2025</td>
+    <td><a href="https://arxiv.org/abs/2501.17749" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/Trust4AI/ASTRAL" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+   <tr align="center">
+     <td>DeepSeek</td>
+     <td>DeepSeek-R1</td>
+     <td>2025</td>
+     <td><a href="https://arxiv.org/abs/2502.12893" target="_blank" rel="noopener noreferrer">Paper</a></td>
+     <td><a href="https://github.com/dukeceicenter/jailbreak-o1o3-deepseek-r1" target="_blank" rel="noopener noreferrer">Code</a></td>
    </tr>
 </tbody></table>
 
