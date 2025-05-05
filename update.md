@@ -458,8 +458,8 @@ communication, agentic systems, and emerging applications.</p>
      <td><a href="https://github.com/mistralai/mistral-inference" target="_blank" rel="noopener noreferrer">Code</a></td>
    </tr>
    <tr align="center">
-    <td>Open AI o3</td>
-    <td>Open AI o3</td>
+    <td>OpenAI o3-mini</td>
+    <td>OpenAI o3-mini</td>
     <td>2025</td>
     <td><a href="https://arxiv.org/abs/2501.17749" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/Trust4AI/ASTRAL" target="_blank" rel="noopener noreferrer">Code</a></td>
