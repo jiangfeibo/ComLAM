@@ -459,10 +459,10 @@ communication, agentic systems, and emerging applications.</p>
   </tr>
   <tr align="center">
      <td>DeepSeek</td>
-     <td>DeepSeek</td>
-     <td>2024</td>
-     <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-     <td><a href="https://github.com/deepseek-ai" target="_blank" rel="noopener noreferrer">Code</a></td>
+     <td>DeepSeek-R1</td>
+     <td>2025</td>
+     <td><a href="https://arxiv.org/abs/2502.12893" target="_blank" rel="noopener noreferrer">Paper</a></td>
+     <td><a href="https://github.com/dukeceicenter/jailbreak-o1o3-deepseek-r1" target="_blank" rel="noopener noreferrer">Code</a></td>
    </tr>
    <tr align="center">
      <td>Mixtral</td>
