@@ -100,8 +100,27 @@ The 6G wireless communications aim to establish an intelligent world of ubiquito
   * [Acknowledgments](#Acknowledgments)
   * [Update log](#Update-log)
 
-![fig3](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig3.png?raw=true)
-<p align="center">Fig. 1: Overall organization of the survey.</p>
+<div align="center">
+ 
+![fig1.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig1.png)
+<p align="center">Fig. 1: The development history of LAMs.</p>
+
+</div>
+
+<div align="center">
+
+![fig2.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig2.png)
+<p align="center">Fig. 2: The role of LAMs in AI.</p>
+
+</div>
+
+![fig3.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig3.png)
+<p align="center">Fig. 3: Overall organization of the survey.</p>
+
+![fig4.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig4.png)
+<p align="center">Fig. 4: Applications of LAMs in Communication. LAMs can be applied across various domains in communication, including
+physical layer design, resource allocation and optimization, network design and management, edge intelligence, semantic
+communication, agentic systems, and emerging applications.</p>
 
 
 ## Communication datasets for LAMs
