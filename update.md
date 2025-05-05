@@ -462,7 +462,7 @@ communication, agentic systems, and emerging applications.</p>
      <td>DeepSeek</td>
      <td>2024</td>
      <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
-     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+     <td><a href="https://github.com/deepseek-ai" target="_blank" rel="noopener noreferrer">Code</a></td>
    </tr>
 </tbody></table>
 
