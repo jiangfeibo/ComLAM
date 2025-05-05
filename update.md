@@ -4,12 +4,6 @@
 ## Abstract
 The 6G wireless communications aim to establish an intelligent world of ubiquitous connectivity, providing unprecedented communication experience. Large artificial intelligence models (LAMs), characterized by significantly larger scales (e.g.,billions or trillions of parameters) compared to typical artificial intelligence (AI) models. LAMs exhibit outstanding cognitive abilities, including strong generalization capabilities for fine-tuning to downstream tasks, and emergent capabilities to handle tasks unseen during training. Therefore, LAMs efficiently provide AI services for diverse communication applications, making them crucial tools for addressing complex challenges in future wireless communication systems. This study provides a comprehensive review of the foundations, applications, and challenges of LAMs in communications. First, we introduce the current state of AI-based communication systems, emphasizing the motivation behind integrating LAMs into communications and summarizing the key contributions. We then present an overview of the essential concepts of LAMs in communication. This includes an introduction to the main architectures of LAMs, such as transformer, diffusion models, and mamba. We also explore the classification of LAMs,including large language models (LLMs), large vision models(LVMs), large multimodal models (LMMs), and world models,and examine their potential applications in communication.Additionally, we cover the training methods and evaluation techniques for LAMs in communication systems. Lastly, we introduce optimization strategies such as chain of thought (CoT), retrieval augmented generation (RAG), and agentic systems.Following this,we discuss the research advancements of LAMs across various communication scenarios, including physical layer design, resource allocation and optimization, network design and management,edge intelligence, semantic communication, agentic systems, and emerging applications. Finally, we analyze the challenges in the current research and provide insights into potential future research directions.
 
-![微信图片_202412182](https://github.com/user-attachments/assets/e3ccb2e6-8708-41a1-9b56-1e16c0ef2d00)
-<p align="center">Fig. 1: Large AI model empowered Future Wireless Communication Systems.</p>
-
-
-![a5fb7f952c10459ad46d7c5d57c11a5](https://github.com/user-attachments/assets/77ac9cc5-b118-4fc8-85d8-9535f78165bf)
-<p align="center">Fig. 3: Communication applications of LAMs.</p>
 
 ## Contents
 
