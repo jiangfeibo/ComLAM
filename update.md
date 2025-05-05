@@ -464,6 +464,13 @@ communication, agentic systems, and emerging applications.</p>
      <td><a href="" target="_blank" rel="noopener noreferrer">Paper</a></td>
      <td><a href="https://github.com/deepseek-ai" target="_blank" rel="noopener noreferrer">Code</a></td>
    </tr>
+   <tr align="center">
+     <td>Mixtral</td>
+     <td>Mixtral</td>
+     <td>2024</td>
+     <td><a href="https://arxiv.org/abs/2401.04088" target="_blank" rel="noopener noreferrer">Paper</a></td>
+     <td><a href="https://github.com/mistralai/mistral-inference" target="_blank" rel="noopener noreferrer">Code</a></td>
+   </tr>
 </tbody></table>
 
 ## Paper with code
