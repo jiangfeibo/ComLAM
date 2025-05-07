@@ -351,7 +351,7 @@ communication, agentic systems, and emerging applications.</p>
    <td>Stable Diffusion V3</td>
    <td>2024</td>
    <td><a href="https://openreview.net/forum?id=FPnUhsQJ5B" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/facebookresearch/faiss/wiki/The-index-factory" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
 
 
@@ -399,7 +399,7 @@ communication, agentic systems, and emerging applications.</p>
     <td>CoDi-2</td>
     <td>2024</td>
     <td><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Tang_CoDi-2_In-Context_Interleaved_and_Interactive_Any-to-Any_Generation_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/microsoft/i-Code/tree/main/CoDi-2" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>Meta-Transformer</td>
@@ -413,7 +413,7 @@ communication, agentic systems, and emerging applications.</p>
     <td>ImageBind</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2305.05665" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://facebookresearch.github.io/ImageBind" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
 
    
