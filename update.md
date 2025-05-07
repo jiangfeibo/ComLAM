@@ -102,7 +102,7 @@ directions.
 
 <div align="center">
  
-![fig1.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig1.png)
+![fig.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig.png)
 <p align="center">Fig. 1: The development history of LAMs.</p>
 
 </div>
