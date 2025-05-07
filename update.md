@@ -696,3 +696,17 @@ Thank you to all contributors and readers for your support. Special thanks to ev
 |:---	|:---	|:---	|
 | v1 	| 2024/12/09 	| The initial version. 	|
 | v2 	| 2024/12/18 	| Improve the writing.<br>Correct some minor errors. 	|
+| v2 	| 2025/05/07 	| Improve the writing.<br>Correct some minor errors. 	|
+
+## Citation   
+```
+@ARTICLE{,
+  author={JiaFeibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Merouane Debbah, Dusit Niyato, Zhu Han},
+  journal={}, 
+  title={A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={},
+  doi={}}
+```
