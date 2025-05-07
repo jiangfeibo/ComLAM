@@ -192,7 +192,7 @@ communication, agentic systems, and emerging applications.</p>
   </tr>
   <tr align="center">
     <td>CommData-PT dataset</td>
-    <td>2024</td>
+    <td>2025</td>
     <td><a href="https://arxiv.org/abs/2502.18763" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   <tr align="center">
@@ -210,7 +210,7 @@ communication, agentic systems, and emerging applications.</p>
   </tr>
  <tr align="center">
     <td>CommData-FT dataset</td>
-    <td>2024</td>
+    <td>2025</td>
     <td><a href="https://arxiv.org/abs/2502.18763" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
   <tr align="center">
