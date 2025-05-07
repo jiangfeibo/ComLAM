@@ -259,19 +259,19 @@ communication, agentic systems, and emerging applications.</p>
     <td>GPT-3</td>
     <td>2023</td>
     <td><a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-   <td><a href="" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>GPT-4</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2312.00752" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>OpenAI o1</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Gemma series</td>
@@ -284,7 +284,7 @@ communication, agentic systems, and emerging applications.</p>
     <td>Gemma 2</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2408.00118" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/google-deepmind/dangerous-capability-evaluations" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td rowspan=3>LLaMA series</td>
