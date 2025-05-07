@@ -700,7 +700,7 @@ Thank you to all contributors and readers for your support. Special thanks to ev
 
 ## Citation   
 ```
-@ARTICLE{,
+@ARTICLE{
   author={JiaFeibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Merouane Debbah, Dusit Niyato, Zhu Han},
   journal={}, 
   title={A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges}, 
