@@ -330,7 +330,7 @@ communication, agentic systems, and emerging applications.</p>
     <td>LLaMA-3</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2407.21783" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/meta-llama/llama3" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
 
  
