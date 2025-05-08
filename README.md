@@ -318,13 +318,13 @@ communication, agentic systems, and emerging applications.</p>
     <td>LLaMA-1</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2302.13971" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/facebookresearch/llama" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>LLaMA-2</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2307.09288" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/facebookresearch/llama" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>LLaMA-3</td>
