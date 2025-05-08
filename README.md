@@ -670,12 +670,6 @@ communication, agentic systems, and emerging applications.</p>
     <td><a href="https://github.com/YuchenXia/GPT4IndustrialAutomation" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td>GAI models for metaverse</td>
-    <td>Fusion of mixture of experts and generative artificial intelligence in mobile edge metaverse</td>
-    <td><a href="https://arxiv.org/abs/2404.03321" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/alvinliu97/MOEGAI-Metaverse" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
     <td>Smart healthcare</td>
     <td>Conversational health agents: A personalized llm-powered agent framework</td>
     <td><a href="https://arxiv.org/abs/2310.02374" target="_blank" rel="noopener noreferrer">Paper</a></td>
