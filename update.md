@@ -114,10 +114,8 @@ directions.
   <br>Fig. 2: The role of LAMs in AI.
 </p>
 
-<p align="center">
-  <img src="https://github.com/jiangfeibo/ComLAW/blob/main/fig/fig3.png"  width="50%" alt="Fig. 3: Overall organization of the survey." />
-  <br>Fig. 3: Overall organization of the survey.
-</p>
+![fig3.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig3.png)
+<p align="center">Fig. 3: Overall organization of the survey.</p>
 
 ![fig4.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig4.png)
 <p align="center">Fig. 4: Applications of LAMs in Communication. LAMs can be applied across various domains in communication, including
