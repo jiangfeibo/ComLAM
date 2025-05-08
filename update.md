@@ -105,20 +105,14 @@ directions.
   * [The Team](#The-Team)
   * [Acknowledgments](#Acknowledgments)
   * [Update log](#Update-log)
-
-<div align="center">
  
 ![fig.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig.png)
 <p align="center">Fig. 1: The development history of LAMs.</p>
 
-</div>
-
-<div align="center">
 
 ![fig2.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig2.png)
 <p align="center">Fig. 2: The role of LAMs in AI.</p>
 
-</div>
 
 ![fig3.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig3.png)
 <p align="center">Fig. 3: Overall organization of the survey.</p>
