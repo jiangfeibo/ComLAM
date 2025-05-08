@@ -670,12 +670,6 @@ communication, agentic systems, and emerging applications.</p>
     <td><a href="https://github.com/YuchenXia/GPT4IndustrialAutomation" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td>LAMs for digital twin</td>
-    <td>Llm-twin: mini-giant model-driven beyond 5g digital twin networking framework with semantic secure communication and computation</td>
-    <td><a href="https://www.nature.com/articles/s41598-024-69474-5" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/CURRYSGITHUB/LLM-twin/tree/main" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
     <td>GAI models for metaverse</td>
     <td>Fusion of mixture of experts and generative artificial intelligence in mobile edge metaverse</td>
     <td><a href="https://arxiv.org/abs/2404.03321" target="_blank" rel="noopener noreferrer">Paper</a></td>
