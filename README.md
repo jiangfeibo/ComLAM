@@ -623,12 +623,6 @@ communication, agentic systems, and emerging applications.</p>
   </tr>
   <tr align="center">
     <td>Agent systems based on LLMs</td>
-    <td>When large language model agents meet 6g networks: Perception, grounding, and alignment</td>
-    <td><a href="https://ieeexplore.ieee.org/abstract/document/10648594/" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/Cogito2012/CarCrashDatase" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Agent systems based on LLMs</td>
     <td>Large language model enhanced multi-agent systems for 6g communications</td>
     <td><a href="https://ieeexplore.ieee.org/abstract/document/10638533/" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/jiangfeibo/CommLLM.git" target="_blank" rel="noopener noreferrer">Code</a></td>
@@ -644,18 +638,6 @@ communication, agentic systems, and emerging applications.</p>
     <td>Generative ai agent for next-generation mimo design: Fundamentals, challenges, and vision</td>
     <td><a href="https://arxiv.org/abs/2404.08878" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://zhewang77.github.io/GAIMIMO/" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Agent systems based on LLMs</td>
-    <td>Generative ai agents with large language model for satellite networks via a mixture of experts transmission</td>
-    <td><a href="https://ieeexplore.ieee.org/abstract/document/10679152/" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/RickyZang/GAI-agent-satellite" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Network threat detection and defense</td>
-    <td>Multilayered fault detection and localization with transformer for microservice systems</td>
-    <td><a href="https://ieeexplore.ieee.org/abstract/document/10423414/" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/OpenNetAI/Sock-Shop-Dataset" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>LAMs for digital twin</td>
