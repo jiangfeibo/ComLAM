@@ -232,15 +232,8 @@ communication, agentic systems, and emerging applications.</p>
     <td></td>
   </tr>
   <tr align="center">
-    <td rowspan=2>Communication alignment datasets</td>
     <td>Dataset for multi-server multi-user offloading problem dataset</td>
     <td>2024</td>
-    <td></td>
-    <td><a href="https://github.com/qiyu3816/MSMU-CO" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Dataset for multi-server multi-user offloading problem dataset</td>
-    <td>2025</td>
     <td></td>
     <td><a href="https://github.com/qiyu3816/MSMU-CO" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
