@@ -346,7 +346,7 @@ communication, agentic systems, and emerging applications.</p>
     <td>SAM-2</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2408.08315" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/983632847/sam-for-videos" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td rowspan=2>DINO series</td>
