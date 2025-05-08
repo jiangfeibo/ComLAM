@@ -114,7 +114,7 @@ directions.
   <br>Fig. 2: The role of LAMs in AI.
 </p>
 
-![fig3.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig3.png)
+<img src="https://github.com/jiangfeibo/ComLAW/blob/main/fig/fig3.png" alt="Fig. 3: Overall organization of the survey." width="50%" align="center">
 <p align="center">Fig. 3: Overall organization of the survey.</p>
 
 ![fig4.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig4.png)
