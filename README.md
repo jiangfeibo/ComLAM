@@ -557,12 +557,6 @@ communication, agentic systems, and emerging applications.</p>
   </tr>
   <tr align="center">
     <td>Multi-agent system</td>
-    <td>Wirelessagent: Large language model agents for intelligent wireless networks</td>
-    <td><a href="https://arxiv.org/abs/2409.07964" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/weiiguo/wireless-agent" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Multi-agent system</td>
     <td>Large language model enhanced multi-agent systems for 6g communications</td>
     <td><a href="https://ieeexplore.ieee.org/abstract/document/10638533/" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/jiangfeibo/CommLLM" target="_blank" rel="noopener noreferrer">Code</a></td>
