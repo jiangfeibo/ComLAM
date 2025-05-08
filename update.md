@@ -109,10 +109,10 @@ directions.
 ![fig.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig.png)
 <p align="center">Fig. 1: The development history of LAMs.</p>
 
-
-![fig2.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig2.png)
-<p align="center">Fig. 2: The role of LAMs in AI.</p>
-
+<p align="center">
+  <img src="https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig2.png" width="50%" alt="Fig. 2: The role of LAMs in AI." />
+  <br>Fig. 2: The role of LAMs in AI.
+</p>
 
 ![fig3.png](https://github.com/jiangfeibo/ComLAM/blob/main/fig/fig3.png)
 <p align="center">Fig. 3: Overall organization of the survey.</p>
