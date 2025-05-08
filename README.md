@@ -562,12 +562,6 @@ communication, agentic systems, and emerging applications.</p>
     <td><a href="https://github.com/jiangfeibo/CommLLM" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td>Mixture of experts</td>
-    <td>Interactive generative ai agents for satellite networks through a mixture of experts transmission</td>
-    <td><a href="https://arxiv.org/abs/2404.09134" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/RickyZang/GAI-agent-satellite" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
     <td>LLM-assisted physical layer design</td>
     <td>Llm4cp: Adapting large language models for channel prediction</td>
     <td><a href="https://arxiv.org/abs/2406.14440" target="_blank" rel="noopener noreferrer">Paper</a></td>
@@ -590,12 +584,6 @@ communication, agentic systems, and emerging applications.</p>
     <td>Diffusion-based reinforcement learning for edge-enabled ai-generated content services</td>
     <td><a href="https://ieeexplore.ieee.org/abstract/document/10409284" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/Lizonghang/AGOD" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
-    <td>Spectrum resource allocation</td>
-    <td>Interactive generative ai agents for satellite networks through a mixture of experts transmission</td>
-    <td><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240409134Z/abstract" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/RickyZang/GAI-agent-satellite" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Edge training and application of LAMs</td>
