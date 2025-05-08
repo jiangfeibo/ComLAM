@@ -16,6 +16,22 @@ directions.
 * [A Comprehensive Survey of Large AI Models for Communications: Foundations, Applications, and Challenges](#A-Comprehensive-Survey-of-Large-AI-Models-for-Communications-Foundations-Applications-and-Challenges)
   * [Abstract](#Abstract)
   * [Contents](#Contents)
+  * [I. INTRODUCTION](#INTRODUCTION)
+    * [A.Background](#A-Background)
+      * [1) Deep learning-assisted communication](#1-Deep-learning-assisted-communication)
+      * [2) Reinforcement learning-assisted communication](#2-Reinforcement-learning-assisted-communication)
+      * [3) Generative AI-assisted communication](#3-Generative-AI-assisted-communication)
+    * [B. Motivation](#B-Motivation)
+      * [1) Definition](#1-Definition)
+      * [2) Distinction between LAMs and GAIs](#2-Distinction-between-LAMs-and-GAIs)
+      * [3) Distinction between LAMs and pretrained FMs](#3-Distinction-between-LAMs-and-pretrained-FMs)
+    * [C. Related survey work](#C-Related-survey-work)
+      * [1) Limited model coverage](#1-Limited-model-coverage)
+      * [2) Incomplete application landscape](#2-Incomplete-application-landscape)
+    * [D. Contributions](#D-Contributions)
+      * [1) Foundations of LAMs for communications](#1-Foundations-of-LAMs-for-communications)
+      * [2) Applications of LAMs for communications](#2-Applications-of-LAMs-for-communications)
+      * [3) Research challenges of LAMs for communications](#3-Research-challenges-of-LAMs-for-communications)
   * [II. FOUNDATIONS OF LAMS FOR COMMUNICATIONS](#III-FOUNDATIONS-OF-LAMS-FOR-COMMUNICATIONS)
     * [A. Key architecture of LAMs](#A-Key-architecture-of-LAMs)
       * [1) Transformer model](#1-Transformer-model)
@@ -225,7 +241,7 @@ communication, agentic systems, and emerging applications.</p>
     <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
   <tr align="center">
-    <td rowspan=1>Communication alignment datasets</td>
+    <td rowspan=2>Communication alignment datasets</td>
     <td>TelecomAlign dataset</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2407.09424" target="_blank" rel="noopener noreferrer">Paper</a></td>
