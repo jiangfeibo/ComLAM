@@ -694,13 +694,21 @@ Thank you to all contributors and readers for your support. Special thanks to ev
 
 ## Citation   
 ```
-@ARTICLE{
-  author={JiaFeibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Merouane Debbah, Dusit Niyato, Zhu Han},
-  journal={}, 
-  title={A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={},
-  doi={}}
+ @ARTICLE{2025arXiv250503556J,
+       author = {JiaFeibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Merouane Debbah, Dusit Niyato, Zhu Han},
+        title = "{A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges}",
+      journal = {arXiv e-prints},
+     keywords = {Information Theory},
+         year = {2025},
+        month = {may},
+          eid = {arXiv:2505.03556},
+        pages = {arXiv:2505.03556},
+archivePrefix = {arXiv},
+       eprint = {2505.03556},
+ primaryClass = {math.IT},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2025arXiv250503556J},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
 ```
