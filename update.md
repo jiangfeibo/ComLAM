@@ -696,7 +696,7 @@ Thank you to all contributors and readers for your support. Special thanks to ev
 |:---	|:---	|:---	|
 | v1 	| 2024/12/09 	| The initial version. 	|
 | v2 	| 2024/12/18 	| Improve the writing.<br>Correct some minor errors. 	|
-| v2 	| 2025/05/07 	| Improve the writing.<br>Correct some minor errors. 	|
+| v3 	| 2025/05/07 	| Improve the writing.<br>Correct some minor errors. 	|
 
 ## Citation   
 ```
