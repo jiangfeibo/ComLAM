@@ -450,7 +450,7 @@ communication, agentic systems, and emerging applications.</p>
     <td>Sora</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2402.17177" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/lichao-sun/SoraReview" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
   <tr align="center">
      <td>JEPA</td>
@@ -494,18 +494,12 @@ communication, agentic systems, and emerging applications.</p>
 
   <tr align="center">
     <td rowspan=3>Large Reasoning Model</td>
-     <td>Mixtral</td>
-     <td>Mixtral</td>
-     <td>2024</td>
-     <td><a href="https://arxiv.org/abs/2401.04088" target="_blank" rel="noopener noreferrer">Paper</a></td>
-     <td><a href="https://github.com/mistralai/mistral-inference" target="_blank" rel="noopener noreferrer">Code</a></td>
-   </tr>
    <tr align="center">
     <td>OpenAI o3-mini</td>
     <td>OpenAI o3-mini</td>
     <td>2025</td>
     <td><a href="https://arxiv.org/abs/2501.17749" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/Trust4AI/ASTRAL" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
    <tr align="center">
      <td>DeepSeek</td>
@@ -730,7 +724,7 @@ Thank you to all contributors and readers for your support. Special thanks to ev
  @ARTICLE{2025arXiv250503556J,
       title = "{A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges}",
       author = {JiaFeibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Merouane Debbah, Dusit Niyato, Zhu Han},
-      journal = {arXiv e-prints},
+      journal = {arXiv preprint arXiv:2505.03556v1},
       year = {2025}
 }
 
