@@ -198,6 +198,18 @@ communication, agentic systems, and emerging applications.</p>
     <td><a href="https://arxiv.org/abs/2502.18763" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="" target="_blank" rel="noopener noreferrer"></a></td>
   <tr align="center">
+    <td>TSpec-LLM dataset</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/abs/2406.01768" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://huggingface.co/datasets/rasoul-nikbakht/TSpec-LLM" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
+    <td>Tele-Data dataset</td>
+    <td>2024</td>
+    <td><a href="https://arxiv.org/abs/2409.05314" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://huggingface.co/datasets/AliMaatouk/Tele-Data" target="_blank" rel="noopener noreferrer">Code</a></td>
+  </tr>
+  <tr align="center">
     <td rowspan=3>Communication fine-tuning datasets</td>
     <td>TelecomInstruct dataset</td>
     <td>2024</td>
@@ -220,6 +232,14 @@ communication, agentic systems, and emerging applications.</p>
     <td>TelecomAlign dataset</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2407.09424" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td rowspan=1>Communication alignment datasets</td>
+    <td>Dataset for multi-server multi-user offloading problem dataset</td>
+    <td>2024</td>
+    <td></td>
+    <td><a href="https://github.com/qiyu3816/MSMU-CO" target="_blank" rel="noopener noreferrer">Code</a></td>
     <td></td>
   </tr>
 </tbody></table>
