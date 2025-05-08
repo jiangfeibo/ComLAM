@@ -658,12 +658,6 @@ communication, agentic systems, and emerging applications.</p>
     <td><a href="https://github.com/OpenNetAI/Sock-Shop-Dataset" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
-    <td>Network threat detection and defense</td>
-    <td>Securefalcon: The next cyber reasoning system for cyber security</td>
-    <td><a href="https://arxiv.org/abs/2307.06616" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/features/copilot/" target="_blank" rel="noopener noreferrer">Code</a></td>
-  </tr>
-  <tr align="center">
     <td>LAMs for digital twin</td>
     <td>Towards autonomous system: flexible modular production system enhanced with large language model agents</td>
     <td><a href="https://ieeexplore.ieee.org/abstract/document/10275362/" target="_blank" rel="noopener noreferrer">Paper</a></td>
