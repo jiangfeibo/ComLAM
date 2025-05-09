@@ -340,13 +340,13 @@ communication, agentic systems, and emerging applications.</p>
     <td>SAM-1</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2304.02643" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://github.com/facebookresearch/segment-anything" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>SAM-2</td>
     <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2408.08315" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://arxiv.org/abs/2408.08315" target="_blank" rel="noopener noreferrer">Paper</a></td>https://github.com/facebookresearch/sam2
+    <td><a href="https://github.com/facebookresearch/sam2" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td rowspan=2>DINO series</td>
