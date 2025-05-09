@@ -371,7 +371,7 @@ communication, agentic systems, and emerging applications.</p>
   <tr align="center">
     <td>Stable Diffusion V2</td>
     <td>2022</td>
-    <td><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://doi.org/10.48550/arxiv.2204.11824" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td><a href="https://github.com/Stability-AI/stablediffusion" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
