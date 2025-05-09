@@ -274,6 +274,7 @@ communication, agentic systems, and emerging applications.</p>
     <td>GPT-1</td>
     <td>2020</td>
     <td><a href="https://hayate-lab.com/wp-content/uploads/2023/05/43372bfa750340059ad87ac8e538c53b.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://huggingface.co/docs/transformers/model_doc/openai-gpt" target="_blank" rel="noopener noreferrer">Code</a></td>
     <td></td>
   </tr>
   <tr align="center">
@@ -297,7 +298,8 @@ communication, agentic systems, and emerging applications.</p>
   <tr align="center">
     <td>OpenAI o1</td>
     <td>2024</td>
-    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://cdn.openai.com/o1-system-card.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/Open-Source-O1/Open-O1" target="_blank" rel="noopener noreferrer">Code</a></td>
     <td></td>
   </tr>
   <tr align="center">
