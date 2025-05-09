@@ -426,7 +426,7 @@ communication, agentic systems, and emerging applications.</p>
     <td>CoDi-2</td>
     <td>2024</td>
     <td><a href="http://openaccess.thecvf.com/content/CVPR2024/html/Tang_CoDi-2_In-Context_Interleaved_and_Interactive_Any-to-Any_Generation_CVPR_2024_paper.html" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://github.com/microsoft/i-Code/tree/main/CoDi-2" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Meta-Transformer</td>
@@ -474,7 +474,7 @@ communication, agentic systems, and emerging applications.</p>
     <td>TinyLlama</td>
     <td>2024</td>
     <td><a href="https://arxiv.org/abs/2401.02385" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td></td>
+    <td><a href="https://github.com/jzhang38/TinyLlama" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
      <td>MobileVLM</td>
