@@ -654,8 +654,8 @@ Here is the list of our student contributors in each section.
 
 
 
-## Acknowledgments
-Thank you to all contributors and readers for your support. Special thanks to everyone who helped with development, testing, and provided feedback. Your contributions made this project possible.
+## Contact Information for Source Code Submission or Update
+If you intend to add or update the source code in the repository, please contact the following email addresses: jiangfb@hunnu.edu.cn, Dlj2017@hunnu.edu.cn, 240620854087@stu.hutb.edu.cn and 240620854065@stu.hutb.edu.cn.
 
 
 ## Update Log
