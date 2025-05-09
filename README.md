@@ -339,7 +339,7 @@ communication, agentic systems, and emerging applications.</p>
     <td rowspan=2>SAM series</td>
     <td>SAM-1</td>
     <td>2023</td>
-    <td><a href="https://ieeexplore.ieee.org/abstract/document/10378323/" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2304.02643" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td></td>
   </tr>
   <tr align="center">
