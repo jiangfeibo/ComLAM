@@ -286,7 +286,7 @@ communication, agentic systems, and emerging applications.</p>
     <td>GPT-3</td>
     <td>2023</td>
     <td><a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-   </td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>GPT-4</td>
@@ -298,7 +298,7 @@ communication, agentic systems, and emerging applications.</p>
     <td>OpenAI o1</td>
     <td>2024</td>
     <td><a href="https://cdn.openai.com/o1-system-card.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://www.github.com/openai/simple-evals" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td rowspan=2>Gemma series</td>
