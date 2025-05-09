@@ -287,6 +287,7 @@ communication, agentic systems, and emerging applications.</p>
     <td>GPT-3</td>
     <td>2023</td>
     <td><a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://github.com/openai/gpt-3?tab=readme-ov-file" target="_blank" rel="noopener noreferrer">Code</a></td>
     <td></td>
   </tr>
   <tr align="center">
