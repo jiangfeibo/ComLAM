@@ -291,7 +291,7 @@ communication, agentic systems, and emerging applications.</p>
   <tr align="center">
     <td>GPT-4</td>
     <td>2023</td>
-    <td><a href="https://arxiv.org/abs/2312.00752" target="_blank" rel="noopener noreferrer">Paper</a></td>
+    <td><a href="https://arxiv.org/abs/2303.08774" target="_blank" rel="noopener noreferrer">Paper</a></td>
     <td></td>
   </tr>
   <tr align="center">
