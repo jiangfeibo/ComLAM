@@ -464,7 +464,7 @@ communication, agentic systems, and emerging applications.</p>
      <td>Vista</td>
      <td>2024</td>
      <td><a href="https://arxiv.org/abs/2405.17398" target="_blank" rel="noopener noreferrer">Paper</a></td>
-     <td></td>
+     <td><a href="https://github.com/opendrivelab/vista" target="_blank" rel="noopener noreferrer">Code</a></td>
    </tr>
 
 
