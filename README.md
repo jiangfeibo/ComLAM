@@ -396,13 +396,13 @@ communication, agentic systems, and emerging applications.</p>
     <td> Qwen-VL</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2308.12966" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/QwenLM/Qwen-VL" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="https://huggingface.co/Qwen/Qwen-VL/tree/main" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Qwen-VL-Chat</td>
     <td>2023</td>
     <td><a href="https://arxiv.org/abs/2308.12966" target="_blank" rel="noopener noreferrer">Paper</a></td>
-    <td><a href="https://github.com/QwenLM/Qwen-VL" target="_blank" rel="noopener noreferrer">Code</a></td>
+    <td><a href="https://huggingface.co/Qwen/Qwen-VL-Chat/tree/main" target="_blank" rel="noopener noreferrer">Code</a></td>
   </tr>
   <tr align="center">
     <td>Mini-GPT4</td>
