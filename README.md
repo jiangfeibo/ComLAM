@@ -669,7 +669,7 @@ If you intend to add or update the source code in the repository, please contact
 ```
  @ARTICLE{2025arXiv250503556J,
       title = {A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges},
-      author = {JiaFeibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Merouane Debbah, Dusit Niyato, Zhu Han},
+      author = {Feibo Jiang, Cunhua Pan, Li Dong, Kezhi Wang, Merouane Debbah, Dusit Niyato, Zhu Han},
       journal = {arXiv preprint arXiv:2505.03556v1},
       year = {2025}
 }
